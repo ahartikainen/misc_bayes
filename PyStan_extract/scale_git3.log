@@ -1,0 +1,4711 @@
+INFO:pystan:COMPILING THE C++ CODE FOR MODEL anon_model_1c2fbd157aece49e5e6c202bc12ed019 NOW.
+Starting: 2018-11-10 10:57:04.183028
+/l/samsung/aohartik/miniconda3/envs/stan2/lib/python3.7/site-packages/Cython/Compiler/Main.py:367: FutureWarning: Cython directive 'language_level' not set, using 2 for now (Py2). This will change in a later release! File: /tmp/tmpwi7ncjza/stanfit4anon_model_1c2fbd157aece49e5e6c202bc12ed019_3523426870039392321.pyx
+  tree = Parsing.p_module(s, pxd, full_module_name)
+
+
+Gradient evaluation took 7.1e-05 seconds
+
+
+1000 transitions using 10 leapfrog steps per transition would take 0.71 seconds.
+Adjust your expectations accordingly!
+
+
+Gradient evaluation took 2.8e-05 seconds
+1000 transitions using 10 leapfrog steps per transition would take 0.28 seconds.
+Adjust your expectations accordingly!
+
+
+Gradient evaluation took 2.5e-05 seconds
+Gradient evaluation took 2.7e-05 seconds
+1000 transitions using 10 leapfrog steps per transition would take 0.25 seconds.
+Adjust your expectations accordingly!
+1000 transitions using 10 leapfrog steps per transition would take 0.27 seconds.
+
+Adjust your expectations accordingly!
+
+
+
+Iteration:    1 / 2000 [  0%]  (Warmup)
+Iteration:    1 / 2000 [  0%]  (Warmup)
+Iteration:    1 / 2000 [  0%]  (Warmup)
+Iteration:    1 / 2000 [  0%]  (Warmup)
+Iteration:  200 / 2000 [ 10%]  (Warmup)
+Iteration:  200 / 2000 [ 10%]  (Warmup)
+Iteration:  200 / 2000 [ 10%]  (Warmup)
+Iteration:  200 / 2000 [ 10%]  (Warmup)
+Iteration:  400 / 2000 [ 20%]  (Warmup)
+Iteration:  400 / 2000 [ 20%]  (Warmup)
+Iteration:  400 / 2000 [ 20%]  (Warmup)
+Iteration:  600 / 2000 [ 30%]  (Warmup)
+Iteration:  400 / 2000 [ 20%]  (Warmup)
+Iteration:  600 / 2000 [ 30%]  (Warmup)
+Iteration:  600 / 2000 [ 30%]  (Warmup)
+Iteration:  800 / 2000 [ 40%]  (Warmup)
+Iteration:  800 / 2000 [ 40%]  (Warmup)
+Iteration:  600 / 2000 [ 30%]  (Warmup)
+Iteration: 1000 / 2000 [ 50%]  (Warmup)
+Iteration: 1001 / 2000 [ 50%]  (Sampling)
+Iteration: 1000 / 2000 [ 50%]  (Warmup)
+Iteration: 1001 / 2000 [ 50%]  (Sampling)
+Iteration:  800 / 2000 [ 40%]  (Warmup)
+Iteration: 1200 / 2000 [ 60%]  (Sampling)
+Iteration: 1200 / 2000 [ 60%]  (Sampling)
+Iteration:  800 / 2000 [ 40%]  (Warmup)
+Iteration: 1400 / 2000 [ 70%]  (Sampling)
+Iteration: 1400 / 2000 [ 70%]  (Sampling)
+Iteration: 1600 / 2000 [ 80%]  (Sampling)
+Iteration: 1000 / 2000 [ 50%]  (Warmup)
+Iteration: 1001 / 2000 [ 50%]  (Sampling)
+Iteration: 1600 / 2000 [ 80%]  (Sampling)
+Iteration: 1000 / 2000 [ 50%]  (Warmup)
+Iteration: 1001 / 2000 [ 50%]  (Sampling)
+Iteration: 1800 / 2000 [ 90%]  (Sampling)
+Iteration: 1800 / 2000 [ 90%]  (Sampling)
+Iteration: 2000 / 2000 [100%]  (Sampling)
+
+ Elapsed Time: 0.057281 seconds (Warm-up)
+               0.021502 seconds (Sampling)
+               0.078783 seconds (Total)
+
+Iteration: 1200 / 2000 [ 60%]  (Sampling)
+Iteration: 1200 / 2000 [ 60%]  (Sampling)
+Iteration: 2000 / 2000 [100%]  (Sampling)
+
+ Elapsed Time: 0.0571 seconds (Warm-up)
+               0.024211 seconds (Sampling)
+               0.081311 seconds (Total)
+
+Iteration: 1400 / 2000 [ 70%]  (Sampling)
+Iteration: 1400 / 2000 [ 70%]  (Sampling)
+Iteration: 1600 / 2000 [ 80%]  (Sampling)
+Iteration: 1600 / 2000 [ 80%]  (Sampling)
+Iteration: 1800 / 2000 [ 90%]  (Sampling)
+Iteration: 1800 / 2000 [ 90%]  (Sampling)
+Iteration: 2000 / 2000 [100%]  (Sampling)
+
+ Elapsed Time: 0.07301 seconds (Warm-up)
+               0.032548 seconds (Sampling)
+               0.105558 seconds (Total)
+
+Iteration: 2000 / 2000 [100%]  (Sampling)
+
+ Elapsed Time: 0.071526 seconds (Warm-up)
+               0.035447 seconds (Sampling)
+               0.106973 seconds (Total)
+
+10 100 1000
+scale_stan.py:39: UserWarning: Pickling fit objects is an experimental feature!
+The relevant StanModel instance must be pickled along with this fit object.
+When unpickling the StanModel must be unpickled first.
+  pickle.dump([ref_fit, ref_permuted, ref_not_permuted, ref_array], f)
+
+
+
+Gradient evaluation took 2.2e-05 seconds
+Gradient evaluation took 2.2e-05 seconds
+Gradient evaluation took 2.1e-05 seconds
+1000 transitions using 10 leapfrog steps per transition would take 0.22 seconds.
+1000 transitions using 10 leapfrog steps per transition would take 0.22 seconds.
+1000 transitions using 10 leapfrog steps per transition would take 0.21 seconds.
+Adjust your expectations accordingly!
+Adjust your expectations accordingly!
+
+Adjust your expectations accordingly!
+
+
+
+
+
+
+Gradient evaluation took 1.9e-05 seconds
+1000 transitions using 10 leapfrog steps per transition would take 0.19 seconds.
+Adjust your expectations accordingly!
+
+
+WARNING: There aren't enough warmup iterations to fit the
+WARNING: There aren't enough warmup iterations to fit the
+WARNING: There aren't enough warmup iterations to fit the
+         three stages of adaptation as currently configured.
+         three stages of adaptation as currently configured.
+         three stages of adaptation as currently configured.
+         Reducing each adaptation stage to 15%/75%/10% of
+         Reducing each adaptation stage to 15%/75%/10% of
+         Reducing each adaptation stage to 15%/75%/10% of
+WARNING: There aren't enough warmup iterations to fit the
+         the given number of warmup iterations:
+         the given number of warmup iterations:
+         the given number of warmup iterations:
+         three stages of adaptation as currently configured.
+           init_buffer = 7
+           init_buffer = 7
+           init_buffer = 7
+         Reducing each adaptation stage to 15%/75%/10% of
+           adapt_window = 38
+           adapt_window = 38
+           adapt_window = 38
+         the given number of warmup iterations:
+           term_buffer = 5
+           term_buffer = 5
+           term_buffer = 5
+
+           init_buffer = 7
+
+
+           adapt_window = 38
+           term_buffer = 5
+
+Iteration:  1 / 100 [  1%]  (Warmup)
+Iteration:  1 / 100 [  1%]  (Warmup)
+Iteration:  1 / 100 [  1%]  (Warmup)
+Iteration:  1 / 100 [  1%]  (Warmup)
+Iteration: 10 / 100 [ 10%]  (Warmup)
+Iteration: 10 / 100 [ 10%]  (Warmup)
+Iteration: 10 / 100 [ 10%]  (Warmup)
+Iteration: 10 / 100 [ 10%]  (Warmup)
+Iteration: 20 / 100 [ 20%]  (Warmup)
+Iteration: 20 / 100 [ 20%]  (Warmup)
+Iteration: 20 / 100 [ 20%]  (Warmup)
+Iteration: 20 / 100 [ 20%]  (Warmup)
+Iteration: 30 / 100 [ 30%]  (Warmup)
+Iteration: 30 / 100 [ 30%]  (Warmup)
+Iteration: 40 / 100 [ 40%]  (Warmup)
+Iteration: 30 / 100 [ 30%]  (Warmup)
+Iteration: 50 / 100 [ 50%]  (Warmup)
+Iteration: 51 / 100 [ 51%]  (Sampling)
+Iteration: 40 / 100 [ 40%]  (Warmup)
+Iteration: 60 / 100 [ 60%]  (Sampling)
+Iteration: 50 / 100 [ 50%]  (Warmup)
+Iteration: 51 / 100 [ 51%]  (Sampling)
+Iteration: 30 / 100 [ 30%]  (Warmup)
+Iteration: 70 / 100 [ 70%]  (Sampling)
+Iteration: 60 / 100 [ 60%]  (Sampling)
+Iteration: 40 / 100 [ 40%]  (Warmup)
+Iteration: 40 / 100 [ 40%]  (Warmup)
+Iteration: 80 / 100 [ 80%]  (Sampling)
+Iteration: 70 / 100 [ 70%]  (Sampling)
+Iteration: 90 / 100 [ 90%]  (Sampling)
+Iteration: 80 / 100 [ 80%]  (Sampling)
+Iteration: 100 / 100 [100%]  (Sampling)
+
+ Elapsed Time: 0.005384 seconds (Warm-up)
+Iteration: 90 / 100 [ 90%]  (Sampling)
+               0.001646 seconds (Sampling)
+               0.00703 seconds (Total)
+
+Iteration: 100 / 100 [100%]  (Sampling)
+
+ Elapsed Time: 0.005736 seconds (Warm-up)
+               0.001585 seconds (Sampling)
+               0.007321 seconds (Total)
+
+Iteration: 50 / 100 [ 50%]  (Warmup)
+Iteration: 51 / 100 [ 51%]  (Sampling)
+Iteration: 60 / 100 [ 60%]  (Sampling)
+Iteration: 70 / 100 [ 70%]  (Sampling)
+Iteration: 80 / 100 [ 80%]  (Sampling)
+Iteration: 90 / 100 [ 90%]  (Sampling)
+Iteration: 100 / 100 [100%]  (Sampling)
+
+ Elapsed Time: 0.007773 seconds (Warm-up)
+               0.001974 seconds (Sampling)
+               0.009747 seconds (Total)
+
+Iteration: 50 / 100 [ 50%]  (Warmup)
+Iteration: 51 / 100 [ 51%]  (Sampling)
+Iteration: 60 / 100 [ 60%]  (Sampling)
+Iteration: 70 / 100 [ 70%]  (Sampling)
+Iteration: 80 / 100 [ 80%]  (Sampling)
+Iteration: 90 / 100 [ 90%]  (Sampling)
+Iteration: 100 / 100 [100%]  (Sampling)
+
+ Elapsed Time: 0.011164 seconds (Warm-up)
+               0.001006 seconds (Sampling)
+               0.01217 seconds (Total)
+
+permuted  :::  0.1481813279679045
+not_permuted  :::  0.07747097499668598
+array  :::  0.07075327396159992
+10 500 1000
+
+
+Gradient evaluation took 1e-05 seconds
+1000 transitions using 10 leapfrog steps per transition would take 0.1 seconds.
+Adjust your expectations accordingly!
+
+
+Gradient evaluation took 1.1e-05 seconds
+1000 transitions using 10 leapfrog steps per transition would take 0.11 seconds.
+Adjust your expectations accordingly!
+
+
+
+
+Iteration:   1 / 500 [  0%]  (Warmup)
+Gradient evaluation took 1.3e-05 seconds
+Gradient evaluation took 1.4e-05 seconds
+1000 transitions using 10 leapfrog steps per transition would take 0.13 seconds.
+1000 transitions using 10 leapfrog steps per transition would take 0.14 seconds.
+Adjust your expectations accordingly!
+Adjust your expectations accordingly!
+
+
+
+Iteration:   1 / 500 [  0%]  (Warmup)
+
+Iteration:   1 / 500 [  0%]  (Warmup)
+Iteration:   1 / 500 [  0%]  (Warmup)
+Iteration:  50 / 500 [ 10%]  (Warmup)
+Iteration:  50 / 500 [ 10%]  (Warmup)
+Iteration:  50 / 500 [ 10%]  (Warmup)
+Iteration: 100 / 500 [ 20%]  (Warmup)
+Iteration:  50 / 500 [ 10%]  (Warmup)
+Iteration: 150 / 500 [ 30%]  (Warmup)
+Iteration: 200 / 500 [ 40%]  (Warmup)
+Iteration: 250 / 500 [ 50%]  (Warmup)
+Iteration: 251 / 500 [ 50%]  (Sampling)
+Iteration: 300 / 500 [ 60%]  (Sampling)
+Iteration: 350 / 500 [ 70%]  (Sampling)
+Iteration: 100 / 500 [ 20%]  (Warmup)
+Iteration: 400 / 500 [ 80%]  (Sampling)
+Iteration: 450 / 500 [ 90%]  (Sampling)
+Iteration: 150 / 500 [ 30%]  (Warmup)
+Iteration: 500 / 500 [100%]  (Sampling)
+
+ Elapsed Time: 0.018607 seconds (Warm-up)
+               0.006183 seconds (Sampling)
+               0.02479 seconds (Total)
+
+Iteration: 200 / 500 [ 40%]  (Warmup)
+Iteration: 250 / 500 [ 50%]  (Warmup)
+Iteration: 251 / 500 [ 50%]  (Sampling)
+Iteration: 100 / 500 [ 20%]  (Warmup)
+Iteration: 300 / 500 [ 60%]  (Sampling)
+Iteration: 350 / 500 [ 70%]  (Sampling)
+Iteration: 400 / 500 [ 80%]  (Sampling)
+Iteration: 450 / 500 [ 90%]  (Sampling)
+Iteration: 100 / 500 [ 20%]  (Warmup)
+Iteration: 500 / 500 [100%]  (Sampling)
+
+ Elapsed Time: 0.028251 seconds (Warm-up)
+               0.008843 seconds (Sampling)
+               0.037094 seconds (Total)
+
+Iteration: 150 / 500 [ 30%]  (Warmup)
+Iteration: 200 / 500 [ 40%]  (Warmup)
+Iteration: 150 / 500 [ 30%]  (Warmup)
+Iteration: 250 / 500 [ 50%]  (Warmup)
+Iteration: 251 / 500 [ 50%]  (Sampling)
+Iteration: 200 / 500 [ 40%]  (Warmup)
+Iteration: 300 / 500 [ 60%]  (Sampling)
+Iteration: 350 / 500 [ 70%]  (Sampling)
+Iteration: 250 / 500 [ 50%]  (Warmup)
+Iteration: 251 / 500 [ 50%]  (Sampling)
+Iteration: 400 / 500 [ 80%]  (Sampling)
+Iteration: 450 / 500 [ 90%]  (Sampling)
+Iteration: 300 / 500 [ 60%]  (Sampling)
+Iteration: 500 / 500 [100%]  (Sampling)
+
+ Elapsed Time: 0.041596 seconds (Warm-up)
+               0.008052 seconds (Sampling)
+               0.049648 seconds (Total)
+
+Iteration: 350 / 500 [ 70%]  (Sampling)
+Iteration: 400 / 500 [ 80%]  (Sampling)
+Iteration: 450 / 500 [ 90%]  (Sampling)
+Iteration: 500 / 500 [100%]  (Sampling)
+
+ Elapsed Time: 0.046271 seconds (Warm-up)
+               0.010548 seconds (Sampling)
+               0.056819 seconds (Total)
+
+permuted  :::  0.28996056999312714
+not_permuted  :::  0.14193484297720715
+array  :::  0.10008168796775863
+10 1000 1000
+
+Gradient evaluation took 1.7e-05 seconds
+1000 transitions using 10 leapfrog steps per transition would take 0.17 seconds.
+Adjust your expectations accordingly!
+
+
+
+Gradient evaluation took 1.7e-05 seconds
+1000 transitions using 10 leapfrog steps per transition would take 0.17 seconds.
+Adjust your expectations accordingly!
+
+
+Iteration:   1 / 1000 [  0%]  (Warmup)
+
+Gradient evaluation took 1.7e-05 seconds
+1000 transitions using 10 leapfrog steps per transition would take 0.17 seconds.
+Adjust your expectations accordingly!
+
+
+Iteration:   1 / 1000 [  0%]  (Warmup)
+Iteration:   1 / 1000 [  0%]  (Warmup)
+
+Gradient evaluation took 1.9e-05 seconds
+1000 transitions using 10 leapfrog steps per transition would take 0.19 seconds.
+Adjust your expectations accordingly!
+
+
+Iteration:   1 / 1000 [  0%]  (Warmup)
+Iteration: 100 / 1000 [ 10%]  (Warmup)
+Iteration: 100 / 1000 [ 10%]  (Warmup)
+Iteration: 100 / 1000 [ 10%]  (Warmup)
+Iteration: 200 / 1000 [ 20%]  (Warmup)
+Iteration: 100 / 1000 [ 10%]  (Warmup)
+Iteration: 200 / 1000 [ 20%]  (Warmup)
+Iteration: 200 / 1000 [ 20%]  (Warmup)
+Iteration: 300 / 1000 [ 30%]  (Warmup)
+Iteration: 200 / 1000 [ 20%]  (Warmup)
+Iteration: 300 / 1000 [ 30%]  (Warmup)
+Iteration: 400 / 1000 [ 40%]  (Warmup)
+Iteration: 300 / 1000 [ 30%]  (Warmup)
+Iteration: 300 / 1000 [ 30%]  (Warmup)
+Iteration: 500 / 1000 [ 50%]  (Warmup)
+Iteration: 400 / 1000 [ 40%]  (Warmup)
+Iteration: 501 / 1000 [ 50%]  (Sampling)
+Iteration: 400 / 1000 [ 40%]  (Warmup)
+Iteration: 400 / 1000 [ 40%]  (Warmup)
+Iteration: 600 / 1000 [ 60%]  (Sampling)
+Iteration: 500 / 1000 [ 50%]  (Warmup)
+Iteration: 501 / 1000 [ 50%]  (Sampling)
+Iteration: 700 / 1000 [ 70%]  (Sampling)
+Iteration: 500 / 1000 [ 50%]  (Warmup)
+Iteration: 501 / 1000 [ 50%]  (Sampling)
+Iteration: 500 / 1000 [ 50%]  (Warmup)
+Iteration: 501 / 1000 [ 50%]  (Sampling)
+Iteration: 600 / 1000 [ 60%]  (Sampling)
+Iteration: 800 / 1000 [ 80%]  (Sampling)
+Iteration: 600 / 1000 [ 60%]  (Sampling)
+Iteration: 700 / 1000 [ 70%]  (Sampling)
+Iteration: 600 / 1000 [ 60%]  (Sampling)
+Iteration: 900 / 1000 [ 90%]  (Sampling)
+Iteration: 700 / 1000 [ 70%]  (Sampling)
+Iteration: 800 / 1000 [ 80%]  (Sampling)
+Iteration: 700 / 1000 [ 70%]  (Sampling)
+Iteration: 1000 / 1000 [100%]  (Sampling)
+
+ Elapsed Time: 0.035163 seconds (Warm-up)
+               0.016256 seconds (Sampling)
+               0.051419 seconds (Total)
+
+Iteration: 800 / 1000 [ 80%]  (Sampling)
+Iteration: 900 / 1000 [ 90%]  (Sampling)
+Iteration: 800 / 1000 [ 80%]  (Sampling)
+Iteration: 900 / 1000 [ 90%]  (Sampling)
+Iteration: 1000 / 1000 [100%]  (Sampling)
+
+ Elapsed Time: 0.038859 seconds (Warm-up)
+               0.017385 seconds (Sampling)
+               0.056244 seconds (Total)
+
+Iteration: 1000 / 1000 [100%]  (Sampling)
+Iteration: 900 / 1000 [ 90%]  (Sampling)
+
+ Elapsed Time: 0.041487 seconds (Warm-up)
+               0.01721 seconds (Sampling)
+               0.058697 seconds (Total)
+
+Iteration: 1000 / 1000 [100%]  (Sampling)
+
+ Elapsed Time: 0.04265 seconds (Warm-up)
+               0.020039 seconds (Sampling)
+               0.062689 seconds (Total)
+
+permuted  :::  0.2971492430078797
+not_permuted  :::  0.1239026349503547
+array  :::  0.1154647590010427
+10 1500 1000
+
+
+Gradient evaluation took 1.9e-05 seconds
+Gradient evaluation took 1.5e-05 seconds
+1000 transitions using 10 leapfrog steps per transition would take 0.19 seconds.
+1000 transitions using 10 leapfrog steps per transition would take 0.15 seconds.
+Adjust your expectations accordingly!
+Adjust your expectations accordingly!
+
+
+
+
+Iteration:    1 / 1500 [  0%]  (Warmup)
+Iteration:    1 / 1500 [  0%]  (Warmup)
+
+Gradient evaluation took 1.6e-05 seconds
+1000 transitions using 10 leapfrog steps per transition would take 0.16 seconds.
+Adjust your expectations accordingly!
+
+
+
+Iteration:    1 / 1500 [  0%]  (Warmup)
+Gradient evaluation took 2.1e-05 seconds
+1000 transitions using 10 leapfrog steps per transition would take 0.21 seconds.
+Adjust your expectations accordingly!
+
+
+Iteration:    1 / 1500 [  0%]  (Warmup)
+Iteration:  150 / 1500 [ 10%]  (Warmup)
+Iteration:  150 / 1500 [ 10%]  (Warmup)
+Iteration:  150 / 1500 [ 10%]  (Warmup)
+Iteration:  150 / 1500 [ 10%]  (Warmup)
+Iteration:  300 / 1500 [ 20%]  (Warmup)
+Iteration:  300 / 1500 [ 20%]  (Warmup)
+Iteration:  300 / 1500 [ 20%]  (Warmup)
+Iteration:  450 / 1500 [ 30%]  (Warmup)
+Iteration:  300 / 1500 [ 20%]  (Warmup)
+Iteration:  450 / 1500 [ 30%]  (Warmup)
+Iteration:  450 / 1500 [ 30%]  (Warmup)
+Iteration:  450 / 1500 [ 30%]  (Warmup)
+Iteration:  600 / 1500 [ 40%]  (Warmup)
+Iteration:  600 / 1500 [ 40%]  (Warmup)
+Iteration:  600 / 1500 [ 40%]  (Warmup)
+Iteration:  600 / 1500 [ 40%]  (Warmup)
+Iteration:  750 / 1500 [ 50%]  (Warmup)
+Iteration:  751 / 1500 [ 50%]  (Sampling)
+Iteration:  750 / 1500 [ 50%]  (Warmup)
+Iteration:  751 / 1500 [ 50%]  (Sampling)
+Iteration:  900 / 1500 [ 60%]  (Sampling)
+Iteration:  750 / 1500 [ 50%]  (Warmup)
+Iteration:  751 / 1500 [ 50%]  (Sampling)
+Iteration:  750 / 1500 [ 50%]  (Warmup)
+Iteration:  751 / 1500 [ 50%]  (Sampling)
+Iteration:  900 / 1500 [ 60%]  (Sampling)
+Iteration: 1050 / 1500 [ 70%]  (Sampling)
+Iteration:  900 / 1500 [ 60%]  (Sampling)
+Iteration:  900 / 1500 [ 60%]  (Sampling)
+Iteration: 1050 / 1500 [ 70%]  (Sampling)
+Iteration: 1200 / 1500 [ 80%]  (Sampling)
+Iteration: 1050 / 1500 [ 70%]  (Sampling)
+Iteration: 1050 / 1500 [ 70%]  (Sampling)
+Iteration: 1200 / 1500 [ 80%]  (Sampling)
+Iteration: 1350 / 1500 [ 90%]  (Sampling)
+Iteration: 1200 / 1500 [ 80%]  (Sampling)
+Iteration: 1200 / 1500 [ 80%]  (Sampling)
+Iteration: 1500 / 1500 [100%]  (Sampling)
+
+ Elapsed Time: 0.045247 seconds (Warm-up)
+               0.02256 seconds (Sampling)
+               0.067807 seconds (Total)
+
+Iteration: 1350 / 1500 [ 90%]  (Sampling)
+Iteration: 1350 / 1500 [ 90%]  (Sampling)
+Iteration: 1350 / 1500 [ 90%]  (Sampling)
+Iteration: 1500 / 1500 [100%]  (Sampling)
+
+ Elapsed Time: 0.045474 seconds (Warm-up)
+               0.028562 seconds (Sampling)
+               0.074036 seconds (Total)
+
+Iteration: 1500 / 1500 [100%]  (Sampling)
+
+ Elapsed Time: 0.05004 seconds (Warm-up)
+               0.024283 seconds (Sampling)
+               0.074323 seconds (Total)
+
+Iteration: 1500 / 1500 [100%]  (Sampling)
+
+ Elapsed Time: 0.050433 seconds (Warm-up)
+               0.025699 seconds (Sampling)
+               0.076132 seconds (Total)
+
+permuted  :::  0.33591748698381707
+not_permuted  :::  0.1302312720217742
+array  :::  0.12628270901041105
+10 2000 1000
+
+
+
+Gradient evaluation took 1e-05 seconds
+Gradient evaluation took 1.3e-05 seconds
+1000 transitions using 10 leapfrog steps per transition would take 0.1 seconds.
+1000 transitions using 10 leapfrog steps per transition would take 0.13 seconds.
+Adjust your expectations accordingly!
+Adjust your expectations accordingly!
+
+Gradient evaluation took 1.1e-05 seconds
+
+
+
+1000 transitions using 10 leapfrog steps per transition would take 0.11 seconds.
+Adjust your expectations accordingly!
+
+
+Iteration:    1 / 2000 [  0%]  (Warmup)
+Iteration:    1 / 2000 [  0%]  (Warmup)
+Iteration:    1 / 2000 [  0%]  (Warmup)
+
+Gradient evaluation took 1.3e-05 seconds
+1000 transitions using 10 leapfrog steps per transition would take 0.13 seconds.
+Adjust your expectations accordingly!
+
+
+Iteration:    1 / 2000 [  0%]  (Warmup)
+Iteration:  200 / 2000 [ 10%]  (Warmup)
+Iteration:  200 / 2000 [ 10%]  (Warmup)
+Iteration:  200 / 2000 [ 10%]  (Warmup)
+Iteration:  200 / 2000 [ 10%]  (Warmup)
+Iteration:  400 / 2000 [ 20%]  (Warmup)
+Iteration:  400 / 2000 [ 20%]  (Warmup)
+Iteration:  400 / 2000 [ 20%]  (Warmup)
+Iteration:  400 / 2000 [ 20%]  (Warmup)
+Iteration:  600 / 2000 [ 30%]  (Warmup)
+Iteration:  600 / 2000 [ 30%]  (Warmup)
+Iteration:  600 / 2000 [ 30%]  (Warmup)
+Iteration:  600 / 2000 [ 30%]  (Warmup)
+Iteration:  800 / 2000 [ 40%]  (Warmup)
+Iteration:  800 / 2000 [ 40%]  (Warmup)
+Iteration:  800 / 2000 [ 40%]  (Warmup)
+Iteration:  800 / 2000 [ 40%]  (Warmup)
+Iteration: 1000 / 2000 [ 50%]  (Warmup)
+Iteration: 1001 / 2000 [ 50%]  (Sampling)
+Iteration: 1000 / 2000 [ 50%]  (Warmup)
+Iteration: 1001 / 2000 [ 50%]  (Sampling)
+Iteration: 1000 / 2000 [ 50%]  (Warmup)
+Iteration: 1001 / 2000 [ 50%]  (Sampling)
+Iteration: 1200 / 2000 [ 60%]  (Sampling)
+Iteration: 1000 / 2000 [ 50%]  (Warmup)
+Iteration: 1001 / 2000 [ 50%]  (Sampling)
+Iteration: 1200 / 2000 [ 60%]  (Sampling)
+Iteration: 1200 / 2000 [ 60%]  (Sampling)
+Iteration: 1400 / 2000 [ 70%]  (Sampling)
+Iteration: 1600 / 2000 [ 80%]  (Sampling)
+Iteration: 1400 / 2000 [ 70%]  (Sampling)
+Iteration: 1200 / 2000 [ 60%]  (Sampling)
+Iteration: 1400 / 2000 [ 70%]  (Sampling)
+Iteration: 1800 / 2000 [ 90%]  (Sampling)
+Iteration: 1600 / 2000 [ 80%]  (Sampling)
+Iteration: 1600 / 2000 [ 80%]  (Sampling)
+Iteration: 1400 / 2000 [ 70%]  (Sampling)
+Iteration: 2000 / 2000 [100%]  (Sampling)
+
+ Elapsed Time: 0.053788 seconds (Warm-up)
+               0.020917 seconds (Sampling)
+               0.074705 seconds (Total)
+
+Iteration: 1800 / 2000 [ 90%]  (Sampling)
+Iteration: 1600 / 2000 [ 80%]  (Sampling)
+Iteration: 1800 / 2000 [ 90%]  (Sampling)
+Iteration: 2000 / 2000 [100%]  (Sampling)
+
+ Elapsed Time: 0.056364 seconds (Warm-up)
+               0.026016 seconds (Sampling)
+               0.08238 seconds (Total)
+
+Iteration: 2000 / 2000 [100%]  (Sampling)
+
+ Elapsed Time: 0.055943 seconds (Warm-up)
+               0.028592 seconds (Sampling)
+               0.084535 seconds (Total)
+
+Iteration: 1800 / 2000 [ 90%]  (Sampling)
+Iteration: 2000 / 2000 [100%]  (Sampling)
+
+ Elapsed Time: 0.06066 seconds (Warm-up)
+               0.03035 seconds (Sampling)
+               0.09101 seconds (Total)
+
+permuted  :::  0.40857142803724855
+not_permuted  :::  0.14498190197627991
+array  :::  0.13977636100025848
+50 100 1000
+
+Gradient evaluation took 3.9e-05 seconds
+1000 transitions using 10 leapfrog steps per transition would take 0.39 seconds.
+Adjust your expectations accordingly!
+
+
+WARNING: There aren't enough warmup iterations to fit the
+         three stages of adaptation as currently configured.
+         Reducing each adaptation stage to 15%/75%/10% of
+         the given number of warmup iterations:
+           init_buffer = 7
+
+
+
+           adapt_window = 38
+           term_buffer = 5
+
+Gradient evaluation took 3.4e-05 seconds
+Gradient evaluation took 3.4e-05 seconds
+Gradient evaluation took 3.3e-05 seconds
+1000 transitions using 10 leapfrog steps per transition would take 0.34 seconds.
+1000 transitions using 10 leapfrog steps per transition would take 0.33 seconds.
+Adjust your expectations accordingly!
+
+Adjust your expectations accordingly!
+
+
+1000 transitions using 10 leapfrog steps per transition would take 0.34 seconds.
+
+Adjust your expectations accordingly!
+WARNING: There aren't enough warmup iterations to fit the
+WARNING: There aren't enough warmup iterations to fit the
+         three stages of adaptation as currently configured.
+         three stages of adaptation as currently configured.
+         Reducing each adaptation stage to 15%/75%/10% of
+         Reducing each adaptation stage to 15%/75%/10% of
+         the given number of warmup iterations:
+         the given number of warmup iterations:
+           init_buffer = 7
+           init_buffer = 7
+           adapt_window = 38
+           adapt_window = 38
+           term_buffer = 5
+
+           term_buffer = 5
+
+
+
+WARNING: There aren't enough warmup iterations to fit the
+         three stages of adaptation as currently configured.
+         Reducing each adaptation stage to 15%/75%/10% of
+         the given number of warmup iterations:
+           init_buffer = 7
+Iteration:  1 / 100 [  1%]  (Warmup)
+           adapt_window = 38
+           term_buffer = 5
+
+Iteration:  1 / 100 [  1%]  (Warmup)
+Iteration:  1 / 100 [  1%]  (Warmup)
+Iteration:  1 / 100 [  1%]  (Warmup)
+Iteration: 10 / 100 [ 10%]  (Warmup)
+Iteration: 10 / 100 [ 10%]  (Warmup)
+Iteration: 10 / 100 [ 10%]  (Warmup)
+Iteration: 10 / 100 [ 10%]  (Warmup)
+Iteration: 20 / 100 [ 20%]  (Warmup)
+Iteration: 20 / 100 [ 20%]  (Warmup)
+Iteration: 20 / 100 [ 20%]  (Warmup)
+Iteration: 20 / 100 [ 20%]  (Warmup)
+Iteration: 30 / 100 [ 30%]  (Warmup)
+Iteration: 30 / 100 [ 30%]  (Warmup)
+Iteration: 40 / 100 [ 40%]  (Warmup)
+Iteration: 30 / 100 [ 30%]  (Warmup)
+Iteration: 40 / 100 [ 40%]  (Warmup)
+Iteration: 50 / 100 [ 50%]  (Warmup)
+Iteration: 51 / 100 [ 51%]  (Sampling)
+Iteration: 60 / 100 [ 60%]  (Sampling)
+Iteration: 70 / 100 [ 70%]  (Sampling)
+Iteration: 80 / 100 [ 80%]  (Sampling)
+Iteration: 50 / 100 [ 50%]  (Warmup)
+Iteration: 90 / 100 [ 90%]  (Sampling)
+Iteration: 51 / 100 [ 51%]  (Sampling)
+Iteration: 100 / 100 [100%]  (Sampling)
+Iteration: 60 / 100 [ 60%]  (Sampling)
+
+ Elapsed Time: 0.012144 seconds (Warm-up)
+               0.006742 seconds (Sampling)
+               0.018886 seconds (Total)
+
+Iteration: 30 / 100 [ 30%]  (Warmup)
+Iteration: 70 / 100 [ 70%]  (Sampling)
+Iteration: 40 / 100 [ 40%]  (Warmup)
+Iteration: 80 / 100 [ 80%]  (Sampling)
+Iteration: 90 / 100 [ 90%]  (Sampling)
+Iteration: 100 / 100 [100%]  (Sampling)
+Iteration: 40 / 100 [ 40%]  (Warmup)
+
+ Elapsed Time: 0.018132 seconds (Warm-up)
+               0.006776 seconds (Sampling)
+               0.024908 seconds (Total)
+
+Iteration: 50 / 100 [ 50%]  (Warmup)
+Iteration: 50 / 100 [ 50%]  (Warmup)
+Iteration: 51 / 100 [ 51%]  (Sampling)
+Iteration: 51 / 100 [ 51%]  (Sampling)
+Iteration: 60 / 100 [ 60%]  (Sampling)
+Iteration: 70 / 100 [ 70%]  (Sampling)
+Iteration: 60 / 100 [ 60%]  (Sampling)
+Iteration: 80 / 100 [ 80%]  (Sampling)
+Iteration: 70 / 100 [ 70%]  (Sampling)
+Iteration: 90 / 100 [ 90%]  (Sampling)
+Iteration: 80 / 100 [ 80%]  (Sampling)
+Iteration: 100 / 100 [100%]  (Sampling)
+
+ Elapsed Time: 0.026472 seconds (Warm-up)
+               0.003662 seconds (Sampling)
+               0.030134 seconds (Total)
+
+Iteration: 90 / 100 [ 90%]  (Sampling)
+Iteration: 100 / 100 [100%]  (Sampling)
+
+ Elapsed Time: 0.026809 seconds (Warm-up)
+               0.004261 seconds (Sampling)
+               0.03107 seconds (Total)
+
+permuted  :::  0.2917832160019316
+not_permuted  :::  0.1761400429531932
+array  :::  0.15148474799934775
+50 500 1000
+
+
+Gradient evaluation took 3.8e-05 seconds
+Gradient evaluation took 4.1e-05 seconds
+1000 transitions using 10 leapfrog steps per transition would take 0.38 seconds.
+Adjust your expectations accordingly!
+1000 transitions using 10 leapfrog steps per transition would take 0.41 seconds.
+
+Adjust your expectations accordingly!
+
+
+
+
+
+Gradient evaluation took 3.8e-05 seconds
+1000 transitions using 10 leapfrog steps per transition would take 0.38 seconds.
+Gradient evaluation took 7.6e-05 seconds
+Adjust your expectations accordingly!
+
+
+1000 transitions using 10 leapfrog steps per transition would take 0.76 seconds.
+Adjust your expectations accordingly!
+
+
+Iteration:   1 / 500 [  0%]  (Warmup)
+Iteration:   1 / 500 [  0%]  (Warmup)
+Iteration:   1 / 500 [  0%]  (Warmup)
+Iteration:   1 / 500 [  0%]  (Warmup)
+Iteration:  50 / 500 [ 10%]  (Warmup)
+Iteration:  50 / 500 [ 10%]  (Warmup)
+Iteration: 100 / 500 [ 20%]  (Warmup)
+Iteration: 100 / 500 [ 20%]  (Warmup)
+Iteration: 150 / 500 [ 30%]  (Warmup)
+Iteration:  50 / 500 [ 10%]  (Warmup)
+Iteration: 150 / 500 [ 30%]  (Warmup)
+Iteration:  50 / 500 [ 10%]  (Warmup)
+Iteration: 200 / 500 [ 40%]  (Warmup)
+Iteration: 200 / 500 [ 40%]  (Warmup)
+Iteration: 250 / 500 [ 50%]  (Warmup)
+Iteration: 251 / 500 [ 50%]  (Sampling)
+Iteration: 100 / 500 [ 20%]  (Warmup)
+Iteration: 300 / 500 [ 60%]  (Sampling)
+Iteration: 250 / 500 [ 50%]  (Warmup)
+Iteration: 251 / 500 [ 50%]  (Sampling)
+Iteration: 150 / 500 [ 30%]  (Warmup)
+Iteration: 350 / 500 [ 70%]  (Sampling)
+Iteration: 300 / 500 [ 60%]  (Sampling)
+Iteration: 400 / 500 [ 80%]  (Sampling)
+Iteration: 200 / 500 [ 40%]  (Warmup)
+Iteration: 350 / 500 [ 70%]  (Sampling)
+Iteration: 450 / 500 [ 90%]  (Sampling)
+Iteration: 250 / 500 [ 50%]  (Warmup)
+Iteration: 251 / 500 [ 50%]  (Sampling)
+Iteration: 400 / 500 [ 80%]  (Sampling)
+Iteration: 500 / 500 [100%]  (Sampling)
+
+ Elapsed Time: 0.038465 seconds (Warm-up)
+               0.01637 seconds (Sampling)
+               0.054835 seconds (Total)
+
+Iteration: 300 / 500 [ 60%]  (Sampling)
+Iteration: 450 / 500 [ 90%]  (Sampling)
+Iteration: 350 / 500 [ 70%]  (Sampling)
+Iteration: 500 / 500 [100%]  (Sampling)
+
+ Elapsed Time: 0.043742 seconds (Warm-up)
+               0.016597 seconds (Sampling)
+               0.060339 seconds (Total)
+
+Iteration: 400 / 500 [ 80%]  (Sampling)
+Iteration: 100 / 500 [ 20%]  (Warmup)
+Iteration: 450 / 500 [ 90%]  (Sampling)
+Iteration: 500 / 500 [100%]  (Sampling)
+
+ Elapsed Time: 0.052502 seconds (Warm-up)
+               0.01708 seconds (Sampling)
+               0.069582 seconds (Total)
+
+Iteration: 150 / 500 [ 30%]  (Warmup)
+Iteration: 200 / 500 [ 40%]  (Warmup)
+Iteration: 250 / 500 [ 50%]  (Warmup)
+Iteration: 251 / 500 [ 50%]  (Sampling)
+Iteration: 300 / 500 [ 60%]  (Sampling)
+Iteration: 350 / 500 [ 70%]  (Sampling)
+Iteration: 400 / 500 [ 80%]  (Sampling)
+Iteration: 450 / 500 [ 90%]  (Sampling)
+Iteration: 500 / 500 [100%]  (Sampling)
+
+ Elapsed Time: 0.080904 seconds (Warm-up)
+               0.01565 seconds (Sampling)
+               0.096554 seconds (Total)
+
+permuted  :::  0.4489741789875552
+not_permuted  :::  0.2425470250309445
+array  :::  0.22007641702657565
+50 1000 1000
+
+Gradient evaluation took 1.7e-05 seconds
+1000 transitions using 10 leapfrog steps per transition would take 0.17 seconds.
+Adjust your expectations accordingly!
+
+
+Iteration:   1 / 1000 [  0%]  (Warmup)
+
+Gradient evaluation took 1.7e-05 seconds
+1000 transitions using 10 leapfrog steps per transition would take 0.17 seconds.
+Adjust your expectations accordingly!
+
+
+
+
+Gradient evaluation took 2e-05 seconds
+Gradient evaluation took 2e-05 seconds
+1000 transitions using 10 leapfrog steps per transition would take 0.2 seconds.
+1000 transitions using 10 leapfrog steps per transition would take 0.2 seconds.
+Adjust your expectations accordingly!
+Adjust your expectations accordingly!
+
+
+
+
+Iteration:   1 / 1000 [  0%]  (Warmup)
+Iteration:   1 / 1000 [  0%]  (Warmup)
+Iteration:   1 / 1000 [  0%]  (Warmup)
+Iteration: 100 / 1000 [ 10%]  (Warmup)
+Iteration: 100 / 1000 [ 10%]  (Warmup)
+Iteration: 200 / 1000 [ 20%]  (Warmup)
+Iteration: 100 / 1000 [ 10%]  (Warmup)
+Iteration: 200 / 1000 [ 20%]  (Warmup)
+Iteration: 300 / 1000 [ 30%]  (Warmup)
+Iteration: 200 / 1000 [ 20%]  (Warmup)
+Iteration: 300 / 1000 [ 30%]  (Warmup)
+Iteration: 400 / 1000 [ 40%]  (Warmup)
+Iteration: 100 / 1000 [ 10%]  (Warmup)
+Iteration: 300 / 1000 [ 30%]  (Warmup)
+Iteration: 400 / 1000 [ 40%]  (Warmup)
+Iteration: 200 / 1000 [ 20%]  (Warmup)
+Iteration: 500 / 1000 [ 50%]  (Warmup)
+Iteration: 501 / 1000 [ 50%]  (Sampling)
+Iteration: 400 / 1000 [ 40%]  (Warmup)
+Iteration: 500 / 1000 [ 50%]  (Warmup)
+Iteration: 501 / 1000 [ 50%]  (Sampling)
+Iteration: 600 / 1000 [ 60%]  (Sampling)
+Iteration: 700 / 1000 [ 70%]  (Sampling)
+Iteration: 300 / 1000 [ 30%]  (Warmup)
+Iteration: 600 / 1000 [ 60%]  (Sampling)
+Iteration: 500 / 1000 [ 50%]  (Warmup)
+Iteration: 800 / 1000 [ 80%]  (Sampling)
+Iteration: 501 / 1000 [ 50%]  (Sampling)
+Iteration: 700 / 1000 [ 70%]  (Sampling)
+Iteration: 900 / 1000 [ 90%]  (Sampling)
+Iteration: 600 / 1000 [ 60%]  (Sampling)
+Iteration: 400 / 1000 [ 40%]  (Warmup)
+Iteration: 800 / 1000 [ 80%]  (Sampling)
+Iteration: 1000 / 1000 [100%]  (Sampling)
+
+ Elapsed Time: 0.061258 seconds (Warm-up)
+               0.022866 seconds (Sampling)
+               0.084124 seconds (Total)
+
+Iteration: 700 / 1000 [ 70%]  (Sampling)
+Iteration: 900 / 1000 [ 90%]  (Sampling)
+Iteration: 500 / 1000 [ 50%]  (Warmup)
+Iteration: 501 / 1000 [ 50%]  (Sampling)
+Iteration: 1000 / 1000 [100%]  (Sampling)
+
+ Elapsed Time: 0.06539 seconds (Warm-up)
+               0.027993 seconds (Sampling)
+               0.093383 seconds (Total)
+
+Iteration: 800 / 1000 [ 80%]  (Sampling)
+Iteration: 600 / 1000 [ 60%]  (Sampling)
+Iteration: 900 / 1000 [ 90%]  (Sampling)
+Iteration: 700 / 1000 [ 70%]  (Sampling)
+Iteration: 800 / 1000 [ 80%]  (Sampling)
+Iteration: 1000 / 1000 [100%]  (Sampling)
+
+ Elapsed Time: 0.074465 seconds (Warm-up)
+               0.032924 seconds (Sampling)
+               0.107389 seconds (Total)
+
+Iteration: 900 / 1000 [ 90%]  (Sampling)
+Iteration: 1000 / 1000 [100%]  (Sampling)
+
+ Elapsed Time: 0.092801 seconds (Warm-up)
+               0.023077 seconds (Sampling)
+               0.115878 seconds (Total)
+
+permuted  :::  0.7078882060013711
+not_permuted  :::  0.3138715310487896
+array  :::  0.3311573200044222
+50 1500 1000
+
+
+Gradient evaluation took 2.2e-05 seconds
+Gradient evaluation took 2.1e-05 seconds
+1000 transitions using 10 leapfrog steps per transition would take 0.22 seconds.
+1000 transitions using 10 leapfrog steps per transition would take 0.21 seconds.
+Adjust your expectations accordingly!
+Adjust your expectations accordingly!
+
+
+
+
+Iteration:    1 / 1500 [  0%]  (Warmup)
+Iteration:    1 / 1500 [  0%]  (Warmup)
+
+Gradient evaluation took 3.7e-05 seconds
+1000 transitions using 10 leapfrog steps per transition would take 0.37 seconds.
+Adjust your expectations accordingly!
+
+
+
+Gradient evaluation took 3.5e-05 seconds
+1000 transitions using 10 leapfrog steps per transition would take 0.35 seconds.
+Adjust your expectations accordingly!
+
+
+Iteration:    1 / 1500 [  0%]  (Warmup)
+Iteration:    1 / 1500 [  0%]  (Warmup)
+Iteration:  150 / 1500 [ 10%]  (Warmup)
+Iteration:  300 / 1500 [ 20%]  (Warmup)
+Iteration:  150 / 1500 [ 10%]  (Warmup)
+Iteration:  150 / 1500 [ 10%]  (Warmup)
+Iteration:  450 / 1500 [ 30%]  (Warmup)
+Iteration:  150 / 1500 [ 10%]  (Warmup)
+Iteration:  300 / 1500 [ 20%]  (Warmup)
+Iteration:  600 / 1500 [ 40%]  (Warmup)
+Iteration:  300 / 1500 [ 20%]  (Warmup)
+Iteration:  450 / 1500 [ 30%]  (Warmup)
+Iteration:  300 / 1500 [ 20%]  (Warmup)
+Iteration:  750 / 1500 [ 50%]  (Warmup)
+Iteration:  751 / 1500 [ 50%]  (Sampling)
+Iteration:  900 / 1500 [ 60%]  (Sampling)
+Iteration:  450 / 1500 [ 30%]  (Warmup)
+Iteration: 1050 / 1500 [ 70%]  (Sampling)
+Iteration: 1200 / 1500 [ 80%]  (Sampling)
+Iteration:  450 / 1500 [ 30%]  (Warmup)
+Iteration:  600 / 1500 [ 40%]  (Warmup)
+Iteration: 1350 / 1500 [ 90%]  (Sampling)
+Iteration:  600 / 1500 [ 40%]  (Warmup)
+Iteration: 1500 / 1500 [100%]  (Sampling)
+
+ Elapsed Time: 0.05978 seconds (Warm-up)
+               0.025687 seconds (Sampling)
+               0.085467 seconds (Total)
+
+Iteration:  750 / 1500 [ 50%]  (Warmup)
+Iteration:  751 / 1500 [ 50%]  (Sampling)
+Iteration:  600 / 1500 [ 40%]  (Warmup)
+Iteration:  900 / 1500 [ 60%]  (Sampling)
+Iteration:  750 / 1500 [ 50%]  (Warmup)
+Iteration:  751 / 1500 [ 50%]  (Sampling)
+Iteration: 1050 / 1500 [ 70%]  (Sampling)
+Iteration:  900 / 1500 [ 60%]  (Sampling)
+Iteration: 1200 / 1500 [ 80%]  (Sampling)
+Iteration: 1350 / 1500 [ 90%]  (Sampling)
+Iteration: 1050 / 1500 [ 70%]  (Sampling)
+Iteration: 1500 / 1500 [100%]  (Sampling)
+
+ Elapsed Time: 0.098182 seconds (Warm-up)
+               0.025523 seconds (Sampling)
+               0.123705 seconds (Total)
+
+Iteration:  750 / 1500 [ 50%]  (Warmup)
+Iteration:  751 / 1500 [ 50%]  (Sampling)
+Iteration: 1200 / 1500 [ 80%]  (Sampling)
+Iteration:  900 / 1500 [ 60%]  (Sampling)
+Iteration: 1350 / 1500 [ 90%]  (Sampling)
+Iteration: 1050 / 1500 [ 70%]  (Sampling)
+Iteration: 1500 / 1500 [100%]  (Sampling)
+
+ Elapsed Time: 0.103924 seconds (Warm-up)
+               0.039537 seconds (Sampling)
+               0.143461 seconds (Total)
+
+Iteration: 1200 / 1500 [ 80%]  (Sampling)
+Iteration: 1350 / 1500 [ 90%]  (Sampling)
+Iteration: 1500 / 1500 [100%]  (Sampling)
+
+ Elapsed Time: 0.123798 seconds (Warm-up)
+               0.058214 seconds (Sampling)
+               0.182012 seconds (Total)
+
+permuted  :::  0.9462744860211387
+not_permuted  :::  0.43508207402192056
+array  :::  0.38485446403501555
+50 2000 1000
+
+Gradient evaluation took 2.7e-05 seconds
+
+
+Gradient evaluation took 2.2e-05 seconds
+1000 transitions using 10 leapfrog steps per transition would take 0.27 seconds.
+Gradient evaluation took 2.3e-05 seconds
+1000 transitions using 10 leapfrog steps per transition would take 0.22 seconds.
+Adjust your expectations accordingly!
+Adjust your expectations accordingly!
+
+
+1000 transitions using 10 leapfrog steps per transition would take 0.23 seconds.
+
+
+
+Adjust your expectations accordingly!
+
+
+Gradient evaluation took 2.4e-05 seconds
+1000 transitions using 10 leapfrog steps per transition would take 0.24 seconds.
+Adjust your expectations accordingly!
+
+
+Iteration:    1 / 2000 [  0%]  (Warmup)
+Iteration:    1 / 2000 [  0%]  (Warmup)
+Iteration:    1 / 2000 [  0%]  (Warmup)
+Iteration:    1 / 2000 [  0%]  (Warmup)
+Iteration:  200 / 2000 [ 10%]  (Warmup)
+Iteration:  200 / 2000 [ 10%]  (Warmup)
+Iteration:  200 / 2000 [ 10%]  (Warmup)
+Iteration:  200 / 2000 [ 10%]  (Warmup)
+Iteration:  400 / 2000 [ 20%]  (Warmup)
+Iteration:  400 / 2000 [ 20%]  (Warmup)
+Iteration:  400 / 2000 [ 20%]  (Warmup)
+Iteration:  600 / 2000 [ 30%]  (Warmup)
+Iteration:  400 / 2000 [ 20%]  (Warmup)
+Iteration:  600 / 2000 [ 30%]  (Warmup)
+Iteration:  600 / 2000 [ 30%]  (Warmup)
+Iteration:  800 / 2000 [ 40%]  (Warmup)
+Iteration:  800 / 2000 [ 40%]  (Warmup)
+Iteration:  600 / 2000 [ 30%]  (Warmup)
+Iteration:  800 / 2000 [ 40%]  (Warmup)
+Iteration: 1000 / 2000 [ 50%]  (Warmup)
+Iteration: 1001 / 2000 [ 50%]  (Sampling)
+Iteration: 1000 / 2000 [ 50%]  (Warmup)
+Iteration: 1001 / 2000 [ 50%]  (Sampling)
+Iteration:  800 / 2000 [ 40%]  (Warmup)
+Iteration: 1200 / 2000 [ 60%]  (Sampling)
+Iteration: 1200 / 2000 [ 60%]  (Sampling)
+Iteration: 1400 / 2000 [ 70%]  (Sampling)
+Iteration: 1000 / 2000 [ 50%]  (Warmup)
+Iteration: 1001 / 2000 [ 50%]  (Sampling)
+Iteration: 1400 / 2000 [ 70%]  (Sampling)
+Iteration: 1600 / 2000 [ 80%]  (Sampling)
+Iteration: 1000 / 2000 [ 50%]  (Warmup)
+Iteration: 1001 / 2000 [ 50%]  (Sampling)
+Iteration: 1200 / 2000 [ 60%]  (Sampling)
+Iteration: 1600 / 2000 [ 80%]  (Sampling)
+Iteration: 1800 / 2000 [ 90%]  (Sampling)
+Iteration: 1200 / 2000 [ 60%]  (Sampling)
+Iteration: 1400 / 2000 [ 70%]  (Sampling)
+Iteration: 1800 / 2000 [ 90%]  (Sampling)
+Iteration: 2000 / 2000 [100%]  (Sampling)
+
+ Elapsed Time: 0.126834 seconds (Warm-up)
+               0.044805 seconds (Sampling)
+               0.171639 seconds (Total)
+
+Iteration: 1400 / 2000 [ 70%]  (Sampling)
+Iteration: 1600 / 2000 [ 80%]  (Sampling)
+Iteration: 2000 / 2000 [100%]  (Sampling)
+
+ Elapsed Time: 0.13181 seconds (Warm-up)
+               0.04636 seconds (Sampling)
+               0.17817 seconds (Total)
+
+Iteration: 1600 / 2000 [ 80%]  (Sampling)
+Iteration: 1800 / 2000 [ 90%]  (Sampling)
+Iteration: 1800 / 2000 [ 90%]  (Sampling)
+Iteration: 2000 / 2000 [100%]  (Sampling)
+
+ Elapsed Time: 0.150456 seconds (Warm-up)
+               0.043908 seconds (Sampling)
+               0.194364 seconds (Total)
+
+Iteration: 2000 / 2000 [100%]  (Sampling)
+
+ Elapsed Time: 0.159603 seconds (Warm-up)
+               0.041645 seconds (Sampling)
+               0.201248 seconds (Total)
+
+permuted  :::  1.1610901579842903
+not_permuted  :::  0.43100316100753844
+array  :::  0.4105059689609334
+100 100 1000
+
+
+Gradient evaluation took 4.4e-05 seconds
+Gradient evaluation took 4.3e-05 seconds
+1000 transitions using 10 leapfrog steps per transition would take 0.44 seconds.
+Adjust your expectations accordingly!
+
+
+1000 transitions using 10 leapfrog steps per transition would take 0.43 seconds.
+Adjust your expectations accordingly!
+
+
+WARNING: There aren't enough warmup iterations to fit the
+
+         three stages of adaptation as currently configured.
+         Reducing each adaptation stage to 15%/75%/10% of
+         the given number of warmup iterations:
+           init_buffer = 7
+WARNING: There aren't enough warmup iterations to fit the
+           adapt_window = 38
+         three stages of adaptation as currently configured.
+           term_buffer = 5
+Gradient evaluation took 5.2e-05 seconds
+         Reducing each adaptation stage to 15%/75%/10% of
+
+         the given number of warmup iterations:
+           init_buffer = 7
+1000 transitions using 10 leapfrog steps per transition would take 0.52 seconds.
+           adapt_window = 38
+Adjust your expectations accordingly!
+           term_buffer = 5
+
+
+
+WARNING: There aren't enough warmup iterations to fit the
+         three stages of adaptation as currently configured.
+         Reducing each adaptation stage to 15%/75%/10% of
+         the given number of warmup iterations:
+           init_buffer = 7
+           adapt_window = 38
+           term_buffer = 5
+
+Iteration:  1 / 100 [  1%]  (Warmup)
+Iteration:  1 / 100 [  1%]  (Warmup)
+
+Gradient evaluation took 4.4e-05 seconds
+1000 transitions using 10 leapfrog steps per transition would take 0.44 seconds.
+Adjust your expectations accordingly!
+
+
+WARNING: There aren't enough warmup iterations to fit the
+         three stages of adaptation as currently configured.
+         Reducing each adaptation stage to 15%/75%/10% of
+Iteration:  1 / 100 [  1%]  (Warmup)
+         the given number of warmup iterations:
+           init_buffer = 7
+           adapt_window = 38
+           term_buffer = 5
+
+Iteration:  1 / 100 [  1%]  (Warmup)
+Iteration: 10 / 100 [ 10%]  (Warmup)
+Iteration: 20 / 100 [ 20%]  (Warmup)
+Iteration: 10 / 100 [ 10%]  (Warmup)
+Iteration: 20 / 100 [ 20%]  (Warmup)
+Iteration: 10 / 100 [ 10%]  (Warmup)
+Iteration: 20 / 100 [ 20%]  (Warmup)
+Iteration: 30 / 100 [ 30%]  (Warmup)
+Iteration: 30 / 100 [ 30%]  (Warmup)
+Iteration: 10 / 100 [ 10%]  (Warmup)
+Iteration: 40 / 100 [ 40%]  (Warmup)
+Iteration: 50 / 100 [ 50%]  (Warmup)
+Iteration: 51 / 100 [ 51%]  (Sampling)
+Iteration: 30 / 100 [ 30%]  (Warmup)
+Iteration: 60 / 100 [ 60%]  (Sampling)
+Iteration: 70 / 100 [ 70%]  (Sampling)
+Iteration: 80 / 100 [ 80%]  (Sampling)
+Iteration: 90 / 100 [ 90%]  (Sampling)
+Iteration: 100 / 100 [100%]  (Sampling)
+
+ Elapsed Time: 0.023806 seconds (Warm-up)
+               0.006969 seconds (Sampling)
+               0.030775 seconds (Total)
+
+Iteration: 40 / 100 [ 40%]  (Warmup)
+Iteration: 50 / 100 [ 50%]  (Warmup)
+Iteration: 51 / 100 [ 51%]  (Sampling)
+Iteration: 60 / 100 [ 60%]  (Sampling)
+Iteration: 40 / 100 [ 40%]  (Warmup)
+Iteration: 70 / 100 [ 70%]  (Sampling)
+Iteration: 50 / 100 [ 50%]  (Warmup)
+Iteration: 80 / 100 [ 80%]  (Sampling)
+Iteration: 90 / 100 [ 90%]  (Sampling)
+Iteration: 100 / 100 [100%]  (Sampling)
+
+ Elapsed Time: 0.034215 seconds (Warm-up)
+               0.009098 seconds (Sampling)
+               0.043313 seconds (Total)
+
+Iteration: 51 / 100 [ 51%]  (Sampling)
+Iteration: 60 / 100 [ 60%]  (Sampling)
+Iteration: 70 / 100 [ 70%]  (Sampling)
+Iteration: 80 / 100 [ 80%]  (Sampling)
+Iteration: 90 / 100 [ 90%]  (Sampling)
+Iteration: 100 / 100 [100%]  (Sampling)
+
+ Elapsed Time: 0.044694 seconds (Warm-up)
+               0.005721 seconds (Sampling)
+               0.050415 seconds (Total)
+
+Iteration: 20 / 100 [ 20%]  (Warmup)
+Iteration: 30 / 100 [ 30%]  (Warmup)
+Iteration: 40 / 100 [ 40%]  (Warmup)
+Iteration: 50 / 100 [ 50%]  (Warmup)
+Iteration: 51 / 100 [ 51%]  (Sampling)
+Iteration: 60 / 100 [ 60%]  (Sampling)
+Iteration: 70 / 100 [ 70%]  (Sampling)
+Iteration: 80 / 100 [ 80%]  (Sampling)
+Iteration: 90 / 100 [ 90%]  (Sampling)
+Iteration: 100 / 100 [100%]  (Sampling)
+
+ Elapsed Time: 0.058511 seconds (Warm-up)
+               0.004981 seconds (Sampling)
+               0.063492 seconds (Total)
+
+permuted  :::  0.4742914150119759
+not_permuted  :::  0.3055548630072735
+array  :::  0.25414032000117004
+100 500 1000
+
+Gradient evaluation took 2.7e-05 seconds
+1000 transitions using 10 leapfrog steps per transition would take 0.27 seconds.
+Adjust your expectations accordingly!
+
+
+
+Gradient evaluation took 2.4e-05 seconds
+1000 transitions using 10 leapfrog steps per transition would take 0.24 seconds.
+Adjust your expectations accordingly!
+
+
+Iteration:   1 / 500 [  0%]  (Warmup)
+Iteration:   1 / 500 [  0%]  (Warmup)
+
+Gradient evaluation took 2.9e-05 seconds
+1000 transitions using 10 leapfrog steps per transition would take 0.29 seconds.
+Adjust your expectations accordingly!
+
+
+
+Gradient evaluation took 3.2e-05 seconds
+1000 transitions using 10 leapfrog steps per transition would take 0.32 seconds.
+Adjust your expectations accordingly!
+
+
+Iteration:   1 / 500 [  0%]  (Warmup)
+Iteration:   1 / 500 [  0%]  (Warmup)
+Iteration:  50 / 500 [ 10%]  (Warmup)
+Iteration:  50 / 500 [ 10%]  (Warmup)
+Iteration:  50 / 500 [ 10%]  (Warmup)
+Iteration: 100 / 500 [ 20%]  (Warmup)
+Iteration:  50 / 500 [ 10%]  (Warmup)
+Iteration: 150 / 500 [ 30%]  (Warmup)
+Iteration: 100 / 500 [ 20%]  (Warmup)
+Iteration: 150 / 500 [ 30%]  (Warmup)
+Iteration: 200 / 500 [ 40%]  (Warmup)
+Iteration: 100 / 500 [ 20%]  (Warmup)
+Iteration: 200 / 500 [ 40%]  (Warmup)
+Iteration: 150 / 500 [ 30%]  (Warmup)
+Iteration: 100 / 500 [ 20%]  (Warmup)
+Iteration: 200 / 500 [ 40%]  (Warmup)
+Iteration: 250 / 500 [ 50%]  (Warmup)
+Iteration: 251 / 500 [ 50%]  (Sampling)
+Iteration: 250 / 500 [ 50%]  (Warmup)
+Iteration: 251 / 500 [ 50%]  (Sampling)
+Iteration: 300 / 500 [ 60%]  (Sampling)
+Iteration: 150 / 500 [ 30%]  (Warmup)
+Iteration: 350 / 500 [ 70%]  (Sampling)
+Iteration: 200 / 500 [ 40%]  (Warmup)
+Iteration: 400 / 500 [ 80%]  (Sampling)
+Iteration: 250 / 500 [ 50%]  (Warmup)
+Iteration: 251 / 500 [ 50%]  (Sampling)
+Iteration: 300 / 500 [ 60%]  (Sampling)
+Iteration: 300 / 500 [ 60%]  (Sampling)
+Iteration: 450 / 500 [ 90%]  (Sampling)
+Iteration: 350 / 500 [ 70%]  (Sampling)
+Iteration: 500 / 500 [100%]  (Sampling)
+
+ Elapsed Time: 0.093267 seconds (Warm-up)
+               0.032375 seconds (Sampling)
+               0.125642 seconds (Total)
+
+Iteration: 400 / 500 [ 80%]  (Sampling)
+Iteration: 450 / 500 [ 90%]  (Sampling)
+Iteration: 500 / 500 [100%]  (Sampling)
+
+ Elapsed Time: 0.115087 seconds (Warm-up)
+               0.021937 seconds (Sampling)
+               0.137024 seconds (Total)
+
+Iteration: 350 / 500 [ 70%]  (Sampling)
+Iteration: 250 / 500 [ 50%]  (Warmup)
+Iteration: 251 / 500 [ 50%]  (Sampling)
+Iteration: 300 / 500 [ 60%]  (Sampling)
+Iteration: 350 / 500 [ 70%]  (Sampling)
+Iteration: 400 / 500 [ 80%]  (Sampling)
+Iteration: 400 / 500 [ 80%]  (Sampling)
+Iteration: 450 / 500 [ 90%]  (Sampling)
+Iteration: 500 / 500 [100%]  (Sampling)
+
+ Elapsed Time: 0.143363 seconds (Warm-up)
+               0.027481 seconds (Sampling)
+               0.170844 seconds (Total)
+
+Iteration: 450 / 500 [ 90%]  (Sampling)
+Iteration: 500 / 500 [100%]  (Sampling)
+
+ Elapsed Time: 0.095378 seconds (Warm-up)
+               0.105234 seconds (Sampling)
+               0.200612 seconds (Total)
+
+permuted  :::  0.8529407539754175
+not_permuted  :::  0.4668107610195875
+array  :::  0.3443038890254684
+100 1000 1000
+
+Gradient evaluation took 1.8e-05 seconds
+1000 transitions using 10 leapfrog steps per transition would take 0.18 seconds.
+Adjust your expectations accordingly!
+
+
+Iteration:   1 / 1000 [  0%]  (Warmup)
+
+
+
+Gradient evaluation took 0.000139 seconds
+Gradient evaluation took 0.000445 seconds
+1000 transitions using 10 leapfrog steps per transition would take 4.45 seconds.
+Adjust your expectations accordingly!
+
+
+1000 transitions using 10 leapfrog steps per transition would take 1.39 seconds.
+Gradient evaluation took 0.000109 seconds
+Adjust your expectations accordingly!
+
+
+1000 transitions using 10 leapfrog steps per transition would take 1.09 seconds.
+Adjust your expectations accordingly!
+
+
+Iteration:   1 / 1000 [  0%]  (Warmup)
+Iteration:   1 / 1000 [  0%]  (Warmup)
+Iteration:   1 / 1000 [  0%]  (Warmup)
+Iteration: 100 / 1000 [ 10%]  (Warmup)
+Iteration: 200 / 1000 [ 20%]  (Warmup)
+Iteration: 300 / 1000 [ 30%]  (Warmup)
+Iteration: 100 / 1000 [ 10%]  (Warmup)
+Iteration: 100 / 1000 [ 10%]  (Warmup)
+Iteration: 400 / 1000 [ 40%]  (Warmup)
+Iteration: 200 / 1000 [ 20%]  (Warmup)
+Iteration: 100 / 1000 [ 10%]  (Warmup)
+Iteration: 500 / 1000 [ 50%]  (Warmup)
+Iteration: 501 / 1000 [ 50%]  (Sampling)
+Iteration: 200 / 1000 [ 20%]  (Warmup)
+Iteration: 600 / 1000 [ 60%]  (Sampling)
+Iteration: 700 / 1000 [ 70%]  (Sampling)
+Iteration: 300 / 1000 [ 30%]  (Warmup)
+Iteration: 800 / 1000 [ 80%]  (Sampling)
+Iteration: 900 / 1000 [ 90%]  (Sampling)
+Iteration: 200 / 1000 [ 20%]  (Warmup)
+Iteration: 1000 / 1000 [100%]  (Sampling)
+
+ Elapsed Time: 0.085026 seconds (Warm-up)
+               0.026375 seconds (Sampling)
+               0.111401 seconds (Total)
+
+Iteration: 300 / 1000 [ 30%]  (Warmup)
+Iteration: 400 / 1000 [ 40%]  (Warmup)
+Iteration: 400 / 1000 [ 40%]  (Warmup)
+Iteration: 300 / 1000 [ 30%]  (Warmup)
+Iteration: 500 / 1000 [ 50%]  (Warmup)
+Iteration: 501 / 1000 [ 50%]  (Sampling)
+Iteration: 500 / 1000 [ 50%]  (Warmup)
+Iteration: 501 / 1000 [ 50%]  (Sampling)
+Iteration: 600 / 1000 [ 60%]  (Sampling)
+Iteration: 400 / 1000 [ 40%]  (Warmup)
+Iteration: 700 / 1000 [ 70%]  (Sampling)
+Iteration: 600 / 1000 [ 60%]  (Sampling)
+Iteration: 800 / 1000 [ 80%]  (Sampling)
+Iteration: 500 / 1000 [ 50%]  (Warmup)
+Iteration: 501 / 1000 [ 50%]  (Sampling)
+Iteration: 600 / 1000 [ 60%]  (Sampling)
+Iteration: 900 / 1000 [ 90%]  (Sampling)
+Iteration: 700 / 1000 [ 70%]  (Sampling)
+Iteration: 1000 / 1000 [100%]  (Sampling)
+
+ Elapsed Time: 0.13431 seconds (Warm-up)
+               0.064304 seconds (Sampling)
+               0.198614 seconds (Total)
+
+Iteration: 800 / 1000 [ 80%]  (Sampling)
+Iteration: 700 / 1000 [ 70%]  (Sampling)
+Iteration: 900 / 1000 [ 90%]  (Sampling)
+Iteration: 1000 / 1000 [100%]  (Sampling)
+
+ Elapsed Time: 0.174112 seconds (Warm-up)
+               0.052942 seconds (Sampling)
+               0.227054 seconds (Total)
+
+Iteration: 800 / 1000 [ 80%]  (Sampling)
+Iteration: 900 / 1000 [ 90%]  (Sampling)
+Iteration: 1000 / 1000 [100%]  (Sampling)
+
+ Elapsed Time: 0.124726 seconds (Warm-up)
+               0.189069 seconds (Sampling)
+               0.313795 seconds (Total)
+
+permuted  :::  1.1766736940480769
+not_permuted  :::  0.5410756040364504
+array  :::  0.4925622909795493
+100 1500 1000
+
+Gradient evaluation took 5.6e-05 seconds
+1000 transitions using 10 leapfrog steps per transition would take 0.56 seconds.
+Adjust your expectations accordingly!
+
+
+Iteration:    1 / 1500 [  0%]  (Warmup)
+
+Gradient evaluation took 3.2e-05 seconds
+1000 transitions using 10 leapfrog steps per transition would take 0.32 seconds.
+Adjust your expectations accordingly!
+
+
+Iteration:    1 / 1500 [  0%]  (Warmup)
+
+
+Gradient evaluation took 3.8e-05 seconds
+Gradient evaluation took 3.9e-05 seconds
+1000 transitions using 10 leapfrog steps per transition would take 0.38 seconds.
+1000 transitions using 10 leapfrog steps per transition would take 0.39 seconds.
+Adjust your expectations accordingly!
+Adjust your expectations accordingly!
+
+
+
+
+Iteration:    1 / 1500 [  0%]  (Warmup)
+Iteration:    1 / 1500 [  0%]  (Warmup)
+Iteration:  150 / 1500 [ 10%]  (Warmup)
+Iteration:  150 / 1500 [ 10%]  (Warmup)
+Iteration:  150 / 1500 [ 10%]  (Warmup)
+Iteration:  300 / 1500 [ 20%]  (Warmup)
+Iteration:  300 / 1500 [ 20%]  (Warmup)
+Iteration:  150 / 1500 [ 10%]  (Warmup)
+Iteration:  300 / 1500 [ 20%]  (Warmup)
+Iteration:  450 / 1500 [ 30%]  (Warmup)
+Iteration:  450 / 1500 [ 30%]  (Warmup)
+Iteration:  450 / 1500 [ 30%]  (Warmup)
+Iteration:  600 / 1500 [ 40%]  (Warmup)
+Iteration:  300 / 1500 [ 20%]  (Warmup)
+Iteration:  600 / 1500 [ 40%]  (Warmup)
+Iteration:  750 / 1500 [ 50%]  (Warmup)
+Iteration:  751 / 1500 [ 50%]  (Sampling)
+Iteration:  450 / 1500 [ 30%]  (Warmup)
+Iteration:  750 / 1500 [ 50%]  (Warmup)
+Iteration:  751 / 1500 [ 50%]  (Sampling)
+Iteration:  600 / 1500 [ 40%]  (Warmup)
+Iteration:  900 / 1500 [ 60%]  (Sampling)
+Iteration:  900 / 1500 [ 60%]  (Sampling)
+Iteration:  600 / 1500 [ 40%]  (Warmup)
+Iteration: 1050 / 1500 [ 70%]  (Sampling)
+Iteration: 1200 / 1500 [ 80%]  (Sampling)
+Iteration:  750 / 1500 [ 50%]  (Warmup)
+Iteration:  751 / 1500 [ 50%]  (Sampling)
+Iteration: 1050 / 1500 [ 70%]  (Sampling)
+Iteration: 1350 / 1500 [ 90%]  (Sampling)
+Iteration:  750 / 1500 [ 50%]  (Warmup)
+Iteration:  751 / 1500 [ 50%]  (Sampling)
+Iteration: 1500 / 1500 [100%]  (Sampling)
+
+ Elapsed Time: 0.178813 seconds (Warm-up)
+               0.053586 seconds (Sampling)
+               0.232399 seconds (Total)
+
+Iteration:  900 / 1500 [ 60%]  (Sampling)
+Iteration:  900 / 1500 [ 60%]  (Sampling)
+Iteration: 1050 / 1500 [ 70%]  (Sampling)
+Iteration: 1200 / 1500 [ 80%]  (Sampling)
+Iteration: 1050 / 1500 [ 70%]  (Sampling)
+Iteration: 1200 / 1500 [ 80%]  (Sampling)
+Iteration: 1200 / 1500 [ 80%]  (Sampling)
+Iteration: 1350 / 1500 [ 90%]  (Sampling)
+Iteration: 1350 / 1500 [ 90%]  (Sampling)
+Iteration: 1500 / 1500 [100%]  (Sampling)
+
+ Elapsed Time: 0.231111 seconds (Warm-up)
+               0.045575 seconds (Sampling)
+               0.276686 seconds (Total)
+
+Iteration: 1350 / 1500 [ 90%]  (Sampling)
+Iteration: 1500 / 1500 [100%]  (Sampling)
+
+ Elapsed Time: 0.222394 seconds (Warm-up)
+               0.066115 seconds (Sampling)
+               0.288509 seconds (Total)
+
+Iteration: 1500 / 1500 [100%]  (Sampling)
+
+ Elapsed Time: 0.162888 seconds (Warm-up)
+               0.142578 seconds (Sampling)
+               0.305466 seconds (Total)
+
+permuted  :::  1.5819488479755819
+not_permuted  :::  1.81859339796938
+array  :::  0.6396215250133537
+100 2000 1000
+
+Gradient evaluation took 2.3e-05 seconds
+1000 transitions using 10 leapfrog steps per transition would take 0.23 seconds.
+Adjust your expectations accordingly!
+
+
+Iteration:    1 / 2000 [  0%]  (Warmup)
+
+Gradient evaluation took 2.8e-05 seconds
+1000 transitions using 10 leapfrog steps per transition would take 0.28 seconds.
+Adjust your expectations accordingly!
+
+
+Iteration:    1 / 2000 [  0%]  (Warmup)
+
+
+Gradient evaluation took 3.3e-05 seconds
+Gradient evaluation took 3.7e-05 seconds
+1000 transitions using 10 leapfrog steps per transition would take 0.33 seconds.
+1000 transitions using 10 leapfrog steps per transition would take 0.37 seconds.
+Adjust your expectations accordingly!
+Adjust your expectations accordingly!
+
+
+
+
+Iteration:    1 / 2000 [  0%]  (Warmup)
+Iteration:    1 / 2000 [  0%]  (Warmup)
+Iteration:  200 / 2000 [ 10%]  (Warmup)
+Iteration:  200 / 2000 [ 10%]  (Warmup)
+Iteration:  200 / 2000 [ 10%]  (Warmup)
+Iteration:  200 / 2000 [ 10%]  (Warmup)
+Iteration:  400 / 2000 [ 20%]  (Warmup)
+Iteration:  400 / 2000 [ 20%]  (Warmup)
+Iteration:  400 / 2000 [ 20%]  (Warmup)
+Iteration:  600 / 2000 [ 30%]  (Warmup)
+Iteration:  400 / 2000 [ 20%]  (Warmup)
+Iteration:  600 / 2000 [ 30%]  (Warmup)
+Iteration:  600 / 2000 [ 30%]  (Warmup)
+Iteration:  800 / 2000 [ 40%]  (Warmup)
+Iteration:  800 / 2000 [ 40%]  (Warmup)
+Iteration:  600 / 2000 [ 30%]  (Warmup)
+Iteration: 1000 / 2000 [ 50%]  (Warmup)
+Iteration: 1001 / 2000 [ 50%]  (Sampling)
+Iteration: 1000 / 2000 [ 50%]  (Warmup)
+Iteration: 1001 / 2000 [ 50%]  (Sampling)
+Iteration: 1200 / 2000 [ 60%]  (Sampling)
+Iteration:  800 / 2000 [ 40%]  (Warmup)
+Iteration: 1200 / 2000 [ 60%]  (Sampling)
+Iteration: 1400 / 2000 [ 70%]  (Sampling)
+Iteration:  800 / 2000 [ 40%]  (Warmup)
+Iteration: 1400 / 2000 [ 70%]  (Sampling)
+Iteration: 1600 / 2000 [ 80%]  (Sampling)
+Iteration: 1600 / 2000 [ 80%]  (Sampling)
+Iteration: 1800 / 2000 [ 90%]  (Sampling)
+Iteration: 1000 / 2000 [ 50%]  (Warmup)
+Iteration: 1800 / 2000 [ 90%]  (Sampling)
+Iteration: 1001 / 2000 [ 50%]  (Sampling)
+Iteration: 2000 / 2000 [100%]  (Sampling)
+
+ Elapsed Time: 0.218828 seconds (Warm-up)
+               0.061006 seconds (Sampling)
+               0.279834 seconds (Total)
+
+Iteration: 2000 / 2000 [100%]  (Sampling)
+
+ Elapsed Time: 0.228833 seconds (Warm-up)
+               0.053897 seconds (Sampling)
+               0.28273 seconds (Total)
+
+Iteration: 1000 / 2000 [ 50%]  (Warmup)
+Iteration: 1001 / 2000 [ 50%]  (Sampling)
+Iteration: 1200 / 2000 [ 60%]  (Sampling)
+Iteration: 1400 / 2000 [ 70%]  (Sampling)
+Iteration: 1600 / 2000 [ 80%]  (Sampling)
+Iteration: 1200 / 2000 [ 60%]  (Sampling)
+Iteration: 1800 / 2000 [ 90%]  (Sampling)
+Iteration: 2000 / 2000 [100%]  (Sampling)
+
+ Elapsed Time: 0.272965 seconds (Warm-up)
+               0.053061 seconds (Sampling)
+               0.326026 seconds (Total)
+
+Iteration: 1400 / 2000 [ 70%]  (Sampling)
+Iteration: 1600 / 2000 [ 80%]  (Sampling)
+Iteration: 1800 / 2000 [ 90%]  (Sampling)
+Iteration: 2000 / 2000 [100%]  (Sampling)
+
+ Elapsed Time: 0.288745 seconds (Warm-up)
+               0.134992 seconds (Sampling)
+               0.423737 seconds (Total)
+
+permuted  :::  1.9827602109871805
+not_permuted  :::  2.3535320480004884
+array  :::  0.7886278349906206
+500 100 1000
+
+Gradient evaluation took 7.5e-05 seconds
+1000 transitions using 10 leapfrog steps per transition would take 0.75 seconds.
+Adjust your expectations accordingly!
+
+
+WARNING: There aren't enough warmup iterations to fit the
+         three stages of adaptation as currently configured.
+         Reducing each adaptation stage to 15%/75%/10% of
+         the given number of warmup iterations:
+           init_buffer = 7
+           adapt_window = 38
+           term_buffer = 5
+
+
+Gradient evaluation took 6.5e-05 seconds
+Iteration:  1 / 100 [  1%]  (Warmup)
+1000 transitions using 10 leapfrog steps per transition would take 0.65 seconds.
+Adjust your expectations accordingly!
+
+
+WARNING: There aren't enough warmup iterations to fit the
+         three stages of adaptation as currently configured.
+         Reducing each adaptation stage to 15%/75%/10% of
+
+         the given number of warmup iterations:
+           init_buffer = 7
+           adapt_window = 38
+           term_buffer = 5
+
+Gradient evaluation took 7.4e-05 seconds
+1000 transitions using 10 leapfrog steps per transition would take 0.74 seconds.
+Adjust your expectations accordingly!
+
+
+WARNING: There aren't enough warmup iterations to fit the
+         three stages of adaptation as currently configured.
+         Reducing each adaptation stage to 15%/75%/10% of
+         the given number of warmup iterations:
+           init_buffer = 7
+           adapt_window = 38
+           term_buffer = 5
+
+
+Gradient evaluation took 7.7e-05 seconds
+1000 transitions using 10 leapfrog steps per transition would take 0.77 seconds.
+Adjust your expectations accordingly!
+
+
+WARNING: There aren't enough warmup iterations to fit the
+         three stages of adaptation as currently configured.
+         Reducing each adaptation stage to 15%/75%/10% of
+         the given number of warmup iterations:
+           init_buffer = 7
+           adapt_window = 38
+           term_buffer = 5
+
+Iteration:  1 / 100 [  1%]  (Warmup)
+Iteration:  1 / 100 [  1%]  (Warmup)
+Iteration:  1 / 100 [  1%]  (Warmup)
+Iteration: 10 / 100 [ 10%]  (Warmup)
+Iteration: 10 / 100 [ 10%]  (Warmup)
+Iteration: 10 / 100 [ 10%]  (Warmup)
+Iteration: 20 / 100 [ 20%]  (Warmup)
+Iteration: 20 / 100 [ 20%]  (Warmup)
+Iteration: 20 / 100 [ 20%]  (Warmup)
+Iteration: 10 / 100 [ 10%]  (Warmup)
+Iteration: 30 / 100 [ 30%]  (Warmup)
+Iteration: 30 / 100 [ 30%]  (Warmup)
+Iteration: 40 / 100 [ 40%]  (Warmup)
+Iteration: 20 / 100 [ 20%]  (Warmup)
+Iteration: 30 / 100 [ 30%]  (Warmup)
+Iteration: 40 / 100 [ 40%]  (Warmup)
+Iteration: 30 / 100 [ 30%]  (Warmup)
+Iteration: 40 / 100 [ 40%]  (Warmup)
+Iteration: 50 / 100 [ 50%]  (Warmup)
+Iteration: 51 / 100 [ 51%]  (Sampling)
+Iteration: 60 / 100 [ 60%]  (Sampling)
+Iteration: 40 / 100 [ 40%]  (Warmup)
+Iteration: 70 / 100 [ 70%]  (Sampling)
+Iteration: 50 / 100 [ 50%]  (Warmup)
+Iteration: 51 / 100 [ 51%]  (Sampling)
+Iteration: 80 / 100 [ 80%]  (Sampling)
+Iteration: 60 / 100 [ 60%]  (Sampling)
+Iteration: 90 / 100 [ 90%]  (Sampling)
+Iteration: 70 / 100 [ 70%]  (Sampling)
+Iteration: 100 / 100 [100%]  (Sampling)
+
+ Elapsed Time: 0.101492 seconds (Warm-up)
+               0.022987 seconds (Sampling)
+               0.124479 seconds (Total)
+
+Iteration: 80 / 100 [ 80%]  (Sampling)
+Iteration: 50 / 100 [ 50%]  (Warmup)
+Iteration: 90 / 100 [ 90%]  (Sampling)
+Iteration: 51 / 100 [ 51%]  (Sampling)
+Iteration: 50 / 100 [ 50%]  (Warmup)
+Iteration: 51 / 100 [ 51%]  (Sampling)
+Iteration: 100 / 100 [100%]  (Sampling)
+
+ Elapsed Time: 0.113154 seconds (Warm-up)
+               0.021633 seconds (Sampling)
+               0.134787 seconds (Total)
+
+Iteration: 60 / 100 [ 60%]  (Sampling)
+Iteration: 60 / 100 [ 60%]  (Sampling)
+Iteration: 70 / 100 [ 70%]  (Sampling)
+Iteration: 70 / 100 [ 70%]  (Sampling)
+Iteration: 80 / 100 [ 80%]  (Sampling)
+Iteration: 80 / 100 [ 80%]  (Sampling)
+Iteration: 90 / 100 [ 90%]  (Sampling)
+Iteration: 90 / 100 [ 90%]  (Sampling)
+Iteration: 100 / 100 [100%]  (Sampling)
+
+ Elapsed Time: 0.129455 seconds (Warm-up)
+               0.021866 seconds (Sampling)
+               0.151321 seconds (Total)
+
+Iteration: 100 / 100 [100%]  (Sampling)
+
+ Elapsed Time: 0.132524 seconds (Warm-up)
+               0.02177 seconds (Sampling)
+               0.154294 seconds (Total)
+
+permuted  :::  1.4621660609846003
+not_permuted  :::  1.0863422710099258
+array  :::  0.88315386895556
+500 500 1000
+
+Gradient evaluation took 6.7e-05 seconds
+1000 transitions using 10 leapfrog steps per transition would take 0.67 seconds.
+Adjust your expectations accordingly!
+
+
+
+Iteration:   1 / 500 [  0%]  (Warmup)
+Gradient evaluation took 7.2e-05 seconds
+1000 transitions using 10 leapfrog steps per transition would take 0.72 seconds.
+Adjust your expectations accordingly!
+
+
+Iteration:   1 / 500 [  0%]  (Warmup)
+
+Gradient evaluation took 8.3e-05 seconds
+1000 transitions using 10 leapfrog steps per transition would take 0.83 seconds.
+Adjust your expectations accordingly!
+
+
+
+Gradient evaluation took 9.7e-05 seconds
+1000 transitions using 10 leapfrog steps per transition would take 0.97 seconds.
+Adjust your expectations accordingly!
+
+
+Iteration:   1 / 500 [  0%]  (Warmup)
+Iteration:   1 / 500 [  0%]  (Warmup)
+Iteration:  50 / 500 [ 10%]  (Warmup)
+Iteration:  50 / 500 [ 10%]  (Warmup)
+Iteration:  50 / 500 [ 10%]  (Warmup)
+Iteration:  50 / 500 [ 10%]  (Warmup)
+Iteration: 100 / 500 [ 20%]  (Warmup)
+Iteration: 100 / 500 [ 20%]  (Warmup)
+Iteration: 100 / 500 [ 20%]  (Warmup)
+Iteration: 100 / 500 [ 20%]  (Warmup)
+Iteration: 150 / 500 [ 30%]  (Warmup)
+Iteration: 150 / 500 [ 30%]  (Warmup)
+Iteration: 150 / 500 [ 30%]  (Warmup)
+Iteration: 150 / 500 [ 30%]  (Warmup)
+Iteration: 200 / 500 [ 40%]  (Warmup)
+Iteration: 200 / 500 [ 40%]  (Warmup)
+Iteration: 200 / 500 [ 40%]  (Warmup)
+Iteration: 250 / 500 [ 50%]  (Warmup)
+Iteration: 251 / 500 [ 50%]  (Sampling)
+Iteration: 200 / 500 [ 40%]  (Warmup)
+Iteration: 300 / 500 [ 60%]  (Sampling)
+Iteration: 250 / 500 [ 50%]  (Warmup)
+Iteration: 251 / 500 [ 50%]  (Sampling)
+Iteration: 350 / 500 [ 70%]  (Sampling)
+Iteration: 300 / 500 [ 60%]  (Sampling)
+Iteration: 400 / 500 [ 80%]  (Sampling)
+Iteration: 350 / 500 [ 70%]  (Sampling)
+Iteration: 450 / 500 [ 90%]  (Sampling)
+Iteration: 250 / 500 [ 50%]  (Warmup)
+Iteration: 251 / 500 [ 50%]  (Sampling)
+Iteration: 400 / 500 [ 80%]  (Sampling)
+Iteration: 500 / 500 [100%]  (Sampling)
+
+ Elapsed Time: 0.322394 seconds (Warm-up)
+               0.078473 seconds (Sampling)
+               0.400867 seconds (Total)
+
+Iteration: 300 / 500 [ 60%]  (Sampling)
+Iteration: 250 / 500 [ 50%]  (Warmup)
+Iteration: 251 / 500 [ 50%]  (Sampling)
+Iteration: 450 / 500 [ 90%]  (Sampling)
+Iteration: 350 / 500 [ 70%]  (Sampling)
+Iteration: 500 / 500 [100%]  (Sampling)
+
+ Elapsed Time: 0.340821 seconds (Warm-up)
+               0.079241 seconds (Sampling)
+               0.420062 seconds (Total)
+
+Iteration: 300 / 500 [ 60%]  (Sampling)
+Iteration: 400 / 500 [ 80%]  (Sampling)
+Iteration: 350 / 500 [ 70%]  (Sampling)
+Iteration: 450 / 500 [ 90%]  (Sampling)
+Iteration: 400 / 500 [ 80%]  (Sampling)
+Iteration: 500 / 500 [100%]  (Sampling)
+
+ Elapsed Time: 0.381321 seconds (Warm-up)
+               0.080655 seconds (Sampling)
+               0.461976 seconds (Total)
+
+Iteration: 450 / 500 [ 90%]  (Sampling)
+Iteration: 500 / 500 [100%]  (Sampling)
+
+ Elapsed Time: 0.40616 seconds (Warm-up)
+               0.092623 seconds (Sampling)
+               0.498783 seconds (Total)
+
+permuted  :::  2.9035479510203004
+not_permuted  :::  3.717524448991753
+array  :::  1.5268629980273545
+500 1000 1000
+
+Gradient evaluation took 8.3e-05 seconds
+1000 transitions using 10 leapfrog steps per transition would take 0.83 seconds.
+Adjust your expectations accordingly!
+
+
+Iteration:   1 / 1000 [  0%]  (Warmup)
+
+Gradient evaluation took 7.5e-05 seconds
+1000 transitions using 10 leapfrog steps per transition would take 0.75 seconds.
+Adjust your expectations accordingly!
+
+
+Iteration:   1 / 1000 [  0%]  (Warmup)
+
+Gradient evaluation took 8.4e-05 seconds
+1000 transitions using 10 leapfrog steps per transition would take 0.84 seconds.
+Adjust your expectations accordingly!
+
+
+
+Gradient evaluation took 8.7e-05 seconds
+1000 transitions using 10 leapfrog steps per transition would take 0.87 seconds.
+Adjust your expectations accordingly!
+
+
+Iteration:   1 / 1000 [  0%]  (Warmup)
+Iteration:   1 / 1000 [  0%]  (Warmup)
+Iteration: 100 / 1000 [ 10%]  (Warmup)
+Iteration: 100 / 1000 [ 10%]  (Warmup)
+Iteration: 100 / 1000 [ 10%]  (Warmup)
+Iteration: 100 / 1000 [ 10%]  (Warmup)
+Iteration: 200 / 1000 [ 20%]  (Warmup)
+Iteration: 200 / 1000 [ 20%]  (Warmup)
+Iteration: 200 / 1000 [ 20%]  (Warmup)
+Iteration: 200 / 1000 [ 20%]  (Warmup)
+Iteration: 300 / 1000 [ 30%]  (Warmup)
+Iteration: 300 / 1000 [ 30%]  (Warmup)
+Iteration: 300 / 1000 [ 30%]  (Warmup)
+Iteration: 400 / 1000 [ 40%]  (Warmup)
+Iteration: 300 / 1000 [ 30%]  (Warmup)
+Iteration: 400 / 1000 [ 40%]  (Warmup)
+Iteration: 500 / 1000 [ 50%]  (Warmup)
+Iteration: 501 / 1000 [ 50%]  (Sampling)
+Iteration: 400 / 1000 [ 40%]  (Warmup)
+Iteration: 600 / 1000 [ 60%]  (Sampling)
+Iteration: 400 / 1000 [ 40%]  (Warmup)
+Iteration: 500 / 1000 [ 50%]  (Warmup)
+Iteration: 501 / 1000 [ 50%]  (Sampling)
+Iteration: 700 / 1000 [ 70%]  (Sampling)
+Iteration: 600 / 1000 [ 60%]  (Sampling)
+Iteration: 800 / 1000 [ 80%]  (Sampling)
+Iteration: 700 / 1000 [ 70%]  (Sampling)
+Iteration: 900 / 1000 [ 90%]  (Sampling)
+Iteration: 500 / 1000 [ 50%]  (Warmup)
+Iteration: 501 / 1000 [ 50%]  (Sampling)
+Iteration: 800 / 1000 [ 80%]  (Sampling)
+Iteration: 1000 / 1000 [100%]  (Sampling)
+
+ Elapsed Time: 0.596687 seconds (Warm-up)
+               0.157751 seconds (Sampling)
+               0.754438 seconds (Total)
+
+Iteration: 500 / 1000 [ 50%]  (Warmup)
+Iteration: 501 / 1000 [ 50%]  (Sampling)
+Iteration: 600 / 1000 [ 60%]  (Sampling)
+Iteration: 900 / 1000 [ 90%]  (Sampling)
+Iteration: 600 / 1000 [ 60%]  (Sampling)
+Iteration: 700 / 1000 [ 70%]  (Sampling)
+Iteration: 1000 / 1000 [100%]  (Sampling)
+
+ Elapsed Time: 0.651933 seconds (Warm-up)
+               0.157695 seconds (Sampling)
+               0.809628 seconds (Total)
+
+Iteration: 700 / 1000 [ 70%]  (Sampling)
+Iteration: 800 / 1000 [ 80%]  (Sampling)
+Iteration: 800 / 1000 [ 80%]  (Sampling)
+Iteration: 900 / 1000 [ 90%]  (Sampling)
+Iteration: 900 / 1000 [ 90%]  (Sampling)
+Iteration: 1000 / 1000 [100%]  (Sampling)
+
+ Elapsed Time: 0.741281 seconds (Warm-up)
+               0.158606 seconds (Sampling)
+               0.899887 seconds (Total)
+
+Iteration: 1000 / 1000 [100%]  (Sampling)
+
+ Elapsed Time: 0.753058 seconds (Warm-up)
+               0.157912 seconds (Sampling)
+               0.91097 seconds (Total)
+
+permuted  :::  11.456451476959046
+not_permuted  :::  9.0030056629912
+array  :::  3.6929463319829665
+500 1500 1000
+
+Gradient evaluation took 5e-05 seconds
+1000 transitions using 10 leapfrog steps per transition would take 0.5 seconds.
+Adjust your expectations accordingly!
+
+
+Iteration:    1 / 1500 [  0%]  (Warmup)
+
+Gradient evaluation took 8.7e-05 seconds
+1000 transitions using 10 leapfrog steps per transition would take 0.87 seconds.
+Adjust your expectations accordingly!
+
+
+Iteration:    1 / 1500 [  0%]  (Warmup)
+
+
+Gradient evaluation took 9.6e-05 seconds
+Gradient evaluation took 9.7e-05 seconds
+1000 transitions using 10 leapfrog steps per transition would take 0.96 seconds.
+1000 transitions using 10 leapfrog steps per transition would take 0.97 seconds.
+Adjust your expectations accordingly!
+Adjust your expectations accordingly!
+
+
+
+
+Iteration:    1 / 1500 [  0%]  (Warmup)
+Iteration:    1 / 1500 [  0%]  (Warmup)
+Iteration:  150 / 1500 [ 10%]  (Warmup)
+Iteration:  150 / 1500 [ 10%]  (Warmup)
+Iteration:  150 / 1500 [ 10%]  (Warmup)
+Iteration:  150 / 1500 [ 10%]  (Warmup)
+Iteration:  300 / 1500 [ 20%]  (Warmup)
+Iteration:  300 / 1500 [ 20%]  (Warmup)
+Iteration:  300 / 1500 [ 20%]  (Warmup)
+Iteration:  300 / 1500 [ 20%]  (Warmup)
+Iteration:  450 / 1500 [ 30%]  (Warmup)
+Iteration:  450 / 1500 [ 30%]  (Warmup)
+Iteration:  450 / 1500 [ 30%]  (Warmup)
+Iteration:  600 / 1500 [ 40%]  (Warmup)
+Iteration:  450 / 1500 [ 30%]  (Warmup)
+Iteration:  600 / 1500 [ 40%]  (Warmup)
+Iteration:  600 / 1500 [ 40%]  (Warmup)
+Iteration:  750 / 1500 [ 50%]  (Warmup)
+Iteration:  751 / 1500 [ 50%]  (Sampling)
+Iteration:  750 / 1500 [ 50%]  (Warmup)
+Iteration:  751 / 1500 [ 50%]  (Sampling)
+Iteration:  900 / 1500 [ 60%]  (Sampling)
+Iteration:  750 / 1500 [ 50%]  (Warmup)
+Iteration:  900 / 1500 [ 60%]  (Sampling)
+Iteration:  751 / 1500 [ 50%]  (Sampling)
+Iteration: 1050 / 1500 [ 70%]  (Sampling)
+Iteration:  600 / 1500 [ 40%]  (Warmup)
+Iteration: 1050 / 1500 [ 70%]  (Sampling)
+Iteration:  900 / 1500 [ 60%]  (Sampling)
+Iteration: 1200 / 1500 [ 80%]  (Sampling)
+Iteration: 1200 / 1500 [ 80%]  (Sampling)
+Iteration: 1050 / 1500 [ 70%]  (Sampling)
+Iteration: 1350 / 1500 [ 90%]  (Sampling)
+Iteration: 1350 / 1500 [ 90%]  (Sampling)
+Iteration: 1200 / 1500 [ 80%]  (Sampling)
+Iteration: 1500 / 1500 [100%]  (Sampling)
+
+ Elapsed Time: 0.863927 seconds (Warm-up)
+               0.225256 seconds (Sampling)
+               1.08918 seconds (Total)
+
+Iteration: 1500 / 1500 [100%]  (Sampling)
+
+ Elapsed Time: 0.890176 seconds (Warm-up)
+               0.224905 seconds (Sampling)
+               1.11508 seconds (Total)
+
+Iteration: 1350 / 1500 [ 90%]  (Sampling)
+Iteration: 1500 / 1500 [100%]  (Sampling)
+
+ Elapsed Time: 0.934234 seconds (Warm-up)
+               0.234672 seconds (Sampling)
+               1.16891 seconds (Total)
+
+Iteration:  750 / 1500 [ 50%]  (Warmup)
+Iteration:  751 / 1500 [ 50%]  (Sampling)
+Iteration:  900 / 1500 [ 60%]  (Sampling)
+Iteration: 1050 / 1500 [ 70%]  (Sampling)
+Iteration: 1200 / 1500 [ 80%]  (Sampling)
+Iteration: 1350 / 1500 [ 90%]  (Sampling)
+Iteration: 1500 / 1500 [100%]  (Sampling)
+
+ Elapsed Time: 1.22499 seconds (Warm-up)
+               0.239411 seconds (Sampling)
+               1.4644 seconds (Total)
+
+permuted  :::  19.18629778700415
+not_permuted  :::  15.020392528967932
+array  :::  6.089339588012081
+500 2000 1000
+
+Gradient evaluation took 6.5e-05 seconds
+1000 transitions using 10 leapfrog steps per transition would take 0.65 seconds.
+Adjust your expectations accordingly!
+
+
+Iteration:    1 / 2000 [  0%]  (Warmup)
+
+Gradient evaluation took 6.6e-05 seconds
+1000 transitions using 10 leapfrog steps per transition would take 0.66 seconds.
+Adjust your expectations accordingly!
+
+
+Iteration:    1 / 2000 [  0%]  (Warmup)
+
+
+Gradient evaluation took 8.7e-05 seconds
+Gradient evaluation took 8.2e-05 seconds
+1000 transitions using 10 leapfrog steps per transition would take 0.87 seconds.
+1000 transitions using 10 leapfrog steps per transition would take 0.82 seconds.
+Adjust your expectations accordingly!
+Adjust your expectations accordingly!
+
+
+
+
+Iteration:    1 / 2000 [  0%]  (Warmup)
+Iteration:    1 / 2000 [  0%]  (Warmup)
+Iteration:  200 / 2000 [ 10%]  (Warmup)
+Iteration:  200 / 2000 [ 10%]  (Warmup)
+Iteration:  200 / 2000 [ 10%]  (Warmup)
+Iteration:  200 / 2000 [ 10%]  (Warmup)
+Iteration:  400 / 2000 [ 20%]  (Warmup)
+Iteration:  400 / 2000 [ 20%]  (Warmup)
+Iteration:  400 / 2000 [ 20%]  (Warmup)
+Iteration:  400 / 2000 [ 20%]  (Warmup)
+Iteration:  600 / 2000 [ 30%]  (Warmup)
+Iteration:  600 / 2000 [ 30%]  (Warmup)
+Iteration:  600 / 2000 [ 30%]  (Warmup)
+Iteration:  600 / 2000 [ 30%]  (Warmup)
+Iteration:  800 / 2000 [ 40%]  (Warmup)
+Iteration:  800 / 2000 [ 40%]  (Warmup)
+Iteration:  800 / 2000 [ 40%]  (Warmup)
+Iteration:  800 / 2000 [ 40%]  (Warmup)
+Iteration: 1000 / 2000 [ 50%]  (Warmup)
+Iteration: 1001 / 2000 [ 50%]  (Sampling)
+Iteration: 1200 / 2000 [ 60%]  (Sampling)
+Iteration: 1000 / 2000 [ 50%]  (Warmup)
+Iteration: 1001 / 2000 [ 50%]  (Sampling)
+Iteration: 1400 / 2000 [ 70%]  (Sampling)
+Iteration: 1000 / 2000 [ 50%]  (Warmup)
+Iteration: 1001 / 2000 [ 50%]  (Sampling)
+Iteration: 1200 / 2000 [ 60%]  (Sampling)
+Iteration: 1600 / 2000 [ 80%]  (Sampling)
+Iteration: 1000 / 2000 [ 50%]  (Warmup)
+Iteration: 1001 / 2000 [ 50%]  (Sampling)
+Iteration: 1200 / 2000 [ 60%]  (Sampling)
+Iteration: 1400 / 2000 [ 70%]  (Sampling)
+Iteration: 1800 / 2000 [ 90%]  (Sampling)
+Iteration: 1200 / 2000 [ 60%]  (Sampling)
+Iteration: 1600 / 2000 [ 80%]  (Sampling)
+Iteration: 1400 / 2000 [ 70%]  (Sampling)
+Iteration: 2000 / 2000 [100%]  (Sampling)
+
+ Elapsed Time: 1.24725 seconds (Warm-up)
+               0.298091 seconds (Sampling)
+               1.54534 seconds (Total)
+
+Iteration: 1400 / 2000 [ 70%]  (Sampling)
+Iteration: 1800 / 2000 [ 90%]  (Sampling)
+Iteration: 1600 / 2000 [ 80%]  (Sampling)
+Iteration: 1600 / 2000 [ 80%]  (Sampling)
+Iteration: 2000 / 2000 [100%]  (Sampling)
+
+ Elapsed Time: 1.35093 seconds (Warm-up)
+               0.297483 seconds (Sampling)
+               1.64842 seconds (Total)
+
+Iteration: 1800 / 2000 [ 90%]  (Sampling)
+Iteration: 1800 / 2000 [ 90%]  (Sampling)
+Iteration: 2000 / 2000 [100%]  (Sampling)
+
+ Elapsed Time: 1.41007 seconds (Warm-up)
+               0.376732 seconds (Sampling)
+               1.7868 seconds (Total)
+
+Iteration: 2000 / 2000 [100%]  (Sampling)
+
+ Elapsed Time: 1.44737 seconds (Warm-up)
+               0.391286 seconds (Sampling)
+               1.83866 seconds (Total)
+
+permuted  :::  27.695342728984542
+not_permuted  :::  19.57674335699994
+array  :::  7.510859153000638
+1000 100 100
+
+Gradient evaluation took 0.000114 seconds
+1000 transitions using 10 leapfrog steps per transition would take 1.14 seconds.
+Adjust your expectations accordingly!
+
+
+WARNING: There aren't enough warmup iterations to fit the
+         three stages of adaptation as currently configured.
+         Reducing each adaptation stage to 15%/75%/10% of
+         the given number of warmup iterations:
+           init_buffer = 7
+           adapt_window = 38
+           term_buffer = 5
+
+Iteration:  1 / 100 [  1%]  (Warmup)
+
+Gradient evaluation took 0.000114 seconds
+1000 transitions using 10 leapfrog steps per transition would take 1.14 seconds.
+Adjust your expectations accordingly!
+
+
+WARNING: There aren't enough warmup iterations to fit the
+         three stages of adaptation as currently configured.
+         Reducing each adaptation stage to 15%/75%/10% of
+         the given number of warmup iterations:
+           init_buffer = 7
+           adapt_window = 38
+           term_buffer = 5
+
+
+Gradient evaluation took 0.000121 seconds
+1000 transitions using 10 leapfrog steps per transition would take 1.21 seconds.
+
+Adjust your expectations accordingly!
+
+
+Gradient evaluation took 0.000123 seconds
+WARNING: There aren't enough warmup iterations to fit the
+         three stages of adaptation as currently configured.
+         Reducing each adaptation stage to 15%/75%/10% of
+         the given number of warmup iterations:
+           init_buffer = 7
+1000 transitions using 10 leapfrog steps per transition would take 1.23 seconds.
+Adjust your expectations accordingly!
+
+           adapt_window = 38
+
+           term_buffer = 5
+
+WARNING: There aren't enough warmup iterations to fit the
+         three stages of adaptation as currently configured.
+         Reducing each adaptation stage to 15%/75%/10% of
+         the given number of warmup iterations:
+           init_buffer = 7
+           adapt_window = 38
+           term_buffer = 5
+
+Iteration:  1 / 100 [  1%]  (Warmup)
+Iteration:  1 / 100 [  1%]  (Warmup)
+Iteration:  1 / 100 [  1%]  (Warmup)
+Iteration: 10 / 100 [ 10%]  (Warmup)
+Iteration: 10 / 100 [ 10%]  (Warmup)
+Iteration: 10 / 100 [ 10%]  (Warmup)
+Iteration: 10 / 100 [ 10%]  (Warmup)
+Iteration: 20 / 100 [ 20%]  (Warmup)
+Iteration: 20 / 100 [ 20%]  (Warmup)
+Iteration: 30 / 100 [ 30%]  (Warmup)
+Iteration: 30 / 100 [ 30%]  (Warmup)
+Iteration: 40 / 100 [ 40%]  (Warmup)
+Iteration: 20 / 100 [ 20%]  (Warmup)
+Iteration: 50 / 100 [ 50%]  (Warmup)
+Iteration: 51 / 100 [ 51%]  (Sampling)
+Iteration: 60 / 100 [ 60%]  (Sampling)
+Iteration: 70 / 100 [ 70%]  (Sampling)
+Iteration: 20 / 100 [ 20%]  (Warmup)
+Iteration: 80 / 100 [ 80%]  (Sampling)
+Iteration: 90 / 100 [ 90%]  (Sampling)
+Iteration: 100 / 100 [100%]  (Sampling)
+
+ Elapsed Time: 0.090138 seconds (Warm-up)
+               0.03838 seconds (Sampling)
+               0.128518 seconds (Total)
+
+Iteration: 40 / 100 [ 40%]  (Warmup)
+Iteration: 30 / 100 [ 30%]  (Warmup)
+Iteration: 30 / 100 [ 30%]  (Warmup)
+Iteration: 50 / 100 [ 50%]  (Warmup)
+Iteration: 51 / 100 [ 51%]  (Sampling)
+Iteration: 60 / 100 [ 60%]  (Sampling)
+Iteration: 40 / 100 [ 40%]  (Warmup)
+Iteration: 70 / 100 [ 70%]  (Sampling)
+Iteration: 80 / 100 [ 80%]  (Sampling)
+Iteration: 90 / 100 [ 90%]  (Sampling)
+Iteration: 100 / 100 [100%]  (Sampling)
+
+ Elapsed Time: 0.176076 seconds (Warm-up)
+               0.033637 seconds (Sampling)
+               0.209713 seconds (Total)
+
+Iteration: 50 / 100 [ 50%]  (Warmup)
+Iteration: 51 / 100 [ 51%]  (Sampling)
+Iteration: 60 / 100 [ 60%]  (Sampling)
+Iteration: 70 / 100 [ 70%]  (Sampling)
+Iteration: 80 / 100 [ 80%]  (Sampling)
+Iteration: 40 / 100 [ 40%]  (Warmup)
+Iteration: 90 / 100 [ 90%]  (Sampling)
+Iteration: 50 / 100 [ 50%]  (Warmup)
+Iteration: 51 / 100 [ 51%]  (Sampling)
+Iteration: 60 / 100 [ 60%]  (Sampling)
+Iteration: 100 / 100 [100%]  (Sampling)
+
+ Elapsed Time: 0.238957 seconds (Warm-up)
+               0.047496 seconds (Sampling)
+               0.286453 seconds (Total)
+
+Iteration: 70 / 100 [ 70%]  (Sampling)
+Iteration: 80 / 100 [ 80%]  (Sampling)
+Iteration: 90 / 100 [ 90%]  (Sampling)
+Iteration: 100 / 100 [100%]  (Sampling)
+
+ Elapsed Time: 0.262497 seconds (Warm-up)
+               0.031277 seconds (Sampling)
+               0.293774 seconds (Total)
+
+permuted  :::  0.28527435701107606
+not_permuted  :::  0.22292878502048552
+array  :::  0.1811202639946714
+1000 500 100
+
+
+Gradient evaluation took 0.000107 seconds
+Gradient evaluation took 0.000107 seconds
+1000 transitions using 10 leapfrog steps per transition would take 1.07 seconds.
+Adjust your expectations accordingly!
+1000 transitions using 10 leapfrog steps per transition would take 1.07 seconds.
+
+Adjust your expectations accordingly!
+
+
+
+Iteration:   1 / 500 [  0%]  (Warmup)
+Iteration:   1 / 500 [  0%]  (Warmup)
+
+Gradient evaluation took 0.000118 seconds
+1000 transitions using 10 leapfrog steps per transition would take 1.18 seconds.
+Adjust your expectations accordingly!
+
+
+
+Gradient evaluation took 0.000115 seconds
+1000 transitions using 10 leapfrog steps per transition would take 1.15 seconds.
+Adjust your expectations accordingly!
+
+
+Iteration:   1 / 500 [  0%]  (Warmup)
+Iteration:   1 / 500 [  0%]  (Warmup)
+Iteration:  50 / 500 [ 10%]  (Warmup)
+Iteration:  50 / 500 [ 10%]  (Warmup)
+Iteration:  50 / 500 [ 10%]  (Warmup)
+Iteration: 100 / 500 [ 20%]  (Warmup)
+Iteration: 150 / 500 [ 30%]  (Warmup)
+Iteration:  50 / 500 [ 10%]  (Warmup)
+Iteration: 200 / 500 [ 40%]  (Warmup)
+Iteration: 100 / 500 [ 20%]  (Warmup)
+Iteration: 150 / 500 [ 30%]  (Warmup)
+Iteration: 250 / 500 [ 50%]  (Warmup)
+Iteration: 251 / 500 [ 50%]  (Sampling)
+Iteration: 100 / 500 [ 20%]  (Warmup)
+Iteration: 300 / 500 [ 60%]  (Sampling)
+Iteration: 200 / 500 [ 40%]  (Warmup)
+Iteration: 100 / 500 [ 20%]  (Warmup)
+Iteration: 350 / 500 [ 70%]  (Sampling)
+Iteration: 400 / 500 [ 80%]  (Sampling)
+Iteration: 450 / 500 [ 90%]  (Sampling)
+Iteration: 150 / 500 [ 30%]  (Warmup)
+Iteration: 250 / 500 [ 50%]  (Warmup)
+Iteration: 251 / 500 [ 50%]  (Sampling)
+Iteration: 150 / 500 [ 30%]  (Warmup)
+Iteration: 500 / 500 [100%]  (Sampling)
+
+ Elapsed Time: 0.397584 seconds (Warm-up)
+               0.151243 seconds (Sampling)
+               0.548827 seconds (Total)
+
+Iteration: 300 / 500 [ 60%]  (Sampling)
+Iteration: 200 / 500 [ 40%]  (Warmup)
+Iteration: 200 / 500 [ 40%]  (Warmup)
+Iteration: 350 / 500 [ 70%]  (Sampling)
+Iteration: 400 / 500 [ 80%]  (Sampling)
+Iteration: 450 / 500 [ 90%]  (Sampling)
+Iteration: 500 / 500 [100%]  (Sampling)
+
+ Elapsed Time: 0.543173 seconds (Warm-up)
+               0.156834 seconds (Sampling)
+               0.700007 seconds (Total)
+
+Iteration: 250 / 500 [ 50%]  (Warmup)
+Iteration: 251 / 500 [ 50%]  (Sampling)
+Iteration: 250 / 500 [ 50%]  (Warmup)
+Iteration: 251 / 500 [ 50%]  (Sampling)
+Iteration: 300 / 500 [ 60%]  (Sampling)
+Iteration: 300 / 500 [ 60%]  (Sampling)
+Iteration: 350 / 500 [ 70%]  (Sampling)
+Iteration: 350 / 500 [ 70%]  (Sampling)
+Iteration: 400 / 500 [ 80%]  (Sampling)
+Iteration: 400 / 500 [ 80%]  (Sampling)
+Iteration: 450 / 500 [ 90%]  (Sampling)
+Iteration: 450 / 500 [ 90%]  (Sampling)
+Iteration: 500 / 500 [100%]  (Sampling)
+
+ Elapsed Time: 0.736682 seconds (Warm-up)
+               0.158524 seconds (Sampling)
+               0.895206 seconds (Total)
+
+Iteration: 500 / 500 [100%]  (Sampling)
+
+ Elapsed Time: 0.727907 seconds (Warm-up)
+               0.189208 seconds (Sampling)
+               0.917115 seconds (Total)
+
+permuted  :::  0.8478712129872292
+not_permuted  :::  0.558554777991958
+array  :::  0.4559428049833514
+1000 1000 100
+
+Gradient evaluation took 9.7e-05 seconds
+1000 transitions using 10 leapfrog steps per transition would take 0.97 seconds.
+Adjust your expectations accordingly!
+
+
+
+Gradient evaluation took 9.6e-05 seconds
+1000 transitions using 10 leapfrog steps per transition would take 0.96 seconds.
+Adjust your expectations accordingly!
+
+
+Iteration:   1 / 1000 [  0%]  (Warmup)
+Iteration:   1 / 1000 [  0%]  (Warmup)
+
+Gradient evaluation took 0.000103 seconds
+1000 transitions using 10 leapfrog steps per transition would take 1.03 seconds.
+Adjust your expectations accordingly!
+
+
+
+Gradient evaluation took 0.000105 seconds
+1000 transitions using 10 leapfrog steps per transition would take 1.05 seconds.
+Adjust your expectations accordingly!
+
+
+Iteration:   1 / 1000 [  0%]  (Warmup)
+Iteration:   1 / 1000 [  0%]  (Warmup)
+Iteration: 100 / 1000 [ 10%]  (Warmup)
+Iteration: 100 / 1000 [ 10%]  (Warmup)
+Iteration: 200 / 1000 [ 20%]  (Warmup)
+Iteration: 100 / 1000 [ 10%]  (Warmup)
+Iteration: 100 / 1000 [ 10%]  (Warmup)
+Iteration: 200 / 1000 [ 20%]  (Warmup)
+Iteration: 200 / 1000 [ 20%]  (Warmup)
+Iteration: 200 / 1000 [ 20%]  (Warmup)
+Iteration: 300 / 1000 [ 30%]  (Warmup)
+Iteration: 300 / 1000 [ 30%]  (Warmup)
+Iteration: 300 / 1000 [ 30%]  (Warmup)
+Iteration: 300 / 1000 [ 30%]  (Warmup)
+Iteration: 400 / 1000 [ 40%]  (Warmup)
+Iteration: 400 / 1000 [ 40%]  (Warmup)
+Iteration: 400 / 1000 [ 40%]  (Warmup)
+Iteration: 400 / 1000 [ 40%]  (Warmup)
+Iteration: 500 / 1000 [ 50%]  (Warmup)
+Iteration: 501 / 1000 [ 50%]  (Sampling)
+Iteration: 500 / 1000 [ 50%]  (Warmup)
+Iteration: 501 / 1000 [ 50%]  (Sampling)
+Iteration: 600 / 1000 [ 60%]  (Sampling)
+Iteration: 600 / 1000 [ 60%]  (Sampling)
+Iteration: 700 / 1000 [ 70%]  (Sampling)
+Iteration: 700 / 1000 [ 70%]  (Sampling)
+Iteration: 500 / 1000 [ 50%]  (Warmup)
+Iteration: 501 / 1000 [ 50%]  (Sampling)
+Iteration: 800 / 1000 [ 80%]  (Sampling)
+Iteration: 800 / 1000 [ 80%]  (Sampling)
+Iteration: 600 / 1000 [ 60%]  (Sampling)
+Iteration: 900 / 1000 [ 90%]  (Sampling)
+Iteration: 900 / 1000 [ 90%]  (Sampling)
+Iteration: 700 / 1000 [ 70%]  (Sampling)
+Iteration: 1000 / 1000 [100%]  (Sampling)
+
+ Elapsed Time: 1.06816 seconds (Warm-up)
+               0.286156 seconds (Sampling)
+               1.35432 seconds (Total)
+
+Iteration: 1000 / 1000 [100%]  (Sampling)
+
+ Elapsed Time: 1.07438 seconds (Warm-up)
+               0.287989 seconds (Sampling)
+               1.36237 seconds (Total)
+
+Iteration: 800 / 1000 [ 80%]  (Sampling)
+Iteration: 500 / 1000 [ 50%]  (Warmup)
+Iteration: 501 / 1000 [ 50%]  (Sampling)
+Iteration: 900 / 1000 [ 90%]  (Sampling)
+Iteration: 1000 / 1000 [100%]  (Sampling)
+
+ Elapsed Time: 1.21534 seconds (Warm-up)
+               0.307024 seconds (Sampling)
+               1.52236 seconds (Total)
+
+Iteration: 600 / 1000 [ 60%]  (Sampling)
+Iteration: 700 / 1000 [ 70%]  (Sampling)
+Iteration: 800 / 1000 [ 80%]  (Sampling)
+Iteration: 900 / 1000 [ 90%]  (Sampling)
+Iteration: 1000 / 1000 [100%]  (Sampling)
+
+ Elapsed Time: 1.45566 seconds (Warm-up)
+               0.394145 seconds (Sampling)
+               1.84981 seconds (Total)
+
+permuted  :::  3.144951119029429
+not_permuted  :::  2.1766140420222655
+array  :::  0.8427472320036031
+1000 1500 100
+
+Gradient evaluation took 9.8e-05 seconds
+1000 transitions using 10 leapfrog steps per transition would take 0.98 seconds.
+Adjust your expectations accordingly!
+
+
+Iteration:    1 / 1500 [  0%]  (Warmup)
+
+Gradient evaluation took 0.000108 seconds
+1000 transitions using 10 leapfrog steps per transition would take 1.08 seconds.
+Adjust your expectations accordingly!
+
+
+Iteration:    1 / 1500 [  0%]  (Warmup)
+
+Gradient evaluation took 8.4e-05 seconds
+1000 transitions using 10 leapfrog steps per transition would take 0.84 seconds.
+Adjust your expectations accordingly!
+
+
+
+Gradient evaluation took 0.000118 seconds
+1000 transitions using 10 leapfrog steps per transition would take 1.18 seconds.
+Adjust your expectations accordingly!
+
+
+Iteration:    1 / 1500 [  0%]  (Warmup)
+Iteration:    1 / 1500 [  0%]  (Warmup)
+Iteration:  150 / 1500 [ 10%]  (Warmup)
+Iteration:  150 / 1500 [ 10%]  (Warmup)
+Iteration:  150 / 1500 [ 10%]  (Warmup)
+Iteration:  150 / 1500 [ 10%]  (Warmup)
+Iteration:  300 / 1500 [ 20%]  (Warmup)
+Iteration:  300 / 1500 [ 20%]  (Warmup)
+Iteration:  300 / 1500 [ 20%]  (Warmup)
+Iteration:  300 / 1500 [ 20%]  (Warmup)
+Iteration:  450 / 1500 [ 30%]  (Warmup)
+Iteration:  450 / 1500 [ 30%]  (Warmup)
+Iteration:  600 / 1500 [ 40%]  (Warmup)
+Iteration:  600 / 1500 [ 40%]  (Warmup)
+Iteration:  450 / 1500 [ 30%]  (Warmup)
+Iteration:  450 / 1500 [ 30%]  (Warmup)
+Iteration:  600 / 1500 [ 40%]  (Warmup)
+Iteration:  750 / 1500 [ 50%]  (Warmup)
+Iteration:  751 / 1500 [ 50%]  (Sampling)
+Iteration:  750 / 1500 [ 50%]  (Warmup)
+Iteration:  751 / 1500 [ 50%]  (Sampling)
+Iteration:  600 / 1500 [ 40%]  (Warmup)
+Iteration:  900 / 1500 [ 60%]  (Sampling)
+Iteration:  900 / 1500 [ 60%]  (Sampling)
+Iteration: 1050 / 1500 [ 70%]  (Sampling)
+Iteration: 1050 / 1500 [ 70%]  (Sampling)
+Iteration: 1200 / 1500 [ 80%]  (Sampling)
+Iteration:  750 / 1500 [ 50%]  (Warmup)
+Iteration:  751 / 1500 [ 50%]  (Sampling)
+Iteration:  750 / 1500 [ 50%]  (Warmup)
+Iteration:  751 / 1500 [ 50%]  (Sampling)
+Iteration: 1200 / 1500 [ 80%]  (Sampling)
+Iteration: 1350 / 1500 [ 90%]  (Sampling)
+Iteration:  900 / 1500 [ 60%]  (Sampling)
+Iteration:  900 / 1500 [ 60%]  (Sampling)
+Iteration: 1350 / 1500 [ 90%]  (Sampling)
+Iteration: 1500 / 1500 [100%]  (Sampling)
+
+ Elapsed Time: 1.50632 seconds (Warm-up)
+               0.432775 seconds (Sampling)
+               1.93909 seconds (Total)
+
+Iteration: 1050 / 1500 [ 70%]  (Sampling)
+Iteration: 1050 / 1500 [ 70%]  (Sampling)
+Iteration: 1500 / 1500 [100%]  (Sampling)
+
+ Elapsed Time: 1.5702 seconds (Warm-up)
+               0.446704 seconds (Sampling)
+               2.01691 seconds (Total)
+
+Iteration: 1200 / 1500 [ 80%]  (Sampling)
+Iteration: 1200 / 1500 [ 80%]  (Sampling)
+Iteration: 1350 / 1500 [ 90%]  (Sampling)
+Iteration: 1350 / 1500 [ 90%]  (Sampling)
+Iteration: 1500 / 1500 [100%]  (Sampling)
+
+ Elapsed Time: 1.76755 seconds (Warm-up)
+               0.439302 seconds (Sampling)
+               2.20685 seconds (Total)
+
+Iteration: 1500 / 1500 [100%]  (Sampling)
+
+ Elapsed Time: 1.79619 seconds (Warm-up)
+               0.431577 seconds (Sampling)
+               2.22777 seconds (Total)
+
+permuted  :::  4.97707994398661
+not_permuted  :::  3.1882328939973377
+array  :::  1.381208612001501
+1000 2000 100
+
+Gradient evaluation took 0.000101 seconds
+1000 transitions using 10 leapfrog steps per transition would take 1.01 seconds.
+Adjust your expectations accordingly!
+
+
+
+Gradient evaluation took 0.000101 seconds
+1000 transitions using 10 leapfrog steps per transition would take 1.01 seconds.
+Adjust your expectations accordingly!
+
+
+Iteration:    1 / 2000 [  0%]  (Warmup)
+Iteration:    1 / 2000 [  0%]  (Warmup)
+
+Gradient evaluation took 9.5e-05 seconds
+1000 transitions using 10 leapfrog steps per transition would take 0.95 seconds.
+Adjust your expectations accordingly!
+
+
+Iteration:    1 / 2000 [  0%]  (Warmup)
+
+Gradient evaluation took 0.00012 seconds
+1000 transitions using 10 leapfrog steps per transition would take 1.2 seconds.
+Adjust your expectations accordingly!
+
+
+Iteration:    1 / 2000 [  0%]  (Warmup)
+Iteration:  200 / 2000 [ 10%]  (Warmup)
+Iteration:  200 / 2000 [ 10%]  (Warmup)
+Iteration:  200 / 2000 [ 10%]  (Warmup)
+Iteration:  200 / 2000 [ 10%]  (Warmup)
+Iteration:  400 / 2000 [ 20%]  (Warmup)
+Iteration:  400 / 2000 [ 20%]  (Warmup)
+Iteration:  400 / 2000 [ 20%]  (Warmup)
+Iteration:  400 / 2000 [ 20%]  (Warmup)
+Iteration:  600 / 2000 [ 30%]  (Warmup)
+Iteration:  600 / 2000 [ 30%]  (Warmup)
+Iteration:  600 / 2000 [ 30%]  (Warmup)
+Iteration:  600 / 2000 [ 30%]  (Warmup)
+Iteration:  800 / 2000 [ 40%]  (Warmup)
+Iteration:  800 / 2000 [ 40%]  (Warmup)
+Iteration:  800 / 2000 [ 40%]  (Warmup)
+Iteration:  800 / 2000 [ 40%]  (Warmup)
+Iteration: 1000 / 2000 [ 50%]  (Warmup)
+Iteration: 1001 / 2000 [ 50%]  (Sampling)
+Iteration: 1000 / 2000 [ 50%]  (Warmup)
+Iteration: 1001 / 2000 [ 50%]  (Sampling)
+Iteration: 1200 / 2000 [ 60%]  (Sampling)
+Iteration: 1200 / 2000 [ 60%]  (Sampling)
+Iteration: 1400 / 2000 [ 70%]  (Sampling)
+Iteration: 1000 / 2000 [ 50%]  (Warmup)
+Iteration: 1001 / 2000 [ 50%]  (Sampling)
+Iteration: 1000 / 2000 [ 50%]  (Warmup)
+Iteration: 1001 / 2000 [ 50%]  (Sampling)
+Iteration: 1400 / 2000 [ 70%]  (Sampling)
+Iteration: 1600 / 2000 [ 80%]  (Sampling)
+Iteration: 1200 / 2000 [ 60%]  (Sampling)
+Iteration: 1200 / 2000 [ 60%]  (Sampling)
+Iteration: 1600 / 2000 [ 80%]  (Sampling)
+Iteration: 1800 / 2000 [ 90%]  (Sampling)
+Iteration: 1400 / 2000 [ 70%]  (Sampling)
+Iteration: 1400 / 2000 [ 70%]  (Sampling)
+Iteration: 2000 / 2000 [100%]  (Sampling)
+Iteration: 1800 / 2000 [ 90%]  (Sampling)
+
+ Elapsed Time: 2.23936 seconds (Warm-up)
+               0.580465 seconds (Sampling)
+               2.81983 seconds (Total)
+
+Iteration: 1600 / 2000 [ 80%]  (Sampling)
+Iteration: 1600 / 2000 [ 80%]  (Sampling)
+Iteration: 2000 / 2000 [100%]  (Sampling)
+
+ Elapsed Time: 2.35717 seconds (Warm-up)
+               0.587908 seconds (Sampling)
+               2.94508 seconds (Total)
+
+Iteration: 1800 / 2000 [ 90%]  (Sampling)
+Iteration: 1800 / 2000 [ 90%]  (Sampling)
+Iteration: 2000 / 2000 [100%]  (Sampling)
+
+ Elapsed Time: 2.48411 seconds (Warm-up)
+               0.582389 seconds (Sampling)
+               3.0665 seconds (Total)
+
+Iteration: 2000 / 2000 [100%]  (Sampling)
+
+ Elapsed Time: 2.55388 seconds (Warm-up)
+               0.595127 seconds (Sampling)
+               3.14901 seconds (Total)
+
+permuted  :::  7.416248541034292
+not_permuted  :::  4.18742770398967
+array  :::  1.9745055920211598
+5000 100 100
+
+Gradient evaluation took 0.000273 seconds
+1000 transitions using 10 leapfrog steps per transition would take 2.73 seconds.
+Adjust your expectations accordingly!
+
+
+WARNING: There aren't enough warmup iterations to fit the
+
+         three stages of adaptation as currently configured.
+         Reducing each adaptation stage to 15%/75%/10% of
+         the given number of warmup iterations:
+Gradient evaluation took 0.000272 seconds
+           init_buffer = 7
+1000 transitions using 10 leapfrog steps per transition would take 2.72 seconds.
+           adapt_window = 38
+Adjust your expectations accordingly!
+           term_buffer = 5
+
+
+
+WARNING: There aren't enough warmup iterations to fit the
+         three stages of adaptation as currently configured.
+         Reducing each adaptation stage to 15%/75%/10% of
+         the given number of warmup iterations:
+           init_buffer = 7
+           adapt_window = 38
+           term_buffer = 5
+
+
+Gradient evaluation took 0.000195 seconds
+1000 transitions using 10 leapfrog steps per transition would take 1.95 seconds.
+Adjust your expectations accordingly!
+
+
+WARNING: There aren't enough warmup iterations to fit the
+         three stages of adaptation as currently configured.
+         Reducing each adaptation stage to 15%/75%/10% of
+         the given number of warmup iterations:
+           init_buffer = 7
+           adapt_window = 38
+           term_buffer = 5
+
+
+Gradient evaluation took 0.000127 seconds
+1000 transitions using 10 leapfrog steps per transition would take 1.27 seconds.
+Adjust your expectations accordingly!
+
+
+WARNING: There aren't enough warmup iterations to fit the
+         three stages of adaptation as currently configured.
+         Reducing each adaptation stage to 15%/75%/10% of
+         the given number of warmup iterations:
+           init_buffer = 7
+           adapt_window = 38
+           term_buffer = 5
+
+Iteration:  1 / 100 [  1%]  (Warmup)
+Iteration:  1 / 100 [  1%]  (Warmup)
+Iteration:  1 / 100 [  1%]  (Warmup)
+Iteration:  1 / 100 [  1%]  (Warmup)
+Iteration: 10 / 100 [ 10%]  (Warmup)
+Iteration: 10 / 100 [ 10%]  (Warmup)
+Iteration: 10 / 100 [ 10%]  (Warmup)
+Iteration: 10 / 100 [ 10%]  (Warmup)
+Iteration: 20 / 100 [ 20%]  (Warmup)
+Iteration: 20 / 100 [ 20%]  (Warmup)
+Iteration: 20 / 100 [ 20%]  (Warmup)
+Iteration: 30 / 100 [ 30%]  (Warmup)
+Iteration: 30 / 100 [ 30%]  (Warmup)
+Iteration: 40 / 100 [ 40%]  (Warmup)
+Iteration: 40 / 100 [ 40%]  (Warmup)
+Iteration: 30 / 100 [ 30%]  (Warmup)
+Iteration: 50 / 100 [ 50%]  (Warmup)
+Iteration: 51 / 100 [ 51%]  (Sampling)
+Iteration: 20 / 100 [ 20%]  (Warmup)
+Iteration: 60 / 100 [ 60%]  (Sampling)
+Iteration: 30 / 100 [ 30%]  (Warmup)
+Iteration: 70 / 100 [ 70%]  (Sampling)
+Iteration: 40 / 100 [ 40%]  (Warmup)
+Iteration: 80 / 100 [ 80%]  (Sampling)
+Iteration: 50 / 100 [ 50%]  (Warmup)
+Iteration: 51 / 100 [ 51%]  (Sampling)
+Iteration: 60 / 100 [ 60%]  (Sampling)
+Iteration: 90 / 100 [ 90%]  (Sampling)
+Iteration: 50 / 100 [ 50%]  (Warmup)
+Iteration: 70 / 100 [ 70%]  (Sampling)
+Iteration: 100 / 100 [100%]  (Sampling)
+
+ Elapsed Time: 0.566348 seconds (Warm-up)
+               0.269032 seconds (Sampling)
+               0.83538 seconds (Total)
+
+Iteration: 80 / 100 [ 80%]  (Sampling)
+Iteration: 90 / 100 [ 90%]  (Sampling)
+Iteration: 100 / 100 [100%]  (Sampling)
+
+ Elapsed Time: 0.742496 seconds (Warm-up)
+               0.164511 seconds (Sampling)
+               0.907007 seconds (Total)
+
+Iteration: 51 / 100 [ 51%]  (Sampling)
+Iteration: 60 / 100 [ 60%]  (Sampling)
+Iteration: 40 / 100 [ 40%]  (Warmup)
+Iteration: 70 / 100 [ 70%]  (Sampling)
+Iteration: 50 / 100 [ 50%]  (Warmup)
+Iteration: 51 / 100 [ 51%]  (Sampling)
+Iteration: 60 / 100 [ 60%]  (Sampling)
+Iteration: 80 / 100 [ 80%]  (Sampling)
+Iteration: 70 / 100 [ 70%]  (Sampling)
+Iteration: 90 / 100 [ 90%]  (Sampling)
+Iteration: 80 / 100 [ 80%]  (Sampling)
+Iteration: 90 / 100 [ 90%]  (Sampling)
+Iteration: 100 / 100 [100%]  (Sampling)
+
+ Elapsed Time: 0.93954 seconds (Warm-up)
+               0.260167 seconds (Sampling)
+               1.19971 seconds (Total)
+
+Iteration: 100 / 100 [100%]  (Sampling)
+
+ Elapsed Time: 1.05282 seconds (Warm-up)
+               0.159505 seconds (Sampling)
+               1.21232 seconds (Total)
+
+permuted  :::  1.879312895995099
+not_permuted  :::  1.6898160870186985
+array  :::  1.439796673017554
+5000 500 100
+
+Gradient evaluation took 0.00023 seconds
+1000 transitions using 10 leapfrog steps per transition would take 2.3 seconds.
+Adjust your expectations accordingly!
+
+
+
+
+Gradient evaluation took 0.00023 seconds
+1000 transitions using 10 leapfrog steps per transition would take 2.3 seconds.
+Gradient evaluation took 0.000226 seconds
+Adjust your expectations accordingly!
+
+1000 transitions using 10 leapfrog steps per transition would take 2.26 seconds.
+
+Adjust your expectations accordingly!
+
+
+Iteration:   1 / 500 [  0%]  (Warmup)
+Iteration:   1 / 500 [  0%]  (Warmup)
+Iteration:   1 / 500 [  0%]  (Warmup)
+
+Gradient evaluation took 0.000296 seconds
+1000 transitions using 10 leapfrog steps per transition would take 2.96 seconds.
+Adjust your expectations accordingly!
+
+
+Iteration:   1 / 500 [  0%]  (Warmup)
+Iteration:  50 / 500 [ 10%]  (Warmup)
+Iteration:  50 / 500 [ 10%]  (Warmup)
+Iteration:  50 / 500 [ 10%]  (Warmup)
+Iteration:  50 / 500 [ 10%]  (Warmup)
+Iteration: 100 / 500 [ 20%]  (Warmup)
+Iteration: 100 / 500 [ 20%]  (Warmup)
+Iteration: 100 / 500 [ 20%]  (Warmup)
+Iteration: 100 / 500 [ 20%]  (Warmup)
+Iteration: 150 / 500 [ 30%]  (Warmup)
+Iteration: 150 / 500 [ 30%]  (Warmup)
+Iteration: 150 / 500 [ 30%]  (Warmup)
+Iteration: 150 / 500 [ 30%]  (Warmup)
+Iteration: 200 / 500 [ 40%]  (Warmup)
+Iteration: 200 / 500 [ 40%]  (Warmup)
+Iteration: 200 / 500 [ 40%]  (Warmup)
+Iteration: 250 / 500 [ 50%]  (Warmup)
+Iteration: 251 / 500 [ 50%]  (Sampling)
+Iteration: 200 / 500 [ 40%]  (Warmup)
+Iteration: 250 / 500 [ 50%]  (Warmup)
+Iteration: 250 / 500 [ 50%]  (Warmup)
+Iteration: 251 / 500 [ 50%]  (Sampling)
+Iteration: 300 / 500 [ 60%]  (Sampling)
+Iteration: 251 / 500 [ 50%]  (Sampling)
+Iteration: 350 / 500 [ 70%]  (Sampling)
+Iteration: 300 / 500 [ 60%]  (Sampling)
+Iteration: 250 / 500 [ 50%]  (Warmup)
+Iteration: 251 / 500 [ 50%]  (Sampling)
+Iteration: 400 / 500 [ 80%]  (Sampling)
+Iteration: 350 / 500 [ 70%]  (Sampling)
+Iteration: 300 / 500 [ 60%]  (Sampling)
+Iteration: 450 / 500 [ 90%]  (Sampling)
+Iteration: 400 / 500 [ 80%]  (Sampling)
+Iteration: 350 / 500 [ 70%]  (Sampling)
+Iteration: 500 / 500 [100%]  (Sampling)
+
+ Elapsed Time: 2.77144 seconds (Warm-up)
+               1.36308 seconds (Sampling)
+               4.13453 seconds (Total)
+
+Iteration: 400 / 500 [ 80%]  (Sampling)
+Iteration: 450 / 500 [ 90%]  (Sampling)
+Iteration: 500 / 500 [100%]  (Sampling)
+
+ Elapsed Time: 2.98448 seconds (Warm-up)
+               1.42291 seconds (Sampling)
+               4.40739 seconds (Total)
+
+Iteration: 450 / 500 [ 90%]  (Sampling)
+Iteration: 500 / 500 [100%]  (Sampling)
+
+ Elapsed Time: 3.38925 seconds (Warm-up)
+               1.34119 seconds (Sampling)
+               4.73045 seconds (Total)
+
+Iteration: 300 / 500 [ 60%]  (Sampling)
+Iteration: 350 / 500 [ 70%]  (Sampling)
+Iteration: 400 / 500 [ 80%]  (Sampling)
+Iteration: 450 / 500 [ 90%]  (Sampling)
+Iteration: 500 / 500 [100%]  (Sampling)
+
+ Elapsed Time: 3.12489 seconds (Warm-up)
+               34.5507 seconds (Sampling)
+               37.6756 seconds (Total)
+
+permuted  :::  10.94940761901671
+not_permuted  :::  6.12811516597867
+array  :::  3.9106476710294373
+5000 1000 100
+
+Gradient evaluation took 0.000154 seconds
+1000 transitions using 10 leapfrog steps per transition would take 1.54 seconds.
+Adjust your expectations accordingly!
+
+
+Iteration:   1 / 1000 [  0%]  (Warmup)
+
+Gradient evaluation took 0.000202 seconds
+1000 transitions using 10 leapfrog steps per transition would take 2.02 seconds.
+Adjust your expectations accordingly!
+
+
+
+Gradient evaluation took 0.000199 seconds
+1000 transitions using 10 leapfrog steps per transition would take 1.99 seconds.
+Adjust your expectations accordingly!
+
+
+Iteration:   1 / 1000 [  0%]  (Warmup)
+Iteration:   1 / 1000 [  0%]  (Warmup)
+
+Gradient evaluation took 0.000219 seconds
+1000 transitions using 10 leapfrog steps per transition would take 2.19 seconds.
+Adjust your expectations accordingly!
+
+
+Iteration:   1 / 1000 [  0%]  (Warmup)
+Iteration: 100 / 1000 [ 10%]  (Warmup)
+Iteration: 100 / 1000 [ 10%]  (Warmup)
+Iteration: 100 / 1000 [ 10%]  (Warmup)
+Iteration: 100 / 1000 [ 10%]  (Warmup)
+Iteration: 200 / 1000 [ 20%]  (Warmup)
+Iteration: 200 / 1000 [ 20%]  (Warmup)
+Iteration: 200 / 1000 [ 20%]  (Warmup)
+Iteration: 200 / 1000 [ 20%]  (Warmup)
+Iteration: 300 / 1000 [ 30%]  (Warmup)
+Iteration: 300 / 1000 [ 30%]  (Warmup)
+Iteration: 300 / 1000 [ 30%]  (Warmup)
+Iteration: 300 / 1000 [ 30%]  (Warmup)
+Iteration: 400 / 1000 [ 40%]  (Warmup)
+Iteration: 400 / 1000 [ 40%]  (Warmup)
+Iteration: 400 / 1000 [ 40%]  (Warmup)
+Iteration: 400 / 1000 [ 40%]  (Warmup)
+Iteration: 500 / 1000 [ 50%]  (Warmup)
+Iteration: 501 / 1000 [ 50%]  (Sampling)
+Iteration: 500 / 1000 [ 50%]  (Warmup)
+Iteration: 501 / 1000 [ 50%]  (Sampling)
+Iteration: 600 / 1000 [ 60%]  (Sampling)
+Iteration: 500 / 1000 [ 50%]  (Warmup)
+Iteration: 501 / 1000 [ 50%]  (Sampling)
+Iteration: 600 / 1000 [ 60%]  (Sampling)
+Iteration: 500 / 1000 [ 50%]  (Warmup)
+Iteration: 501 / 1000 [ 50%]  (Sampling)
+Iteration: 700 / 1000 [ 70%]  (Sampling)
+Iteration: 700 / 1000 [ 70%]  (Sampling)
+Iteration: 600 / 1000 [ 60%]  (Sampling)
+Iteration: 800 / 1000 [ 80%]  (Sampling)
+Iteration: 800 / 1000 [ 80%]  (Sampling)
+Iteration: 700 / 1000 [ 70%]  (Sampling)
+Iteration: 900 / 1000 [ 90%]  (Sampling)
+Iteration: 900 / 1000 [ 90%]  (Sampling)
+Iteration: 800 / 1000 [ 80%]  (Sampling)
+Iteration: 1000 / 1000 [100%]  (Sampling)
+
+ Elapsed Time: 5.39758 seconds (Warm-up)
+               2.58129 seconds (Sampling)
+               7.97887 seconds (Total)
+
+Iteration: 1000 / 1000 [100%]  (Sampling)
+
+ Elapsed Time: 5.51986 seconds (Warm-up)
+               2.58319 seconds (Sampling)
+               8.10305 seconds (Total)
+
+Iteration: 900 / 1000 [ 90%]  (Sampling)
+Iteration: 1000 / 1000 [100%]  (Sampling)
+
+ Elapsed Time: 6.1269 seconds (Warm-up)
+               2.58734 seconds (Sampling)
+               8.71424 seconds (Total)
+
+Iteration: 600 / 1000 [ 60%]  (Sampling)
+Iteration: 700 / 1000 [ 70%]  (Sampling)
+Iteration: 800 / 1000 [ 80%]  (Sampling)
+Iteration: 900 / 1000 [ 90%]  (Sampling)
+Iteration: 1000 / 1000 [100%]  (Sampling)
+
+ Elapsed Time: 5.94576 seconds (Warm-up)
+               68.2438 seconds (Sampling)
+               74.1896 seconds (Total)
+
+permuted  :::  24.363330264983233
+not_permuted  :::  11.71972062898567
+array  :::  8.985044675006066
+5000 1500 100
+
+Gradient evaluation took 0.000167 seconds
+1000 transitions using 10 leapfrog steps per transition would take 1.67 seconds.
+Adjust your expectations accordingly!
+
+
+Iteration:    1 / 1500 [  0%]  (Warmup)
+
+Gradient evaluation took 0.000187 seconds
+1000 transitions using 10 leapfrog steps per transition would take 1.87 seconds.
+Adjust your expectations accordingly!
+
+
+
+Gradient evaluation took 0.000178 seconds
+1000 transitions using 10 leapfrog steps per transition would take 1.78 seconds.
+Adjust your expectations accordingly!
+
+
+Iteration:    1 / 1500 [  0%]  (Warmup)
+Iteration:    1 / 1500 [  0%]  (Warmup)
+
+Gradient evaluation took 0.000191 seconds
+1000 transitions using 10 leapfrog steps per transition would take 1.91 seconds.
+Adjust your expectations accordingly!
+
+
+Iteration:    1 / 1500 [  0%]  (Warmup)
+Iteration:  150 / 1500 [ 10%]  (Warmup)
+Iteration:  150 / 1500 [ 10%]  (Warmup)
+Iteration:  150 / 1500 [ 10%]  (Warmup)
+Iteration:  150 / 1500 [ 10%]  (Warmup)
+Iteration:  300 / 1500 [ 20%]  (Warmup)
+Iteration:  300 / 1500 [ 20%]  (Warmup)
+Iteration:  300 / 1500 [ 20%]  (Warmup)
+Iteration:  300 / 1500 [ 20%]  (Warmup)
+Iteration:  450 / 1500 [ 30%]  (Warmup)
+Iteration:  450 / 1500 [ 30%]  (Warmup)
+Iteration:  450 / 1500 [ 30%]  (Warmup)
+Iteration:  450 / 1500 [ 30%]  (Warmup)
+Iteration:  600 / 1500 [ 40%]  (Warmup)
+Iteration:  600 / 1500 [ 40%]  (Warmup)
+Iteration:  600 / 1500 [ 40%]  (Warmup)
+Iteration:  600 / 1500 [ 40%]  (Warmup)
+Iteration:  750 / 1500 [ 50%]  (Warmup)
+Iteration:  751 / 1500 [ 50%]  (Sampling)
+Iteration:  750 / 1500 [ 50%]  (Warmup)
+Iteration:  751 / 1500 [ 50%]  (Sampling)
+Iteration:  750 / 1500 [ 50%]  (Warmup)
+Iteration:  751 / 1500 [ 50%]  (Sampling)
+Iteration:  750 / 1500 [ 50%]  (Warmup)
+Iteration:  751 / 1500 [ 50%]  (Sampling)
+Iteration:  900 / 1500 [ 60%]  (Sampling)
+Iteration:  900 / 1500 [ 60%]  (Sampling)
+Iteration:  900 / 1500 [ 60%]  (Sampling)
+Iteration: 1050 / 1500 [ 70%]  (Sampling)
+Iteration: 1050 / 1500 [ 70%]  (Sampling)
+Iteration: 1050 / 1500 [ 70%]  (Sampling)
+Iteration: 1200 / 1500 [ 80%]  (Sampling)
+Iteration: 1200 / 1500 [ 80%]  (Sampling)
+Iteration: 1200 / 1500 [ 80%]  (Sampling)
+Iteration: 1350 / 1500 [ 90%]  (Sampling)
+Iteration: 1350 / 1500 [ 90%]  (Sampling)
+Iteration: 1350 / 1500 [ 90%]  (Sampling)
+Iteration: 1500 / 1500 [100%]  (Sampling)
+
+ Elapsed Time: 10.0346 seconds (Warm-up)
+               3.88372 seconds (Sampling)
+               13.9183 seconds (Total)
+
+Iteration: 1500 / 1500 [100%]  (Sampling)
+
+ Elapsed Time: 10.0341 seconds (Warm-up)
+               3.896 seconds (Sampling)
+               13.9301 seconds (Total)
+
+Iteration: 1500 / 1500 [100%]  (Sampling)
+
+ Elapsed Time: 10.6143 seconds (Warm-up)
+               3.92068 seconds (Sampling)
+               14.5349 seconds (Total)
+
+Iteration:  900 / 1500 [ 60%]  (Sampling)
+Iteration: 1050 / 1500 [ 70%]  (Sampling)
+Iteration: 1200 / 1500 [ 80%]  (Sampling)
+Iteration: 1350 / 1500 [ 90%]  (Sampling)
+Iteration: 1500 / 1500 [100%]  (Sampling)
+
+ Elapsed Time: 9.70738 seconds (Warm-up)
+               100.095 seconds (Sampling)
+               109.802 seconds (Total)
+
+permuted  :::  37.54447481496027
+not_permuted  :::  20.26345524401404
+array  :::  19.931648300029337
+5000 2000 100
+
+Gradient evaluation took 0.000192 seconds
+1000 transitions using 10 leapfrog steps per transition would take 1.92 seconds.
+Adjust your expectations accordingly!
+
+
+
+Gradient evaluation took 0.000177 seconds
+1000 transitions using 10 leapfrog steps per transition would take 1.77 seconds.
+Adjust your expectations accordingly!
+
+
+Iteration:    1 / 2000 [  0%]  (Warmup)
+Iteration:    1 / 2000 [  0%]  (Warmup)
+
+Gradient evaluation took 0.000289 seconds
+1000 transitions using 10 leapfrog steps per transition would take 2.89 seconds.
+Adjust your expectations accordingly!
+
+
+
+Gradient evaluation took 0.000188 seconds
+1000 transitions using 10 leapfrog steps per transition would take 1.88 seconds.
+Adjust your expectations accordingly!
+
+
+Iteration:    1 / 2000 [  0%]  (Warmup)
+Iteration:    1 / 2000 [  0%]  (Warmup)
+Iteration:  200 / 2000 [ 10%]  (Warmup)
+Iteration:  200 / 2000 [ 10%]  (Warmup)
+Iteration:  200 / 2000 [ 10%]  (Warmup)
+Iteration:  200 / 2000 [ 10%]  (Warmup)
+Iteration:  400 / 2000 [ 20%]  (Warmup)
+Iteration:  400 / 2000 [ 20%]  (Warmup)
+Iteration:  400 / 2000 [ 20%]  (Warmup)
+Iteration:  400 / 2000 [ 20%]  (Warmup)
+Iteration:  600 / 2000 [ 30%]  (Warmup)
+Iteration:  600 / 2000 [ 30%]  (Warmup)
+Iteration:  600 / 2000 [ 30%]  (Warmup)
+Iteration:  600 / 2000 [ 30%]  (Warmup)
+Iteration:  800 / 2000 [ 40%]  (Warmup)
+Iteration:  800 / 2000 [ 40%]  (Warmup)
+Iteration:  800 / 2000 [ 40%]  (Warmup)
+Iteration:  800 / 2000 [ 40%]  (Warmup)
+Iteration: 1000 / 2000 [ 50%]  (Warmup)
+Iteration: 1001 / 2000 [ 50%]  (Sampling)
+Iteration: 1000 / 2000 [ 50%]  (Warmup)
+Iteration: 1001 / 2000 [ 50%]  (Sampling)
+Iteration: 1000 / 2000 [ 50%]  (Warmup)
+Iteration: 1001 / 2000 [ 50%]  (Sampling)
+Iteration: 1200 / 2000 [ 60%]  (Sampling)
+Iteration: 1200 / 2000 [ 60%]  (Sampling)
+Iteration: 1200 / 2000 [ 60%]  (Sampling)
+Iteration: 1400 / 2000 [ 70%]  (Sampling)
+Iteration: 1400 / 2000 [ 70%]  (Sampling)
+Iteration: 1000 / 2000 [ 50%]  (Warmup)
+Iteration: 1001 / 2000 [ 50%]  (Sampling)
+Iteration: 1400 / 2000 [ 70%]  (Sampling)
+Iteration: 1600 / 2000 [ 80%]  (Sampling)
+Iteration: 1600 / 2000 [ 80%]  (Sampling)
+Iteration: 1200 / 2000 [ 60%]  (Sampling)
+Iteration: 1600 / 2000 [ 80%]  (Sampling)
+Iteration: 1800 / 2000 [ 90%]  (Sampling)
+Iteration: 1800 / 2000 [ 90%]  (Sampling)
+Iteration: 1400 / 2000 [ 70%]  (Sampling)
+Iteration: 1800 / 2000 [ 90%]  (Sampling)
+Iteration: 2000 / 2000 [100%]  (Sampling)
+
+ Elapsed Time: 12.3829 seconds (Warm-up)
+               5.18348 seconds (Sampling)
+               17.5664 seconds (Total)
+
+Iteration: 2000 / 2000 [100%]  (Sampling)
+
+ Elapsed Time: 12.5907 seconds (Warm-up)
+               5.18715 seconds (Sampling)
+               17.7778 seconds (Total)
+
+Iteration: 1600 / 2000 [ 80%]  (Sampling)
+Iteration: 2000 / 2000 [100%]  (Sampling)
+
+ Elapsed Time: 13.1392 seconds (Warm-up)
+               5.20962 seconds (Sampling)
+               18.3489 seconds (Total)
+
+Iteration: 1800 / 2000 [ 90%]  (Sampling)
+Iteration: 2000 / 2000 [100%]  (Sampling)
+
+ Elapsed Time: 14.7485 seconds (Warm-up)
+               5.19905 seconds (Sampling)
+               19.9476 seconds (Total)
+
+permuted  :::  60.336936557956506
+not_permuted  :::  26.316176132997498
+array  :::  27.00868188496679
+10000 100 10
+
+Gradient evaluation took 0.000306 seconds
+1000 transitions using 10 leapfrog steps per transition would take 3.06 seconds.
+Adjust your expectations accordingly!
+
+
+WARNING: There aren't enough warmup iterations to fit the
+         three stages of adaptation as currently configured.
+         Reducing each adaptation stage to 15%/75%/10% of
+         the given number of warmup iterations:
+           init_buffer = 7
+           adapt_window = 38
+           term_buffer = 5
+
+
+Gradient evaluation took 0.000319 seconds
+1000 transitions using 10 leapfrog steps per transition would take 3.19 seconds.
+Adjust your expectations accordingly!
+
+
+WARNING: There aren't enough warmup iterations to fit the
+         three stages of adaptation as currently configured.
+         Reducing each adaptation stage to 15%/75%/10% of
+         the given number of warmup iterations:
+           init_buffer = 7
+           adapt_window = 38
+           term_buffer = 5
+
+
+Gradient evaluation took 0.000397 seconds
+1000 transitions using 10 leapfrog steps per transition would take 3.97 seconds.
+
+Adjust your expectations accordingly!
+
+
+Gradient evaluation took 0.00041 seconds
+1000 transitions using 10 leapfrog steps per transition would take 4.1 seconds.
+Adjust your expectations accordingly!
+
+
+WARNING: There aren't enough warmup iterations to fit the
+         three stages of adaptation as currently configured.
+         Reducing each adaptation stage to 15%/75%/10% of
+         the given number of warmup iterations:
+           init_buffer = 7
+           adapt_window = 38
+           term_buffer = 5
+
+WARNING: There aren't enough warmup iterations to fit the
+         three stages of adaptation as currently configured.
+         Reducing each adaptation stage to 15%/75%/10% of
+         the given number of warmup iterations:
+           init_buffer = 7
+           adapt_window = 38
+           term_buffer = 5
+
+Iteration:  1 / 100 [  1%]  (Warmup)
+Iteration:  1 / 100 [  1%]  (Warmup)
+Iteration:  1 / 100 [  1%]  (Warmup)
+Iteration:  1 / 100 [  1%]  (Warmup)
+Iteration: 10 / 100 [ 10%]  (Warmup)
+Iteration: 10 / 100 [ 10%]  (Warmup)
+Iteration: 10 / 100 [ 10%]  (Warmup)
+Iteration: 10 / 100 [ 10%]  (Warmup)
+Iteration: 20 / 100 [ 20%]  (Warmup)
+Iteration: 20 / 100 [ 20%]  (Warmup)
+Iteration: 20 / 100 [ 20%]  (Warmup)
+Iteration: 30 / 100 [ 30%]  (Warmup)
+Iteration: 30 / 100 [ 30%]  (Warmup)
+Iteration: 20 / 100 [ 20%]  (Warmup)
+Iteration: 40 / 100 [ 40%]  (Warmup)
+Iteration: 30 / 100 [ 30%]  (Warmup)
+Iteration: 40 / 100 [ 40%]  (Warmup)
+Iteration: 50 / 100 [ 50%]  (Warmup)
+Iteration: 51 / 100 [ 51%]  (Sampling)
+Iteration: 40 / 100 [ 40%]  (Warmup)
+Iteration: 50 / 100 [ 50%]  (Warmup)
+Iteration: 51 / 100 [ 51%]  (Sampling)
+Iteration: 60 / 100 [ 60%]  (Sampling)
+Iteration: 60 / 100 [ 60%]  (Sampling)
+Iteration: 30 / 100 [ 30%]  (Warmup)
+Iteration: 70 / 100 [ 70%]  (Sampling)
+Iteration: 70 / 100 [ 70%]  (Sampling)
+Iteration: 80 / 100 [ 80%]  (Sampling)
+Iteration: 80 / 100 [ 80%]  (Sampling)
+Iteration: 50 / 100 [ 50%]  (Warmup)
+Iteration: 51 / 100 [ 51%]  (Sampling)
+Iteration: 90 / 100 [ 90%]  (Sampling)
+Iteration: 90 / 100 [ 90%]  (Sampling)
+Iteration: 60 / 100 [ 60%]  (Sampling)
+Iteration: 100 / 100 [100%]  (Sampling)
+
+ Elapsed Time: 1.21548 seconds (Warm-up)
+               0.533661 seconds (Sampling)
+               1.74914 seconds (Total)
+
+Iteration: 100 / 100 [100%]  (Sampling)
+
+ Elapsed Time: 1.13087 seconds (Warm-up)
+               0.626666 seconds (Sampling)
+               1.75754 seconds (Total)
+
+Iteration: 70 / 100 [ 70%]  (Sampling)
+Iteration: 80 / 100 [ 80%]  (Sampling)
+Iteration: 40 / 100 [ 40%]  (Warmup)
+Iteration: 90 / 100 [ 90%]  (Sampling)
+Iteration: 100 / 100 [100%]  (Sampling)
+
+ Elapsed Time: 1.58974 seconds (Warm-up)
+               0.625484 seconds (Sampling)
+               2.21522 seconds (Total)
+
+Iteration: 50 / 100 [ 50%]  (Warmup)
+Iteration: 51 / 100 [ 51%]  (Sampling)
+Iteration: 60 / 100 [ 60%]  (Sampling)
+Iteration: 70 / 100 [ 70%]  (Sampling)
+Iteration: 80 / 100 [ 80%]  (Sampling)
+Iteration: 90 / 100 [ 90%]  (Sampling)
+Iteration: 100 / 100 [100%]  (Sampling)
+
+ Elapsed Time: 2.70656 seconds (Warm-up)
+               0.512735 seconds (Sampling)
+               3.2193 seconds (Total)
+
+permuted  :::  0.5607355210231617
+not_permuted  :::  0.4418158970074728
+array  :::  0.3902625840273686
+10000 500 10
+
+Gradient evaluation took 0.000305 seconds
+1000 transitions using 10 leapfrog steps per transition would take 3.05 seconds.
+Adjust your expectations accordingly!
+
+
+
+Gradient evaluation took 0.000537 seconds
+1000 transitions using 10 leapfrog steps per transition would take 5.37 seconds.
+Adjust your expectations accordingly!
+
+
+
+Gradient evaluation took 0.00031 seconds
+1000 transitions using 10 leapfrog steps per transition would take 3.1 seconds.
+Adjust your expectations accordingly!
+
+
+Iteration:   1 / 500 [  0%]  (Warmup)
+Iteration:   1 / 500 [  0%]  (Warmup)
+Iteration:   1 / 500 [  0%]  (Warmup)
+
+Gradient evaluation took 0.00035 seconds
+1000 transitions using 10 leapfrog steps per transition would take 3.5 seconds.
+Adjust your expectations accordingly!
+
+
+Iteration:   1 / 500 [  0%]  (Warmup)
+Iteration:  50 / 500 [ 10%]  (Warmup)
+Iteration:  50 / 500 [ 10%]  (Warmup)
+Iteration:  50 / 500 [ 10%]  (Warmup)
+Iteration: 100 / 500 [ 20%]  (Warmup)
+Iteration:  50 / 500 [ 10%]  (Warmup)
+Iteration: 100 / 500 [ 20%]  (Warmup)
+Iteration: 150 / 500 [ 30%]  (Warmup)
+Iteration: 100 / 500 [ 20%]  (Warmup)
+Iteration: 150 / 500 [ 30%]  (Warmup)
+Iteration: 100 / 500 [ 20%]  (Warmup)
+Iteration: 150 / 500 [ 30%]  (Warmup)
+Iteration: 200 / 500 [ 40%]  (Warmup)
+Iteration: 200 / 500 [ 40%]  (Warmup)
+Iteration: 200 / 500 [ 40%]  (Warmup)
+Iteration: 150 / 500 [ 30%]  (Warmup)
+Iteration: 250 / 500 [ 50%]  (Warmup)
+Iteration: 251 / 500 [ 50%]  (Sampling)
+Iteration: 250 / 500 [ 50%]  (Warmup)
+Iteration: 251 / 500 [ 50%]  (Sampling)
+Iteration: 300 / 500 [ 60%]  (Sampling)
+Iteration: 200 / 500 [ 40%]  (Warmup)
+Iteration: 300 / 500 [ 60%]  (Sampling)
+Iteration: 250 / 500 [ 50%]  (Warmup)
+Iteration: 251 / 500 [ 50%]  (Sampling)
+Iteration: 350 / 500 [ 70%]  (Sampling)
+Iteration: 350 / 500 [ 70%]  (Sampling)
+Iteration: 300 / 500 [ 60%]  (Sampling)
+Iteration: 400 / 500 [ 80%]  (Sampling)
+Iteration: 400 / 500 [ 80%]  (Sampling)
+Iteration: 350 / 500 [ 70%]  (Sampling)
+Iteration: 450 / 500 [ 90%]  (Sampling)
+Iteration: 250 / 500 [ 50%]  (Warmup)
+Iteration: 251 / 500 [ 50%]  (Sampling)
+Iteration: 450 / 500 [ 90%]  (Sampling)
+Iteration: 400 / 500 [ 80%]  (Sampling)
+Iteration: 500 / 500 [100%]  (Sampling)
+
+ Elapsed Time: 5.32753 seconds (Warm-up)
+               2.72144 seconds (Sampling)
+               8.04896 seconds (Total)
+
+Iteration: 300 / 500 [ 60%]  (Sampling)
+Iteration: 500 / 500 [100%]  (Sampling)
+
+ Elapsed Time: 5.64475 seconds (Warm-up)
+               2.71443 seconds (Sampling)
+               8.35919 seconds (Total)
+
+Iteration: 450 / 500 [ 90%]  (Sampling)
+Iteration: 350 / 500 [ 70%]  (Sampling)
+Iteration: 500 / 500 [100%]  (Sampling)
+
+ Elapsed Time: 6.38002 seconds (Warm-up)
+               2.70554 seconds (Sampling)
+               9.08556 seconds (Total)
+
+Iteration: 400 / 500 [ 80%]  (Sampling)
+Iteration: 450 / 500 [ 90%]  (Sampling)
+Iteration: 500 / 500 [100%]  (Sampling)
+
+ Elapsed Time: 7.75322 seconds (Warm-up)
+               2.79795 seconds (Sampling)
+               10.5512 seconds (Total)
+
+permuted  :::  2.990687698009424
+not_permuted  :::  1.8640495350118726
+array  :::  1.6303095730254427
+10000 1000 10
+
+Gradient evaluation took 0.000273 seconds
+1000 transitions using 10 leapfrog steps per transition would take 2.73 seconds.
+Adjust your expectations accordingly!
+
+
+
+Gradient evaluation took 0.00028 seconds
+1000 transitions using 10 leapfrog steps per transition would take 2.8 seconds.
+Adjust your expectations accordingly!
+
+
+
+Gradient evaluation took 0.000491 seconds
+1000 transitions using 10 leapfrog steps per transition would take 4.91 seconds.
+Adjust your expectations accordingly!
+
+
+Iteration:   1 / 1000 [  0%]  (Warmup)
+Iteration:   1 / 1000 [  0%]  (Warmup)
+Iteration:   1 / 1000 [  0%]  (Warmup)
+
+Gradient evaluation took 0.000282 seconds
+1000 transitions using 10 leapfrog steps per transition would take 2.82 seconds.
+Adjust your expectations accordingly!
+
+
+Iteration:   1 / 1000 [  0%]  (Warmup)
+Iteration: 100 / 1000 [ 10%]  (Warmup)
+Iteration: 100 / 1000 [ 10%]  (Warmup)
+Iteration: 100 / 1000 [ 10%]  (Warmup)
+Iteration: 100 / 1000 [ 10%]  (Warmup)
+Iteration: 200 / 1000 [ 20%]  (Warmup)
+Iteration: 200 / 1000 [ 20%]  (Warmup)
+Iteration: 200 / 1000 [ 20%]  (Warmup)
+Iteration: 200 / 1000 [ 20%]  (Warmup)
+Iteration: 300 / 1000 [ 30%]  (Warmup)
+Iteration: 300 / 1000 [ 30%]  (Warmup)
+Iteration: 300 / 1000 [ 30%]  (Warmup)
+Iteration: 300 / 1000 [ 30%]  (Warmup)
+Iteration: 400 / 1000 [ 40%]  (Warmup)
+Iteration: 400 / 1000 [ 40%]  (Warmup)
+Iteration: 400 / 1000 [ 40%]  (Warmup)
+Iteration: 400 / 1000 [ 40%]  (Warmup)
+Iteration: 500 / 1000 [ 50%]  (Warmup)
+Iteration: 501 / 1000 [ 50%]  (Sampling)
+Iteration: 500 / 1000 [ 50%]  (Warmup)
+Iteration: 500 / 1000 [ 50%]  (Warmup)
+Iteration: 501 / 1000 [ 50%]  (Sampling)
+Iteration: 501 / 1000 [ 50%]  (Sampling)
+Iteration: 600 / 1000 [ 60%]  (Sampling)
+Iteration: 500 / 1000 [ 50%]  (Warmup)
+Iteration: 501 / 1000 [ 50%]  (Sampling)
+Iteration: 600 / 1000 [ 60%]  (Sampling)
+Iteration: 600 / 1000 [ 60%]  (Sampling)
+Iteration: 700 / 1000 [ 70%]  (Sampling)
+Iteration: 600 / 1000 [ 60%]  (Sampling)
+Iteration: 700 / 1000 [ 70%]  (Sampling)
+Iteration: 700 / 1000 [ 70%]  (Sampling)
+Iteration: 800 / 1000 [ 80%]  (Sampling)
+Iteration: 700 / 1000 [ 70%]  (Sampling)
+Iteration: 800 / 1000 [ 80%]  (Sampling)
+Iteration: 800 / 1000 [ 80%]  (Sampling)
+Iteration: 900 / 1000 [ 90%]  (Sampling)
+Iteration: 800 / 1000 [ 80%]  (Sampling)
+Iteration: 900 / 1000 [ 90%]  (Sampling)
+Iteration: 900 / 1000 [ 90%]  (Sampling)
+Iteration: 1000 / 1000 [100%]  (Sampling)
+
+ Elapsed Time: 11.4399 seconds (Warm-up)
+               5.44944 seconds (Sampling)
+               16.8893 seconds (Total)
+
+Iteration: 900 / 1000 [ 90%]  (Sampling)
+Iteration: 1000 / 1000 [100%]  (Sampling)
+Iteration: 1000 / 1000 [100%]  (Sampling)
+
+ Elapsed Time: 12.0962 seconds (Warm-up)
+               5.44883 seconds (Sampling)
+               17.5451 seconds (Total)
+
+
+ Elapsed Time: 12.118 seconds (Warm-up)
+               5.45885 seconds (Sampling)
+               17.5768 seconds (Total)
+
+Iteration: 1000 / 1000 [100%]  (Sampling)
+
+ Elapsed Time: 12.767 seconds (Warm-up)
+               5.57293 seconds (Sampling)
+               18.3399 seconds (Total)
+
+permuted  :::  5.9906972870230675
+not_permuted  :::  2.8576920859632082
+array  :::  2.82904907601187
+10000 1500 10
+
+Gradient evaluation took 0.000246 seconds
+1000 transitions using 10 leapfrog steps per transition would take 2.46 seconds.
+Adjust your expectations accordingly!
+
+
+Iteration:    1 / 1500 [  0%]  (Warmup)
+
+Gradient evaluation took 0.000237 seconds
+1000 transitions using 10 leapfrog steps per transition would take 2.37 seconds.
+Adjust your expectations accordingly!
+
+
+Iteration:    1 / 1500 [  0%]  (Warmup)
+
+Gradient evaluation took 0.000488 seconds
+1000 transitions using 10 leapfrog steps per transition would take 4.88 seconds.
+Adjust your expectations accordingly!
+
+
+
+Gradient evaluation took 0.000326 seconds
+1000 transitions using 10 leapfrog steps per transition would take 3.26 seconds.
+Adjust your expectations accordingly!
+
+
+Iteration:    1 / 1500 [  0%]  (Warmup)
+Iteration:    1 / 1500 [  0%]  (Warmup)
+Iteration:  150 / 1500 [ 10%]  (Warmup)
+Iteration:  150 / 1500 [ 10%]  (Warmup)
+Iteration:  150 / 1500 [ 10%]  (Warmup)
+Iteration:  150 / 1500 [ 10%]  (Warmup)
+Iteration:  300 / 1500 [ 20%]  (Warmup)
+Iteration:  300 / 1500 [ 20%]  (Warmup)
+Iteration:  300 / 1500 [ 20%]  (Warmup)
+Iteration:  300 / 1500 [ 20%]  (Warmup)
+Iteration:  450 / 1500 [ 30%]  (Warmup)
+Iteration:  450 / 1500 [ 30%]  (Warmup)
+Iteration:  450 / 1500 [ 30%]  (Warmup)
+Iteration:  450 / 1500 [ 30%]  (Warmup)
+Iteration:  600 / 1500 [ 40%]  (Warmup)
+Iteration:  600 / 1500 [ 40%]  (Warmup)
+Iteration:  600 / 1500 [ 40%]  (Warmup)
+Iteration:  600 / 1500 [ 40%]  (Warmup)
+Iteration:  750 / 1500 [ 50%]  (Warmup)
+Iteration:  751 / 1500 [ 50%]  (Sampling)
+Iteration:  750 / 1500 [ 50%]  (Warmup)
+Iteration:  751 / 1500 [ 50%]  (Sampling)
+Iteration:  750 / 1500 [ 50%]  (Warmup)
+Iteration:  751 / 1500 [ 50%]  (Sampling)
+Iteration:  900 / 1500 [ 60%]  (Sampling)
+Iteration:  750 / 1500 [ 50%]  (Warmup)
+Iteration:  900 / 1500 [ 60%]  (Sampling)
+Iteration:  751 / 1500 [ 50%]  (Sampling)
+Iteration:  900 / 1500 [ 60%]  (Sampling)
+Iteration: 1050 / 1500 [ 70%]  (Sampling)
+Iteration: 1050 / 1500 [ 70%]  (Sampling)
+Iteration:  900 / 1500 [ 60%]  (Sampling)
+Iteration: 1050 / 1500 [ 70%]  (Sampling)
+Iteration: 1200 / 1500 [ 80%]  (Sampling)
+Iteration: 1200 / 1500 [ 80%]  (Sampling)
+Iteration: 1050 / 1500 [ 70%]  (Sampling)
+Iteration: 1200 / 1500 [ 80%]  (Sampling)
+Iteration: 1350 / 1500 [ 90%]  (Sampling)
+Iteration: 1350 / 1500 [ 90%]  (Sampling)
+Iteration: 1200 / 1500 [ 80%]  (Sampling)
+Iteration: 1350 / 1500 [ 90%]  (Sampling)
+Iteration: 1500 / 1500 [100%]  (Sampling)
+
+ Elapsed Time: 19.765 seconds (Warm-up)
+               8.19133 seconds (Sampling)
+               27.9564 seconds (Total)
+
+Iteration: 1500 / 1500 [100%]  (Sampling)
+
+ Elapsed Time: 20.1645 seconds (Warm-up)
+               8.18267 seconds (Sampling)
+               28.3471 seconds (Total)
+
+Iteration: 1350 / 1500 [ 90%]  (Sampling)
+Iteration: 1500 / 1500 [100%]  (Sampling)
+
+ Elapsed Time: 21.237 seconds (Warm-up)
+               8.20072 seconds (Sampling)
+               29.4378 seconds (Total)
+
+Iteration: 1500 / 1500 [100%]  (Sampling)
+
+ Elapsed Time: 22.036 seconds (Warm-up)
+               8.31496 seconds (Sampling)
+               30.3509 seconds (Total)
+
+permuted  :::  8.98706618900178
+not_permuted  :::  4.027837699977681
+array  :::  4.008824048039969
+10000 2000 10
+
+Gradient evaluation took 0.000272 seconds
+1000 transitions using 10 leapfrog steps per transition would take 2.72 seconds.
+Adjust your expectations accordingly!
+
+
+Iteration:    1 / 2000 [  0%]  (Warmup)
+
+Gradient evaluation took 0.000398 seconds
+1000 transitions using 10 leapfrog steps per transition would take 3.98 seconds.
+Adjust your expectations accordingly!
+
+
+Iteration:    1 / 2000 [  0%]  (Warmup)
+
+Gradient evaluation took 0.000306 seconds
+1000 transitions using 10 leapfrog steps per transition would take 3.06 seconds.
+Adjust your expectations accordingly!
+
+
+Iteration:    1 / 2000 [  0%]  (Warmup)
+
+Gradient evaluation took 0.000455 seconds
+1000 transitions using 10 leapfrog steps per transition would take 4.55 seconds.
+Adjust your expectations accordingly!
+
+
+Iteration:    1 / 2000 [  0%]  (Warmup)
+Iteration:  200 / 2000 [ 10%]  (Warmup)
+Iteration:  200 / 2000 [ 10%]  (Warmup)
+Iteration:  200 / 2000 [ 10%]  (Warmup)
+Iteration:  200 / 2000 [ 10%]  (Warmup)
+Iteration:  400 / 2000 [ 20%]  (Warmup)
+Iteration:  400 / 2000 [ 20%]  (Warmup)
+Iteration:  400 / 2000 [ 20%]  (Warmup)
+Iteration:  400 / 2000 [ 20%]  (Warmup)
+Iteration:  600 / 2000 [ 30%]  (Warmup)
+Iteration:  600 / 2000 [ 30%]  (Warmup)
+Iteration:  600 / 2000 [ 30%]  (Warmup)
+Iteration:  600 / 2000 [ 30%]  (Warmup)
+Iteration:  800 / 2000 [ 40%]  (Warmup)
+Iteration:  800 / 2000 [ 40%]  (Warmup)
+Iteration:  800 / 2000 [ 40%]  (Warmup)
+Iteration:  800 / 2000 [ 40%]  (Warmup)
+Iteration: 1000 / 2000 [ 50%]  (Warmup)
+Iteration: 1001 / 2000 [ 50%]  (Sampling)
+Iteration: 1000 / 2000 [ 50%]  (Warmup)
+Iteration: 1001 / 2000 [ 50%]  (Sampling)
+Iteration: 1000 / 2000 [ 50%]  (Warmup)
+Iteration: 1001 / 2000 [ 50%]  (Sampling)
+Iteration: 1200 / 2000 [ 60%]  (Sampling)
+Iteration: 1200 / 2000 [ 60%]  (Sampling)
+Iteration: 1200 / 2000 [ 60%]  (Sampling)
+Iteration: 1400 / 2000 [ 70%]  (Sampling)
+Iteration: 1000 / 2000 [ 50%]  (Warmup)
+Iteration: 1001 / 2000 [ 50%]  (Sampling)
+Iteration: 1400 / 2000 [ 70%]  (Sampling)
+Iteration: 1400 / 2000 [ 70%]  (Sampling)
+Iteration: 1600 / 2000 [ 80%]  (Sampling)
+Iteration: 1200 / 2000 [ 60%]  (Sampling)
+Iteration: 1600 / 2000 [ 80%]  (Sampling)
+Iteration: 1600 / 2000 [ 80%]  (Sampling)
+Iteration: 1800 / 2000 [ 90%]  (Sampling)
+Iteration: 1400 / 2000 [ 70%]  (Sampling)
+Iteration: 1800 / 2000 [ 90%]  (Sampling)
+Iteration: 1800 / 2000 [ 90%]  (Sampling)
+Iteration: 2000 / 2000 [100%]  (Sampling)
+
+ Elapsed Time: 26.2164 seconds (Warm-up)
+               10.9602 seconds (Sampling)
+               37.1766 seconds (Total)
+
+Iteration: 1600 / 2000 [ 80%]  (Sampling)
+Iteration: 2000 / 2000 [100%]  (Sampling)
+
+ Elapsed Time: 27.3453 seconds (Warm-up)
+               11.0829 seconds (Sampling)
+               38.4282 seconds (Total)
+
+Iteration: 2000 / 2000 [100%]  (Sampling)
+
+ Elapsed Time: 27.9675 seconds (Warm-up)
+               10.9079 seconds (Sampling)
+               38.8754 seconds (Total)
+
+Iteration: 1800 / 2000 [ 90%]  (Sampling)
+Iteration: 2000 / 2000 [100%]  (Sampling)
+
+ Elapsed Time: 31.0232 seconds (Warm-up)
+               10.9424 seconds (Sampling)
+               41.9656 seconds (Total)
+
+permuted  :::  12.93170054903021
+not_permuted  :::  5.245570101018529
+array  :::  5.244308422959875
+50000 100 10
+
+Gradient evaluation took 0.00101 seconds
+1000 transitions using 10 leapfrog steps per transition would take 10.1 seconds.
+Adjust your expectations accordingly!
+
+
+WARNING: There aren't enough warmup iterations to fit the
+         three stages of adaptation as currently configured.
+         Reducing each adaptation stage to 15%/75%/10% of
+         the given number of warmup iterations:
+           init_buffer = 7
+           adapt_window = 38
+           term_buffer = 5
+
+
+Gradient evaluation took 0.001003 seconds
+1000 transitions using 10 leapfrog steps per transition would take 10.03 seconds.
+Adjust your expectations accordingly!
+
+
+WARNING: There aren't enough warmup iterations to fit the
+         three stages of adaptation as currently configured.
+         Reducing each adaptation stage to 15%/75%/10% of
+         the given number of warmup iterations:
+           init_buffer = 7
+           adapt_window = 38
+           term_buffer = 5
+
+
+Gradient evaluation took 0.001036 seconds
+1000 transitions using 10 leapfrog steps per transition would take 10.36 seconds.
+Adjust your expectations accordingly!
+
+
+WARNING: There aren't enough warmup iterations to fit the
+         three stages of adaptation as currently configured.
+         Reducing each adaptation stage to 15%/75%/10% of
+         the given number of warmup iterations:
+           init_buffer = 7
+           adapt_window = 38
+           term_buffer = 5
+
+Iteration:  1 / 100 [  1%]  (Warmup)
+Iteration:  1 / 100 [  1%]  (Warmup)
+
+Gradient evaluation took 0.001387 seconds
+1000 transitions using 10 leapfrog steps per transition would take 13.87 seconds.
+Adjust your expectations accordingly!
+
+
+WARNING: There aren't enough warmup iterations to fit the
+         three stages of adaptation as currently configured.
+         Reducing each adaptation stage to 15%/75%/10% of
+         the given number of warmup iterations:
+           init_buffer = 7
+           adapt_window = 38
+           term_buffer = 5
+
+Iteration:  1 / 100 [  1%]  (Warmup)
+Iteration:  1 / 100 [  1%]  (Warmup)
+Iteration: 10 / 100 [ 10%]  (Warmup)
+Iteration: 10 / 100 [ 10%]  (Warmup)
+Iteration: 10 / 100 [ 10%]  (Warmup)
+Iteration: 10 / 100 [ 10%]  (Warmup)
+Iteration: 20 / 100 [ 20%]  (Warmup)
+Iteration: 20 / 100 [ 20%]  (Warmup)
+Iteration: 30 / 100 [ 30%]  (Warmup)
+Iteration: 30 / 100 [ 30%]  (Warmup)
+Iteration: 40 / 100 [ 40%]  (Warmup)
+Iteration: 20 / 100 [ 20%]  (Warmup)
+Iteration: 40 / 100 [ 40%]  (Warmup)
+Iteration: 50 / 100 [ 50%]  (Warmup)
+Iteration: 51 / 100 [ 51%]  (Sampling)
+Iteration: 20 / 100 [ 20%]  (Warmup)
+Iteration: 50 / 100 [ 50%]  (Warmup)
+Iteration: 30 / 100 [ 30%]  (Warmup)
+Iteration: 51 / 100 [ 51%]  (Sampling)
+Iteration: 60 / 100 [ 60%]  (Sampling)
+Iteration: 30 / 100 [ 30%]  (Warmup)
+Iteration: 60 / 100 [ 60%]  (Sampling)
+Iteration: 70 / 100 [ 70%]  (Sampling)
+Iteration: 40 / 100 [ 40%]  (Warmup)
+Iteration: 40 / 100 [ 40%]  (Warmup)
+Iteration: 70 / 100 [ 70%]  (Sampling)
+Iteration: 80 / 100 [ 80%]  (Sampling)
+Iteration: 80 / 100 [ 80%]  (Sampling)
+Iteration: 90 / 100 [ 90%]  (Sampling)
+Iteration: 50 / 100 [ 50%]  (Warmup)
+Iteration: 51 / 100 [ 51%]  (Sampling)
+Iteration: 100 / 100 [100%]  (Sampling)
+Iteration: 90 / 100 [ 90%]  (Sampling)
+
+ Elapsed Time: 5.18349 seconds (Warm-up)
+               4.95178 seconds (Sampling)
+               10.1353 seconds (Total)
+
+Iteration: 100 / 100 [100%]  (Sampling)
+Iteration: 60 / 100 [ 60%]  (Sampling)
+
+ Elapsed Time: 6.06231 seconds (Warm-up)
+               5.25629 seconds (Sampling)
+               11.3186 seconds (Total)
+
+Iteration: 50 / 100 [ 50%]  (Warmup)
+Iteration: 51 / 100 [ 51%]  (Sampling)
+Iteration: 70 / 100 [ 70%]  (Sampling)
+Iteration: 60 / 100 [ 60%]  (Sampling)
+Iteration: 70 / 100 [ 70%]  (Sampling)
+Iteration: 80 / 100 [ 80%]  (Sampling)
+Iteration: 80 / 100 [ 80%]  (Sampling)
+Iteration: 90 / 100 [ 90%]  (Sampling)
+Iteration: 90 / 100 [ 90%]  (Sampling)
+Iteration: 100 / 100 [100%]  (Sampling)
+
+ Elapsed Time: 12.0263 seconds (Warm-up)
+               4.31832 seconds (Sampling)
+               16.3446 seconds (Total)
+
+Iteration: 100 / 100 [100%]  (Sampling)
+
+ Elapsed Time: 9.34532 seconds (Warm-up)
+               7.98445 seconds (Sampling)
+               17.3298 seconds (Total)
+
+permuted  :::  3.414035835012328
+not_permuted  :::  2.633660231018439
+array  :::  2.5725690540275536
+50000 500 10
+
+Gradient evaluation took 0.000973 seconds
+1000 transitions using 10 leapfrog steps per transition would take 9.73 seconds.
+Adjust your expectations accordingly!
+
+
+
+Gradient evaluation took 0.000964 seconds
+1000 transitions using 10 leapfrog steps per transition would take 9.64 seconds.
+Adjust your expectations accordingly!
+
+
+
+Gradient evaluation took 0.001295 seconds
+1000 transitions using 10 leapfrog steps per transition would take 12.95 seconds.
+Adjust your expectations accordingly!
+
+
+Iteration:   1 / 500 [  0%]  (Warmup)
+Iteration:   1 / 500 [  0%]  (Warmup)
+Iteration:   1 / 500 [  0%]  (Warmup)
+
+Gradient evaluation took 0.001196 seconds
+1000 transitions using 10 leapfrog steps per transition would take 11.96 seconds.
+Adjust your expectations accordingly!
+
+
+Iteration:   1 / 500 [  0%]  (Warmup)
+Iteration:  50 / 500 [ 10%]  (Warmup)
+Iteration:  50 / 500 [ 10%]  (Warmup)
+Iteration:  50 / 500 [ 10%]  (Warmup)
+Iteration:  50 / 500 [ 10%]  (Warmup)
+Iteration: 100 / 500 [ 20%]  (Warmup)
+Iteration: 100 / 500 [ 20%]  (Warmup)
+Iteration: 100 / 500 [ 20%]  (Warmup)
+Iteration: 100 / 500 [ 20%]  (Warmup)
+Iteration: 150 / 500 [ 30%]  (Warmup)
+Iteration: 150 / 500 [ 30%]  (Warmup)
+Iteration: 150 / 500 [ 30%]  (Warmup)
+Iteration: 150 / 500 [ 30%]  (Warmup)
+Iteration: 200 / 500 [ 40%]  (Warmup)
+Iteration: 200 / 500 [ 40%]  (Warmup)
+Iteration: 200 / 500 [ 40%]  (Warmup)
+Iteration: 200 / 500 [ 40%]  (Warmup)
+Iteration: 250 / 500 [ 50%]  (Warmup)
+Iteration: 251 / 500 [ 50%]  (Sampling)
+Iteration: 250 / 500 [ 50%]  (Warmup)
+Iteration: 251 / 500 [ 50%]  (Sampling)
+Iteration: 300 / 500 [ 60%]  (Sampling)
+Iteration: 300 / 500 [ 60%]  (Sampling)
+Iteration: 250 / 500 [ 50%]  (Warmup)
+Iteration: 251 / 500 [ 50%]  (Sampling)
+Iteration: 350 / 500 [ 70%]  (Sampling)
+Iteration: 250 / 500 [ 50%]  (Warmup)
+Iteration: 251 / 500 [ 50%]  (Sampling)
+Iteration: 350 / 500 [ 70%]  (Sampling)
+Iteration: 300 / 500 [ 60%]  (Sampling)
+Iteration: 400 / 500 [ 80%]  (Sampling)
+Iteration: 400 / 500 [ 80%]  (Sampling)
+Iteration: 350 / 500 [ 70%]  (Sampling)
+Iteration: 450 / 500 [ 90%]  (Sampling)
+Iteration: 450 / 500 [ 90%]  (Sampling)
+Iteration: 400 / 500 [ 80%]  (Sampling)
+Iteration: 500 / 500 [100%]  (Sampling)
+
+ Elapsed Time: 49.9626 seconds (Warm-up)
+               26.3895 seconds (Sampling)
+               76.3521 seconds (Total)
+
+Iteration: 500 / 500 [100%]  (Sampling)
+
+ Elapsed Time: 52.3425 seconds (Warm-up)
+               25.8468 seconds (Sampling)
+               78.1893 seconds (Total)
+
+Iteration: 450 / 500 [ 90%]  (Sampling)
+Iteration: 500 / 500 [100%]  (Sampling)
+
+ Elapsed Time: 57.9693 seconds (Warm-up)
+               24.0505 seconds (Sampling)
+               82.0198 seconds (Total)
+
+Iteration: 300 / 500 [ 60%]  (Sampling)
+Iteration: 350 / 500 [ 70%]  (Sampling)
+Iteration: 400 / 500 [ 80%]  (Sampling)
+Iteration: 450 / 500 [ 90%]  (Sampling)
+Iteration: 500 / 500 [100%]  (Sampling)
+
+ Elapsed Time: 61.7489 seconds (Warm-up)
+               380.146 seconds (Sampling)
+               441.895 seconds (Total)
+
+permuted  :::  16.75116840499686
+not_permuted  :::  7.57405217201449
+array  :::  7.687174663005862
+50000 1000 10
+
+Gradient evaluation took 0.001403 seconds
+1000 transitions using 10 leapfrog steps per transition would take 14.03 seconds.
+Adjust your expectations accordingly!
+
+
+
+Gradient evaluation took 0.001174 seconds
+1000 transitions using 10 leapfrog steps per transition would take 11.74 seconds.
+Adjust your expectations accordingly!
+
+
+Iteration:   1 / 1000 [  0%]  (Warmup)
+Iteration:   1 / 1000 [  0%]  (Warmup)
+
+Gradient evaluation took 0.0013 seconds
+1000 transitions using 10 leapfrog steps per transition would take 13 seconds.
+Adjust your expectations accordingly!
+
+
+
+Gradient evaluation took 0.001205 seconds
+1000 transitions using 10 leapfrog steps per transition would take 12.05 seconds.
+Adjust your expectations accordingly!
+
+
+Iteration:   1 / 1000 [  0%]  (Warmup)
+Iteration:   1 / 1000 [  0%]  (Warmup)
+Iteration: 100 / 1000 [ 10%]  (Warmup)
+Iteration: 100 / 1000 [ 10%]  (Warmup)
+Iteration: 100 / 1000 [ 10%]  (Warmup)
+Iteration: 100 / 1000 [ 10%]  (Warmup)
+Iteration: 200 / 1000 [ 20%]  (Warmup)
+Iteration: 200 / 1000 [ 20%]  (Warmup)
+Iteration: 200 / 1000 [ 20%]  (Warmup)
+Iteration: 200 / 1000 [ 20%]  (Warmup)
+Iteration: 300 / 1000 [ 30%]  (Warmup)
+Iteration: 300 / 1000 [ 30%]  (Warmup)
+Iteration: 300 / 1000 [ 30%]  (Warmup)
+Iteration: 300 / 1000 [ 30%]  (Warmup)
+Iteration: 400 / 1000 [ 40%]  (Warmup)
+Iteration: 400 / 1000 [ 40%]  (Warmup)
+Iteration: 400 / 1000 [ 40%]  (Warmup)
+Iteration: 400 / 1000 [ 40%]  (Warmup)
+Iteration: 500 / 1000 [ 50%]  (Warmup)
+Iteration: 501 / 1000 [ 50%]  (Sampling)
+Iteration: 500 / 1000 [ 50%]  (Warmup)
+Iteration: 501 / 1000 [ 50%]  (Sampling)
+Iteration: 500 / 1000 [ 50%]  (Warmup)
+Iteration: 501 / 1000 [ 50%]  (Sampling)
+Iteration: 500 / 1000 [ 50%]  (Warmup)
+Iteration: 501 / 1000 [ 50%]  (Sampling)
+Iteration: 600 / 1000 [ 60%]  (Sampling)
+Iteration: 600 / 1000 [ 60%]  (Sampling)
+Iteration: 600 / 1000 [ 60%]  (Sampling)
+Iteration: 600 / 1000 [ 60%]  (Sampling)
+Iteration: 700 / 1000 [ 70%]  (Sampling)
+Iteration: 700 / 1000 [ 70%]  (Sampling)
+Iteration: 700 / 1000 [ 70%]  (Sampling)
+Iteration: 800 / 1000 [ 80%]  (Sampling)
+Iteration: 800 / 1000 [ 80%]  (Sampling)
+Iteration: 700 / 1000 [ 70%]  (Sampling)
+Iteration: 800 / 1000 [ 80%]  (Sampling)
+Iteration: 900 / 1000 [ 90%]  (Sampling)
+Iteration: 900 / 1000 [ 90%]  (Sampling)
+Iteration: 900 / 1000 [ 90%]  (Sampling)
+Iteration: 1000 / 1000 [100%]  (Sampling)
+
+ Elapsed Time: 120.906 seconds (Warm-up)
+               46.2964 seconds (Sampling)
+               167.202 seconds (Total)
+
+Iteration: 800 / 1000 [ 80%]  (Sampling)
+Iteration: 1000 / 1000 [100%]  (Sampling)
+
+ Elapsed Time: 116.847 seconds (Warm-up)
+               52.0952 seconds (Sampling)
+               168.942 seconds (Total)
+
+Iteration: 1000 / 1000 [100%]  (Sampling)
+
+ Elapsed Time: 124.578 seconds (Warm-up)
+               50.4096 seconds (Sampling)
+               174.988 seconds (Total)
+
+Iteration: 900 / 1000 [ 90%]  (Sampling)
+Iteration: 1000 / 1000 [100%]  (Sampling)
+
+ Elapsed Time: 115.651 seconds (Warm-up)
+               76.0334 seconds (Sampling)
+               191.684 seconds (Total)
+
+permuted  :::  30.56251943699317
+not_permuted  :::  13.941230238007847
+array  :::  14.06588071596343
+50000 1500 10
+
+Gradient evaluation took 0.001902 seconds
+1000 transitions using 10 leapfrog steps per transition would take 19.02 seconds.
+Adjust your expectations accordingly!
+
+
+
+Gradient evaluation took 0.000978 seconds
+1000 transitions using 10 leapfrog steps per transition would take 9.78 seconds.
+Adjust your expectations accordingly!
+
+
+Iteration:    1 / 1500 [  0%]  (Warmup)
+Iteration:    1 / 1500 [  0%]  (Warmup)
+
+Gradient evaluation took 0.001429 seconds
+1000 transitions using 10 leapfrog steps per transition would take 14.29 seconds.
+Adjust your expectations accordingly!
+
+
+Iteration:    1 / 1500 [  0%]  (Warmup)
+
+Gradient evaluation took 0.001089 seconds
+1000 transitions using 10 leapfrog steps per transition would take 10.89 seconds.
+Adjust your expectations accordingly!
+
+
+Iteration:    1 / 1500 [  0%]  (Warmup)
+Iteration:  150 / 1500 [ 10%]  (Warmup)
+Iteration:  150 / 1500 [ 10%]  (Warmup)
+Iteration:  150 / 1500 [ 10%]  (Warmup)
+Iteration:  150 / 1500 [ 10%]  (Warmup)
+Iteration:  300 / 1500 [ 20%]  (Warmup)
+Iteration:  300 / 1500 [ 20%]  (Warmup)
+Iteration:  300 / 1500 [ 20%]  (Warmup)
+Iteration:  300 / 1500 [ 20%]  (Warmup)
+Iteration:  450 / 1500 [ 30%]  (Warmup)
+Iteration:  450 / 1500 [ 30%]  (Warmup)
+Iteration:  450 / 1500 [ 30%]  (Warmup)
+Iteration:  450 / 1500 [ 30%]  (Warmup)
+Iteration:  600 / 1500 [ 40%]  (Warmup)
+Iteration:  600 / 1500 [ 40%]  (Warmup)
+Iteration:  600 / 1500 [ 40%]  (Warmup)
+Iteration:  600 / 1500 [ 40%]  (Warmup)
+Iteration:  750 / 1500 [ 50%]  (Warmup)
+Iteration:  751 / 1500 [ 50%]  (Sampling)
+Iteration:  750 / 1500 [ 50%]  (Warmup)
+Iteration:  751 / 1500 [ 50%]  (Sampling)
+Iteration:  750 / 1500 [ 50%]  (Warmup)
+Iteration:  751 / 1500 [ 50%]  (Sampling)
+Iteration:  900 / 1500 [ 60%]  (Sampling)
+Iteration:  750 / 1500 [ 50%]  (Warmup)
+Iteration:  751 / 1500 [ 50%]  (Sampling)
+Iteration:  900 / 1500 [ 60%]  (Sampling)
+Iteration: 1050 / 1500 [ 70%]  (Sampling)
+Iteration:  900 / 1500 [ 60%]  (Sampling)
+Iteration: 1200 / 1500 [ 80%]  (Sampling)
+Iteration: 1050 / 1500 [ 70%]  (Sampling)
+Iteration: 1050 / 1500 [ 70%]  (Sampling)
+Iteration: 1350 / 1500 [ 90%]  (Sampling)
+Iteration: 1200 / 1500 [ 80%]  (Sampling)
+Iteration: 1500 / 1500 [100%]  (Sampling)
+
+ Elapsed Time: 182.963 seconds (Warm-up)
+               79.3326 seconds (Sampling)
+               262.295 seconds (Total)
+
+Iteration: 1200 / 1500 [ 80%]  (Sampling)
+Iteration: 1350 / 1500 [ 90%]  (Sampling)
+Iteration: 1500 / 1500 [100%]  (Sampling)
+
+ Elapsed Time: 201.01 seconds (Warm-up)
+               76.6613 seconds (Sampling)
+               277.671 seconds (Total)
+
+Iteration: 1350 / 1500 [ 90%]  (Sampling)
+Iteration: 1500 / 1500 [100%]  (Sampling)
+
+ Elapsed Time: 174.787 seconds (Warm-up)
+               130.32 seconds (Sampling)
+               305.106 seconds (Total)
+
+Iteration:  900 / 1500 [ 60%]  (Sampling)
+Iteration: 1050 / 1500 [ 70%]  (Sampling)
+Iteration: 1200 / 1500 [ 80%]  (Sampling)
+Iteration: 1350 / 1500 [ 90%]  (Sampling)
+Iteration: 1500 / 1500 [100%]  (Sampling)
+
+ Elapsed Time: 180.092 seconds (Warm-up)
+               1185.37 seconds (Sampling)
+               1365.46 seconds (Total)
+
+permuted  :::  45.507531254028436
+not_permuted  :::  19.94747469300637
+array  :::  19.981744044984225
+50000 2000 10
+
+Gradient evaluation took 0.000959 seconds
+1000 transitions using 10 leapfrog steps per transition would take 9.59 seconds.
+Adjust your expectations accordingly!
+
+
+
+Gradient evaluation took 0.000983 seconds
+1000 transitions using 10 leapfrog steps per transition would take 9.83 seconds.
+Adjust your expectations accordingly!
+
+
+Iteration:    1 / 2000 [  0%]  (Warmup)
+Iteration:    1 / 2000 [  0%]  (Warmup)
+
+Gradient evaluation took 0.001311 seconds
+1000 transitions using 10 leapfrog steps per transition would take 13.11 seconds.
+Adjust your expectations accordingly!
+
+
+Iteration:    1 / 2000 [  0%]  (Warmup)
+
+Gradient evaluation took 0.001132 seconds
+1000 transitions using 10 leapfrog steps per transition would take 11.32 seconds.
+Adjust your expectations accordingly!
+
+
+Iteration:    1 / 2000 [  0%]  (Warmup)
+Iteration:  200 / 2000 [ 10%]  (Warmup)
+Iteration:  200 / 2000 [ 10%]  (Warmup)
+Iteration:  200 / 2000 [ 10%]  (Warmup)
+Iteration:  200 / 2000 [ 10%]  (Warmup)
+Iteration:  400 / 2000 [ 20%]  (Warmup)
+Iteration:  400 / 2000 [ 20%]  (Warmup)
+Iteration:  400 / 2000 [ 20%]  (Warmup)
+Iteration:  400 / 2000 [ 20%]  (Warmup)
+Iteration:  600 / 2000 [ 30%]  (Warmup)
+Iteration:  600 / 2000 [ 30%]  (Warmup)
+Iteration:  600 / 2000 [ 30%]  (Warmup)
+Iteration:  600 / 2000 [ 30%]  (Warmup)
+Iteration:  800 / 2000 [ 40%]  (Warmup)
+Iteration:  800 / 2000 [ 40%]  (Warmup)
+Iteration:  800 / 2000 [ 40%]  (Warmup)
+Iteration:  800 / 2000 [ 40%]  (Warmup)
+Iteration: 1000 / 2000 [ 50%]  (Warmup)
+Iteration: 1001 / 2000 [ 50%]  (Sampling)
+Iteration: 1000 / 2000 [ 50%]  (Warmup)
+Iteration: 1001 / 2000 [ 50%]  (Sampling)
+Iteration: 1000 / 2000 [ 50%]  (Warmup)
+Iteration: 1001 / 2000 [ 50%]  (Sampling)
+Iteration: 1000 / 2000 [ 50%]  (Warmup)
+Iteration: 1200 / 2000 [ 60%]  (Sampling)
+Iteration: 1001 / 2000 [ 50%]  (Sampling)
+Iteration: 1200 / 2000 [ 60%]  (Sampling)
+Iteration: 1400 / 2000 [ 70%]  (Sampling)
+Iteration: 1200 / 2000 [ 60%]  (Sampling)
+Iteration: 1400 / 2000 [ 70%]  (Sampling)
+Iteration: 1600 / 2000 [ 80%]  (Sampling)
+Iteration: 1400 / 2000 [ 70%]  (Sampling)
+Iteration: 1600 / 2000 [ 80%]  (Sampling)
+Iteration: 1800 / 2000 [ 90%]  (Sampling)
+Iteration: 1600 / 2000 [ 80%]  (Sampling)
+Iteration: 1800 / 2000 [ 90%]  (Sampling)
+Iteration: 2000 / 2000 [100%]  (Sampling)
+Iteration: 1800 / 2000 [ 90%]  (Sampling)
+
+ Elapsed Time: 254.328 seconds (Warm-up)
+               102.695 seconds (Sampling)
+               357.023 seconds (Total)
+
+Iteration: 2000 / 2000 [100%]  (Sampling)
+
+ Elapsed Time: 255.016 seconds (Warm-up)
+               103.602 seconds (Sampling)
+               358.618 seconds (Total)
+
+Iteration: 2000 / 2000 [100%]  (Sampling)
+
+ Elapsed Time: 275.432 seconds (Warm-up)
+               95.5964 seconds (Sampling)
+               371.029 seconds (Total)
+
+Iteration: 1200 / 2000 [ 60%]  (Sampling)
+Iteration: 1400 / 2000 [ 70%]  (Sampling)
+Iteration: 1600 / 2000 [ 80%]  (Sampling)
+Iteration: 1800 / 2000 [ 90%]  (Sampling)
+Iteration: 2000 / 2000 [100%]  (Sampling)
+
+ Elapsed Time: 266.154 seconds (Warm-up)
+               1501.28 seconds (Sampling)
+               1767.43 seconds (Total)
+
+permuted  :::  67.76742560998537
+not_permuted  :::  26.2037794230273
+array  :::  28.20216818503104
+100000 100 10
+
+Gradient evaluation took 0.002458 seconds
+1000 transitions using 10 leapfrog steps per transition would take 24.58 seconds.
+Adjust your expectations accordingly!
+
+
+WARNING: There aren't enough warmup iterations to fit the
+         three stages of adaptation as currently configured.
+         Reducing each adaptation stage to 15%/75%/10% of
+         the given number of warmup iterations:
+           init_buffer = 7
+           adapt_window = 38
+           term_buffer = 5
+
+
+Gradient evaluation took 0.003158 seconds
+1000 transitions using 10 leapfrog steps per transition would take 31.58 seconds.
+Adjust your expectations accordingly!
+
+
+WARNING: There aren't enough warmup iterations to fit the
+         three stages of adaptation as currently configured.
+         Reducing each adaptation stage to 15%/75%/10% of
+         the given number of warmup iterations:
+           init_buffer = 7
+           adapt_window = 38
+           term_buffer = 5
+
+
+Gradient evaluation took 0.003952 seconds
+1000 transitions using 10 leapfrog steps per transition would take 39.52 seconds.
+Adjust your expectations accordingly!
+
+
+WARNING: There aren't enough warmup iterations to fit the
+         three stages of adaptation as currently configured.
+         Reducing each adaptation stage to 15%/75%/10% of
+         the given number of warmup iterations:
+           init_buffer = 7
+           adapt_window = 38
+           term_buffer = 5
+
+
+Gradient evaluation took 0.004445 seconds
+1000 transitions using 10 leapfrog steps per transition would take 44.45 seconds.
+Adjust your expectations accordingly!
+
+
+WARNING: There aren't enough warmup iterations to fit the
+         three stages of adaptation as currently configured.
+         Reducing each adaptation stage to 15%/75%/10% of
+         the given number of warmup iterations:
+           init_buffer = 7
+           adapt_window = 38
+           term_buffer = 5
+
+Iteration:  1 / 100 [  1%]  (Warmup)
+Iteration:  1 / 100 [  1%]  (Warmup)
+Iteration:  1 / 100 [  1%]  (Warmup)
+Iteration:  1 / 100 [  1%]  (Warmup)
+Iteration: 10 / 100 [ 10%]  (Warmup)
+Iteration: 10 / 100 [ 10%]  (Warmup)
+Iteration: 10 / 100 [ 10%]  (Warmup)
+Iteration: 20 / 100 [ 20%]  (Warmup)
+Iteration: 10 / 100 [ 10%]  (Warmup)
+Iteration: 20 / 100 [ 20%]  (Warmup)
+Iteration: 20 / 100 [ 20%]  (Warmup)
+Iteration: 30 / 100 [ 30%]  (Warmup)
+Iteration: 30 / 100 [ 30%]  (Warmup)
+Iteration: 20 / 100 [ 20%]  (Warmup)
+Iteration: 30 / 100 [ 30%]  (Warmup)
+Iteration: 40 / 100 [ 40%]  (Warmup)
+Iteration: 30 / 100 [ 30%]  (Warmup)
+Iteration: 40 / 100 [ 40%]  (Warmup)
+Iteration: 40 / 100 [ 40%]  (Warmup)
+Iteration: 40 / 100 [ 40%]  (Warmup)
+Iteration: 50 / 100 [ 50%]  (Warmup)
+Iteration: 51 / 100 [ 51%]  (Sampling)
+Iteration: 50 / 100 [ 50%]  (Warmup)
+Iteration: 51 / 100 [ 51%]  (Sampling)
+Iteration: 60 / 100 [ 60%]  (Sampling)
+Iteration: 50 / 100 [ 50%]  (Warmup)
+Iteration: 51 / 100 [ 51%]  (Sampling)
+Iteration: 60 / 100 [ 60%]  (Sampling)
+Iteration: 50 / 100 [ 50%]  (Warmup)
+Iteration: 51 / 100 [ 51%]  (Sampling)
+Iteration: 60 / 100 [ 60%]  (Sampling)
+Iteration: 70 / 100 [ 70%]  (Sampling)
+Iteration: 60 / 100 [ 60%]  (Sampling)
+Iteration: 70 / 100 [ 70%]  (Sampling)
+Iteration: 70 / 100 [ 70%]  (Sampling)
+Iteration: 80 / 100 [ 80%]  (Sampling)
+Iteration: 70 / 100 [ 70%]  (Sampling)
+Iteration: 80 / 100 [ 80%]  (Sampling)
+Iteration: 80 / 100 [ 80%]  (Sampling)
+Iteration: 90 / 100 [ 90%]  (Sampling)
+Iteration: 90 / 100 [ 90%]  (Sampling)
+Iteration: 80 / 100 [ 80%]  (Sampling)
+Iteration: 90 / 100 [ 90%]  (Sampling)
+Iteration: 100 / 100 [100%]  (Sampling)
+
+ Elapsed Time: 36.6606 seconds (Warm-up)
+               14.1056 seconds (Sampling)
+               50.7661 seconds (Total)
+
+Iteration: 100 / 100 [100%]  (Sampling)
+Iteration: 90 / 100 [ 90%]  (Sampling)
+
+ Elapsed Time: 31.4407 seconds (Warm-up)
+               20.5333 seconds (Sampling)
+               51.974 seconds (Total)
+
+Iteration: 100 / 100 [100%]  (Sampling)
+
+ Elapsed Time: 32.4781 seconds (Warm-up)
+               21.71 seconds (Sampling)
+               54.1881 seconds (Total)
+
+Iteration: 100 / 100 [100%]  (Sampling)
+
+ Elapsed Time: 35.6844 seconds (Warm-up)
+               19.769 seconds (Sampling)
+               55.4534 seconds (Total)
+
+permuted  :::  9.199279288004618
+not_permuted  :::  6.1892445490229875
+array  :::  5.903719968977384
+100000 500 10
+
+Gradient evaluation took 0.002429 seconds
+1000 transitions using 10 leapfrog steps per transition would take 24.29 seconds.
+Adjust your expectations accordingly!
+
+
+
+Gradient evaluation took 0.00226 seconds
+1000 transitions using 10 leapfrog steps per transition would take 22.6 seconds.
+Adjust your expectations accordingly!
+
+
+Iteration:   1 / 500 [  0%]  (Warmup)
+
+Gradient evaluation took 0.003273 seconds
+1000 transitions using 10 leapfrog steps per transition would take 32.73 seconds.
+Adjust your expectations accordingly!
+
+
+Iteration:   1 / 500 [  0%]  (Warmup)
+
+Gradient evaluation took 0.003261 seconds
+1000 transitions using 10 leapfrog steps per transition would take 32.61 seconds.
+Adjust your expectations accordingly!
+
+
+Iteration:   1 / 500 [  0%]  (Warmup)
+Iteration:   1 / 500 [  0%]  (Warmup)
+Iteration:  50 / 500 [ 10%]  (Warmup)
+Iteration:  50 / 500 [ 10%]  (Warmup)
+Iteration:  50 / 500 [ 10%]  (Warmup)
+Iteration:  50 / 500 [ 10%]  (Warmup)
+Iteration: 100 / 500 [ 20%]  (Warmup)
+Iteration: 100 / 500 [ 20%]  (Warmup)
+Iteration: 100 / 500 [ 20%]  (Warmup)
+Iteration: 100 / 500 [ 20%]  (Warmup)
+Iteration: 150 / 500 [ 30%]  (Warmup)
+Iteration: 150 / 500 [ 30%]  (Warmup)
+Iteration: 150 / 500 [ 30%]  (Warmup)
+Iteration: 150 / 500 [ 30%]  (Warmup)
+Iteration: 200 / 500 [ 40%]  (Warmup)
+Iteration: 200 / 500 [ 40%]  (Warmup)
+Iteration: 200 / 500 [ 40%]  (Warmup)
+Iteration: 200 / 500 [ 40%]  (Warmup)
+Iteration: 250 / 500 [ 50%]  (Warmup)
+Iteration: 251 / 500 [ 50%]  (Sampling)
+Iteration: 250 / 500 [ 50%]  (Warmup)
+Iteration: 251 / 500 [ 50%]  (Sampling)
+Iteration: 250 / 500 [ 50%]  (Warmup)
+Iteration: 251 / 500 [ 50%]  (Sampling)
+Iteration: 250 / 500 [ 50%]  (Warmup)
+Iteration: 251 / 500 [ 50%]  (Sampling)
+Iteration: 300 / 500 [ 60%]  (Sampling)
+Iteration: 300 / 500 [ 60%]  (Sampling)
+Iteration: 300 / 500 [ 60%]  (Sampling)
+Iteration: 300 / 500 [ 60%]  (Sampling)
+Iteration: 350 / 500 [ 70%]  (Sampling)
+Iteration: 350 / 500 [ 70%]  (Sampling)
+Iteration: 350 / 500 [ 70%]  (Sampling)
+Iteration: 350 / 500 [ 70%]  (Sampling)
+Iteration: 400 / 500 [ 80%]  (Sampling)
+Iteration: 400 / 500 [ 80%]  (Sampling)
+Iteration: 400 / 500 [ 80%]  (Sampling)
+Iteration: 400 / 500 [ 80%]  (Sampling)
+Iteration: 450 / 500 [ 90%]  (Sampling)
+Iteration: 450 / 500 [ 90%]  (Sampling)
+Iteration: 450 / 500 [ 90%]  (Sampling)
+Iteration: 500 / 500 [100%]  (Sampling)
+
+ Elapsed Time: 153.151 seconds (Warm-up)
+               106.873 seconds (Sampling)
+               260.024 seconds (Total)
+
+Iteration: 450 / 500 [ 90%]  (Sampling)
+Iteration: 500 / 500 [100%]  (Sampling)
+
+ Elapsed Time: 152.503 seconds (Warm-up)
+               122.562 seconds (Sampling)
+               275.065 seconds (Total)
+
+Iteration: 500 / 500 [100%]  (Sampling)
+
+ Elapsed Time: 160.614 seconds (Warm-up)
+               116.244 seconds (Sampling)
+               276.858 seconds (Total)
+
+Iteration: 500 / 500 [100%]  (Sampling)
+
+ Elapsed Time: 155.63 seconds (Warm-up)
+               121.462 seconds (Sampling)
+               277.092 seconds (Total)
+
+permuted  :::  34.473566093016416
+not_permuted  :::  15.30191473098239
+array  :::  16.722768374951556
+100000 1000 10
+
+Gradient evaluation took 0.002079 seconds
+1000 transitions using 10 leapfrog steps per transition would take 20.79 seconds.
+Adjust your expectations accordingly!
+
+
+
+Gradient evaluation took 0.002035 seconds
+1000 transitions using 10 leapfrog steps per transition would take 20.35 seconds.
+Adjust your expectations accordingly!
+
+
+
+Gradient evaluation took 0.002115 seconds
+1000 transitions using 10 leapfrog steps per transition would take 21.15 seconds.
+Adjust your expectations accordingly!
+
+
+Iteration:   1 / 1000 [  0%]  (Warmup)
+Iteration:   1 / 1000 [  0%]  (Warmup)
+Iteration:   1 / 1000 [  0%]  (Warmup)
+
+Gradient evaluation took 0.004608 seconds
+1000 transitions using 10 leapfrog steps per transition would take 46.08 seconds.
+Adjust your expectations accordingly!
+
+
+Iteration:   1 / 1000 [  0%]  (Warmup)
+Iteration: 100 / 1000 [ 10%]  (Warmup)
+Iteration: 100 / 1000 [ 10%]  (Warmup)
+Iteration: 100 / 1000 [ 10%]  (Warmup)
+Iteration: 100 / 1000 [ 10%]  (Warmup)
+Iteration: 200 / 1000 [ 20%]  (Warmup)
+Iteration: 200 / 1000 [ 20%]  (Warmup)
+Iteration: 200 / 1000 [ 20%]  (Warmup)
+Iteration: 200 / 1000 [ 20%]  (Warmup)
+Iteration: 300 / 1000 [ 30%]  (Warmup)
+Iteration: 300 / 1000 [ 30%]  (Warmup)
+Iteration: 300 / 1000 [ 30%]  (Warmup)
+Iteration: 300 / 1000 [ 30%]  (Warmup)
+Iteration: 400 / 1000 [ 40%]  (Warmup)
+Iteration: 400 / 1000 [ 40%]  (Warmup)
+Iteration: 400 / 1000 [ 40%]  (Warmup)
+Iteration: 400 / 1000 [ 40%]  (Warmup)
+Iteration: 500 / 1000 [ 50%]  (Warmup)
+Iteration: 501 / 1000 [ 50%]  (Sampling)
+Iteration: 500 / 1000 [ 50%]  (Warmup)
+Iteration: 501 / 1000 [ 50%]  (Sampling)
+Iteration: 500 / 1000 [ 50%]  (Warmup)
+Iteration: 501 / 1000 [ 50%]  (Sampling)
+Iteration: 600 / 1000 [ 60%]  (Sampling)
+Iteration: 600 / 1000 [ 60%]  (Sampling)
+Iteration: 500 / 1000 [ 50%]  (Warmup)
+Iteration: 501 / 1000 [ 50%]  (Sampling)
+Iteration: 600 / 1000 [ 60%]  (Sampling)
+Iteration: 700 / 1000 [ 70%]  (Sampling)
+Iteration: 800 / 1000 [ 80%]  (Sampling)
+Iteration: 700 / 1000 [ 70%]  (Sampling)
+Iteration: 600 / 1000 [ 60%]  (Sampling)
+Iteration: 700 / 1000 [ 70%]  (Sampling)
+Iteration: 900 / 1000 [ 90%]  (Sampling)
+Iteration: 800 / 1000 [ 80%]  (Sampling)
+Iteration: 1000 / 1000 [100%]  (Sampling)
+
+ Elapsed Time: 332.338 seconds (Warm-up)
+               145.595 seconds (Sampling)
+               477.933 seconds (Total)
+
+Iteration: 700 / 1000 [ 70%]  (Sampling)
+Iteration: 800 / 1000 [ 80%]  (Sampling)
+Iteration: 900 / 1000 [ 90%]  (Sampling)
+Iteration: 900 / 1000 [ 90%]  (Sampling)
+Iteration: 800 / 1000 [ 80%]  (Sampling)
+Iteration: 1000 / 1000 [100%]  (Sampling)
+
+ Elapsed Time: 317.774 seconds (Warm-up)
+               225.449 seconds (Sampling)
+               543.223 seconds (Total)
+
+Iteration: 1000 / 1000 [100%]  (Sampling)
+
+ Elapsed Time: 333.659 seconds (Warm-up)
+               217.193 seconds (Sampling)
+               550.852 seconds (Total)
+
+Iteration: 900 / 1000 [ 90%]  (Sampling)
+Iteration: 1000 / 1000 [100%]  (Sampling)
+
+ Elapsed Time: 375.233 seconds (Warm-up)
+               204.425 seconds (Sampling)
+               579.658 seconds (Total)
+
+permuted  :::  61.4418451259844
+not_permuted  :::  29.77470558002824
+array  :::  30.616998342971783
+100000 1500 10
+
+Gradient evaluation took 0.002388 seconds
+1000 transitions using 10 leapfrog steps per transition would take 23.88 seconds.
+Adjust your expectations accordingly!
+
+
+
+Gradient evaluation took 0.002611 seconds
+1000 transitions using 10 leapfrog steps per transition would take 26.11 seconds.
+Adjust your expectations accordingly!
+
+
+Iteration:    1 / 1500 [  0%]  (Warmup)
+Iteration:    1 / 1500 [  0%]  (Warmup)
+
+Gradient evaluation took 0.002329 seconds
+1000 transitions using 10 leapfrog steps per transition would take 23.29 seconds.
+Adjust your expectations accordingly!
+
+
+Iteration:    1 / 1500 [  0%]  (Warmup)
+
+Gradient evaluation took 0.008442 seconds
+1000 transitions using 10 leapfrog steps per transition would take 84.42 seconds.
+Adjust your expectations accordingly!
+
+
+Iteration:    1 / 1500 [  0%]  (Warmup)
+Iteration:  150 / 1500 [ 10%]  (Warmup)
+Iteration:  150 / 1500 [ 10%]  (Warmup)
+Iteration:  150 / 1500 [ 10%]  (Warmup)
+Iteration:  150 / 1500 [ 10%]  (Warmup)
+Iteration:  300 / 1500 [ 20%]  (Warmup)
+Iteration:  300 / 1500 [ 20%]  (Warmup)
+Iteration:  300 / 1500 [ 20%]  (Warmup)
+Iteration:  300 / 1500 [ 20%]  (Warmup)
+Iteration:  450 / 1500 [ 30%]  (Warmup)
+Iteration:  450 / 1500 [ 30%]  (Warmup)
+Iteration:  450 / 1500 [ 30%]  (Warmup)
+Iteration:  450 / 1500 [ 30%]  (Warmup)
+Iteration:  600 / 1500 [ 40%]  (Warmup)
+Iteration:  600 / 1500 [ 40%]  (Warmup)
+Iteration:  600 / 1500 [ 40%]  (Warmup)
+Iteration:  600 / 1500 [ 40%]  (Warmup)
+Iteration:  750 / 1500 [ 50%]  (Warmup)
+Iteration:  751 / 1500 [ 50%]  (Sampling)
+Iteration:  750 / 1500 [ 50%]  (Warmup)
+Iteration:  751 / 1500 [ 50%]  (Sampling)
+Iteration:  900 / 1500 [ 60%]  (Sampling)
+Iteration:  750 / 1500 [ 50%]  (Warmup)
+Iteration:  751 / 1500 [ 50%]  (Sampling)
+Iteration:  750 / 1500 [ 50%]  (Warmup)
+Iteration:  751 / 1500 [ 50%]  (Sampling)
+Iteration:  900 / 1500 [ 60%]  (Sampling)
+Iteration: 1050 / 1500 [ 70%]  (Sampling)
+Iteration:  900 / 1500 [ 60%]  (Sampling)
+Iteration:  900 / 1500 [ 60%]  (Sampling)
+Iteration: 1050 / 1500 [ 70%]  (Sampling)
+Iteration: 1200 / 1500 [ 80%]  (Sampling)
+Iteration: 1050 / 1500 [ 70%]  (Sampling)
+Iteration: 1050 / 1500 [ 70%]  (Sampling)
+Iteration: 1350 / 1500 [ 90%]  (Sampling)
+Iteration: 1200 / 1500 [ 80%]  (Sampling)
+Iteration: 1200 / 1500 [ 80%]  (Sampling)
+Iteration: 1200 / 1500 [ 80%]  (Sampling)
+Iteration: 1500 / 1500 [100%]  (Sampling)
+
+ Elapsed Time: 463.047 seconds (Warm-up)
+               336.929 seconds (Sampling)
+               799.976 seconds (Total)
+
+Iteration: 1350 / 1500 [ 90%]  (Sampling)
+Iteration: 1350 / 1500 [ 90%]  (Sampling)
+Iteration: 1350 / 1500 [ 90%]  (Sampling)
+Iteration: 1500 / 1500 [100%]  (Sampling)
+Iteration: 1500 / 1500 [100%]  (Sampling)
+
+ Elapsed Time: 539.301 seconds (Warm-up)
+               328.322 seconds (Sampling)
+               867.622 seconds (Total)
+
+
+ Elapsed Time: 520.407 seconds (Warm-up)
+               347.263 seconds (Sampling)
+               867.67 seconds (Total)
+
+Iteration: 1500 / 1500 [100%]  (Sampling)
+
+ Elapsed Time: 545.849 seconds (Warm-up)
+               337.856 seconds (Sampling)
+               883.705 seconds (Total)
+
+permuted  :::  97.55598508700496
+not_permuted  :::  40.51383197901305
+array  :::  42.56195526395459
+100000 2000 10
+
+Gradient evaluation took 0.002824 seconds
+1000 transitions using 10 leapfrog steps per transition would take 28.24 seconds.
+Adjust your expectations accordingly!
+
+
+Iteration:    1 / 2000 [  0%]  (Warmup)
+
+Gradient evaluation took 0.002559 seconds
+1000 transitions using 10 leapfrog steps per transition would take 25.59 seconds.
+Adjust your expectations accordingly!
+
+
+Iteration:    1 / 2000 [  0%]  (Warmup)
+
+Gradient evaluation took 0.005565 seconds
+1000 transitions using 10 leapfrog steps per transition would take 55.65 seconds.
+Adjust your expectations accordingly!
+
+
+Iteration:    1 / 2000 [  0%]  (Warmup)
+
+Gradient evaluation took 0.0037 seconds
+1000 transitions using 10 leapfrog steps per transition would take 37 seconds.
+Adjust your expectations accordingly!
+
+
+Iteration:    1 / 2000 [  0%]  (Warmup)
+Iteration:  200 / 2000 [ 10%]  (Warmup)
+Iteration:  200 / 2000 [ 10%]  (Warmup)
+Iteration:  200 / 2000 [ 10%]  (Warmup)
+Iteration:  200 / 2000 [ 10%]  (Warmup)
+Iteration:  400 / 2000 [ 20%]  (Warmup)
+Iteration:  400 / 2000 [ 20%]  (Warmup)
+Iteration:  400 / 2000 [ 20%]  (Warmup)
+Iteration:  400 / 2000 [ 20%]  (Warmup)
+Iteration:  600 / 2000 [ 30%]  (Warmup)
+Iteration:  600 / 2000 [ 30%]  (Warmup)
+Iteration:  600 / 2000 [ 30%]  (Warmup)
+Iteration:  600 / 2000 [ 30%]  (Warmup)
+Iteration:  800 / 2000 [ 40%]  (Warmup)
+Iteration:  800 / 2000 [ 40%]  (Warmup)
+Iteration:  800 / 2000 [ 40%]  (Warmup)
+Iteration:  800 / 2000 [ 40%]  (Warmup)
+Iteration: 1000 / 2000 [ 50%]  (Warmup)
+Iteration: 1001 / 2000 [ 50%]  (Sampling)
+Iteration: 1000 / 2000 [ 50%]  (Warmup)
+Iteration: 1001 / 2000 [ 50%]  (Sampling)
+Iteration: 1000 / 2000 [ 50%]  (Warmup)
+Iteration: 1001 / 2000 [ 50%]  (Sampling)
+Iteration: 1000 / 2000 [ 50%]  (Warmup)
+Iteration: 1001 / 2000 [ 50%]  (Sampling)
+Iteration: 1200 / 2000 [ 60%]  (Sampling)
+Iteration: 1200 / 2000 [ 60%]  (Sampling)
+Iteration: 1200 / 2000 [ 60%]  (Sampling)
+Iteration: 1200 / 2000 [ 60%]  (Sampling)
+Iteration: 1400 / 2000 [ 70%]  (Sampling)
+Iteration: 1400 / 2000 [ 70%]  (Sampling)
+Iteration: 1400 / 2000 [ 70%]  (Sampling)
+Iteration: 1400 / 2000 [ 70%]  (Sampling)
+Iteration: 1600 / 2000 [ 80%]  (Sampling)
+Iteration: 1600 / 2000 [ 80%]  (Sampling)
+Iteration: 1600 / 2000 [ 80%]  (Sampling)
+Iteration: 1600 / 2000 [ 80%]  (Sampling)
+Iteration: 1800 / 2000 [ 90%]  (Sampling)
+Iteration: 1800 / 2000 [ 90%]  (Sampling)
+Iteration: 1800 / 2000 [ 90%]  (Sampling)
+Iteration: 1800 / 2000 [ 90%]  (Sampling)
+Iteration: 2000 / 2000 [100%]  (Sampling)
+
+ Elapsed Time: 724.193 seconds (Warm-up)
+               445.369 seconds (Sampling)
+               1169.56 seconds (Total)
+
+Iteration: 2000 / 2000 [100%]  (Sampling)
+
+ Elapsed Time: 691.871 seconds (Warm-up)
+               500.433 seconds (Sampling)
+               1192.3 seconds (Total)
+
+Iteration: 2000 / 2000 [100%]  (Sampling)
+
+ Elapsed Time: 726.5 seconds (Warm-up)
+               483.037 seconds (Sampling)
+               1209.54 seconds (Total)
+
+Iteration: 2000 / 2000 [100%]  (Sampling)
+
+ Elapsed Time: 733.499 seconds (Warm-up)
+               480.567 seconds (Sampling)
+               1214.07 seconds (Total)
+
+permuted  :::  134.40779674705118
+not_permuted  :::  53.92271121800877
+array  :::  53.743745467974804
+Ending: 2018-11-10 13:22:33.049318
+Duration:  2:25:28.866290
+Done

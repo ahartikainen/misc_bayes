@@ -53,6 +53,7 @@ if __name__ == '__main__':
             t_array = timeit.timeit("fit.extract(permuted=False)", 'gc.enable(); from __main__ import fit', number=k)
 
             timing_dict[(n, s)] = [t_permuted, t_not_permuted, t_array, k]
+            [print(s, " ::: ", item) for s,item in zip(['permuted', 'not_permuted', 'array'],timing_dict[(n,s)])]
             gc.collect()
 
     with open(path.format("timing_{}".format(i)), "wb") as f:
