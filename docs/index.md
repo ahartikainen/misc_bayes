@@ -11,3 +11,9 @@
 [Bokeh: 2D KDE (kdeplot) contour](https://ahartikainen.github.io/misc_bayes/kde_2D_contour_True_cmap_inferno_fill_last_False.html)
 
 [Bokeh: 2D KDE (kdeplot) contour fill last](https://ahartikainen.github.io/misc_bayes/kde_2D_contour_True_cmap_viridis_fill_last_True.html)  
+
+# New plots
+
+[Bokeh customization: The notebook code](https://ahartikainen.github.io/misc_bayes/arviz_bokeh_customization.html)  
+
+[Bokeh customization: 3 columns](https://ahartikainen.github.io/misc_bayes/three_column_plot.html)  
