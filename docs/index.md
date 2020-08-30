@@ -17,3 +17,8 @@
 [Bokeh customization: The notebook code](https://ahartikainen.github.io/misc_bayes/arviz_bokeh_customization.html)  
 
 [Bokeh customization: 3 columns](https://ahartikainen.github.io/misc_bayes/three_column_plot.html)  
+
+# Diagnostics difference (ArviZ, posterior)
+
+[Posterior - ArviZ difference: git](https://ahartikainen.github.io/misc_bayes/saved_boxplots_git.html)
+[Posterior - ArviZ difference: pypi/cran](https://ahartikainen.github.io/misc_bayes/saved_boxplots_pip-cran.html)
