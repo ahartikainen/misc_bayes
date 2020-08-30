@@ -21,4 +21,5 @@
 # Diagnostics difference (ArviZ, posterior)
 
 [Posterior - ArviZ difference: git](https://ahartikainen.github.io/misc_bayes/saved_boxplots_git.html)
+
 [Posterior - ArviZ difference: pypi/cran](https://ahartikainen.github.io/misc_bayes/saved_boxplots_pip-cran.html)
